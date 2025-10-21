@@ -444,4 +444,151 @@ Contenido esperado de Clara:
 
 ══════════════════════════════════════════════════════════════════
 ESTRATEGIA #1: TESTAMENTO ESTRUCTURADO (Pilar Central)
-══════════════════════════════════════════════════════════════Eidad me
+══════════════════════════════════════════════════════════════
+📋 ESTRUCTURA RECOMENDADA DEL TESTAMENTO:
+
+I. DISPOSICIONES PRELIMINARES
+├─ Revocación de testamentos anteriores
+├─ Declaración de capacidad mental (con certificado médico adjunto)
+├─ Identificación completa de herederos forzosos
+├─ Reconocimiento de hijo del primer matrimonio
+└─ Declaración de bienes con valores actualizados
+
+II. LEGÍTIMAS Y DISTRIBUCIÓN BASE
+├─ Cumplimiento estricto de legítimas según ley aplicable
+├─ Esposa: Porción conyugal garantizada + usufructo vitalicio vivienda
+├─ Cada hijo: Legítima correspondiente
+└─ Justificación de distribución diferenciada (si aplica)
+
+III. DISPOSICIONES ESPECIALES SOBRE EL NEGOCIO FAMILIAR
+
+Opción A - Adjudicación a Hijo A con Compensación:
+┌─────────────────────────────────────────────────────────────────┐
+│ "Adjudico el 80% de participación en [Nombre Empresa PYME]      │
+│ a mi hijo [Hijo A], valorada en $600,000, en reconocimiento de: │
+│                                                                  │
+│ 1. Su dedicación de 15 años al negocio                           │
+│ 2. Inversiones documentadas de $150,000 (ver Anexo A)           │
+│ 3. Conocimiento y relaciones comerciales críticas               │
+│                                                                  │
+│ Como compensación a los demás herederos:                         │
+│ • Hijo A pagará a cada coheredero $XXX en 5 anualidades         │
+│ • Garantía hipotecaria sobre activos del negocio                │
+│ • Interés del X% anual sobre saldo pendiente                    │
+│                                                                  │
+│ Si Hijo A no puede/quiere asumir esta obligación:               │
+│ • El negocio se venderá a terceros en subasta                   │
+│ • Producto de venta se distribuirá según legítimas              │
+└─────────────────────────────────────────────────────────────────┘
+
+Opción B - Fideicomiso Empresarial:
+┌─────────────────────────────────────────────────────────────────┐
+│ "El negocio se transmite a un FIDEICOMISO EMPRESARIAL con:      │
+│                                                                  │
+│ Fideicomitente: Padre (causante)                                │
+│ Fiduciario: [Institución financiera] + Comité Familiar          │
+│ Fideicomisarios: Los 4 hijos en partes iguales                  │
+│                                                                  │
+│ Condiciones:                                                     │
+│ • Hijo A: Director General con sueldo de mercado                │
+│ • Utilidades distribuidas anualmente según % participación      │
+│ • Decisiones estratégicas por mayoría (3 de 4 votos)            │
+│ • Plazo: 10 años, luego evaluación de continuidad               │
+│ • Cláusula de compra: Hijo A puede adquirir participaciones     │
+│   de hermanos según valuación independiente cada 3 años         │
+└─────────────────────────────────────────────────────────────────┘
+
+IV. PROTECCIÓN DE LA ESPOSA
+├─ Usufructo vitalicio de vivienda principal ($450K)
+├─ Propiedad del apartamento en alquiler ($280K) [genera renta]
+├─ Porción en inversiones financieras ($150K adicionales)
+├─ Total asegurado para esposa: $880K (52% del patrimonio)
+└─ Garantía: No puede ser desplazada de vivienda bajo ninguna circunstancia
+
+V. DISPOSICIONES SOBRE OTROS ACTIVOS
+
+Inversiones Financieras ($350K total):
+├─ Esposa: $150K (asignación directa)
+├─ Hijo C: $100K (en fideicomiso con distribuciones mensuales)
+├─ Hija B: $100K (libre disposición)
+└─ Justificación: Hijo C recibe en fideicomiso para protegerlo de acreedores
+
+Apartamento en Alquiler ($280K):
+├─ Asignado a esposa (genera ingreso mensual $1,500)
+└─ A su fallecimiento, se distribuye entre los 4 hijos
+
+Vivienda Principal ($450K):
+├─ Nuda propiedad: 4 hijos en partes iguales
+├─ Usufructo vitalicio: Esposa
+└─ Implicación: Esposa vive allí hasta su fallecimiento, luego hijos heredan
+
+VI. RECONOCIMIENTO DE APORTES DE HIJO A
+┌─────────────────────────────────────────────────────────────────┐
+│ "Hago constar que mi hijo [Hijo A] ha realizado las siguientes  │
+│ inversiones y aportes al negocio familiar:                       │
+│                                                                  │
+│ • Inversión de capital: $150,000 (ver auditoría Anexo A)        │
+│ • 15 años de dedicación profesional exclusiva                    │
+│ • Desarrollo de cartera de clientes (60% de ingresos actuales)  │
+│ • Innovaciones que incrementaron rentabilidad en 40%            │
+│                                                                  │
+│ Por ello, la adjudicación preferente del negocio o su           │
+│ designación como Director del fideicomiso empresarial           │
+│ constituye RECONOCIMIENTO JUSTO y NO favoritismo.               │
+└─────────────────────────────────────────────────────────────────┘
+
+VII. CLÁUSULAS DE PROTECCIÓN Y ARMONÍA FAMILIAR
+
+Cláusula de Arbitraje Obligatorio:
+"Cualquier disputa sobre interpretación de este testamento será resuelta 
+mediante ARBITRAJE FAMILIAR ante [Institución], con renuncia expresa a 
+vía judicial. Honorarios de arbitraje pagados por el patrimonio sucesorio."
+
+Cláusula de Desheredación Condicional:
+"Si algún heredero impugna este testamento sin causa legal justificada, 
+perderá su derecho a porción de libre disposición (no afecta legítima)."
+
+Cláusula de No Enajenación Temporal (Hijo C):
+"La participación de [Hijo C] en bienes hereditarios estará sujeta a 
+prohibición de enajenar/gravar por 5 años, salvo autorización judicial 
+fundada en necesidad extrema. [REQUIERE VALIDACIÓN LEGAL JURISDICCIONAL]"
+
+VIII. DESIGNACIONES OPERATIVAS
+├─ Albacea: [Nombre], con facultades de administración y representación
+├─ Albacea suplente: [Nombre]
+├─ Contador partidor: Profesional CPA independiente
+├─ Tutor testamentario (si aplica para menores): N/A
+└─ Interventor de negocio (temporal): Hijo A durante proceso sucesorio
+
+IX. CARTA ÉTICA / LEGADO PERSONAL
+[Documento separado, no vinculante legalmente pero moralmente poderoso]
+
+"A mis queridos hijos:
+
+Este testamento refleja mis decisiones después de mucha reflexión. 
+No es perfecto, porque ninguna distribución satisfará completamente a todos.
+
+Hijo A: Te adjudico el negocio porque lo has construido conmigo. 
+Sin ti, valía $300K; contigo, vale $600K. Es justicia, no favoritismo.
+
+Hijo C: Tu herencia está en fideicomiso porque te amo y quiero protegerte 
+de decisiones impulsivas en momento de dolor. Es amor, no desconfianza.
+
+Hija B: Tu camino ha sido exitoso e independiente. Confío en que este 
+capital lo multiplicarás.
+
+Hijo de mi primer matrimonio: No te conocí como hubiera querido, pero 
+te respeto y honro tu derecho legal.
+
+Mi esposa: Gracias por estos 30 años. Esta distribución asegura tu vejez 
+con dignidad.
+
+Lo más importante: MANTENGAN LA UNIÓN FAMILIAR. El dinero se gasta, 
+pero la familia es para siempre. Si se pelean por esto, habré fracasado.
+
+Con todo mi amor, [Nombre del Padre]"
+
+══════════════════════════════════════════════════════════════════
+ESTRATEGIA #2: DONACIONES EN VIDA (Optimización Fiscal)
+══════════════════════════════════════════════════════════════════
+

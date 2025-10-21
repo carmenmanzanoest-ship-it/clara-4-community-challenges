@@ -1,4 +1,4 @@
-⚖️ Challenge #3: Planificación Estratégica de Herencia Familiar Compleja
+⚖️ Challcapacidaacidados Planificación Estratégica de Herencia Familiar Compleja
 🎯 Objetivo del Challenge
 Demostrar cómo Clara 4.0 Community Edition analiza situaciones legales complejas, identifica riesgos y diseña estrategias preventivas fundamentadas en principios jurídicos (sin sustituir asesoría legal profesional).
 📋 Contexto del Escenario
@@ -235,7 +235,7 @@ CATEGORÍA 1: RIESGOS LEGALES
 ══════════════════════════════════════════════════════════════════
 
 R-L1 [Score: 20 - CRÍTICO] 🔴
-├─ Riesgo: Litigio entre herederos por partición
+├─ Riesgo: Litigio entre capacidaacidados por partición
 ├─ Probabilidad: Muy Alta (5/5)
 ├─ Impacto: Crítico (4/5)
 ├─ Detonante: Desacuerdos sobre valor/distribución de negocio
@@ -444,10 +444,4 @@ Contenido esperado de Clara:
 
 ══════════════════════════════════════════════════════════════════
 ESTRATEGIA #1: TESTAMENTO ESTRUCTURADO (Pilar Central)
-══════════════════════════════════════════════════════════════════
-
-📋 ESTRUCTURA RECOMENDADA DEL TESTAMENTO:
-
-I. DISPOSICIONES PRELIMINARES
-├─ Revocación de testamentos anteriores
-├─ Declaración de capacidad me
+══════════════════════════════════════════════════════════════Eidad me

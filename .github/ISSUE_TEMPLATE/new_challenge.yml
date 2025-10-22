@@ -34,9 +34,9 @@ body:
     attributes:
       label: "Nivel de Complejidad Estimado"
       options:
-        - "⭐⭐⭐ (Medio)"
-        - "⭐⭐⭐⭐ (Alto)"
-        - "⭐⭐⭐⭐⭐ (Muy Alto)"
+        - label: "⭐⭐⭐ (Medio)"
+        - label: "⭐⭐⭐⭐ (Alto)"
+        - label: "⭐⭐⭐⭐⭐ (Muy Alto)"
     validations:
       required: true
 
@@ -93,16 +93,16 @@ body:
       label: "Capacidades de Clara 4.0 a Demostrar"
       description: "Marca todas las que apliquen"
       options:
-        - "Diagnóstico de sistemas complejos"
-        - "Optimización de procesos"
-        - "Gestión del cambio organizacional"
-        - "Análisis de riesgos multidimensional"
-        - "Planificación estratégica"
-        - "Análisis de viabilidad (financiera/operativa)"
-        - "Benchmarking sectorial"
-        - "Diseño de KPIs y dashboards"
-        - "Selección y evaluación de tecnología"
-        - "Gestión de stakeholders"
+        - label: "Diagnóstico de sistemas complejos"
+        - label: "Optimización de procesos"
+        - label: "Gestión del cambio organizacional"
+        - label: "Análisis de riesgos multidimensional"
+        - label: "Planificación estratégica"
+        - label: "Análisis de viabilidad (financiera/operativa)"
+        - label: "Benchmarking sectorial"
+        - label: "Diseño de KPIs y dashboards"
+        - label: "Selección y evaluación de tecnología"
+        - label: "Gestión de stakeholders"
 
   - type: textarea
     id: methodologies
@@ -168,13 +168,13 @@ body:
       label: "Audiencia Objetivo"
       description: "¿Quiénes se beneficiarían de este challenge?"
       options:
-        - "Consultores estratégicos"
-        - "Gerentes de operaciones / Supply Chain"
-        - "Directores de transformación"
-        - "Académicos / Investigadores"
-        - "Estudiantes de MBA / Posgrado"
-        - "Emprendedores / Fundadores"
-        - "Otro (especificar abajo)"
+        - label: "Consultores estratégicos"
+        - label: "Gerentes de operaciones / Supply Chain"
+        - label: "Directores de transformación"
+        - label: "Académicos / Investigadores"
+        - label: "Estudiantes de MBA / Posgrado"
+        - label: "Emprendedores / Fundadores"
+        - label: "Otro (especificar abajo)"
 
   - type: textarea
     id: references
@@ -200,9 +200,9 @@ body:
       label: "Sensibilidad Legal/Ética"
       description: "¿Qué nivel de disclaimers requiere?"
       options:
-        - "Bajo - Tema general sin implicaciones legales complejas"
-        - "Medio - Requiere disclaimers estándar"
-        - "Alto - Requiere disclaimers robustos y validación especializada"
+        - label: "Bajo - Tema general sin implicaciones legales complejas"
+        - label: "Medio - Requiere disclaimers estándar"
+        - label: "Alto - Requiere disclaimers robustos y validación especializada"
 
   - type: textarea
     id: disclaimers
@@ -220,10 +220,10 @@ body:
       label: "Nivel de Contribución Ofrecida"
       description: "¿Cómo te gustaría participar?"
       options:
-        - "Puedo co-crear el challenge completo (40+ horas)"
-        - "Puedo proporcionar contexto y revisión (10-15 horas)"
-        - "Puedo validar la propuesta final (5 horas)"
-        - "Solo quiero sugerir la idea"
+        - label: "Puedo co-crear el challenge completo (40+ horas)"
+        - label: "Puedo proporcionar contexto y revisión (10-15 horas)"
+        - label: "Puedo validar la propuesta final (5 horas)"
+        - label: "Solo quiero sugerir la idea"
     validations:
       required: true
 
@@ -231,32 +231,4 @@ body:
     id: expertise
     attributes:
       label: "Tu Experiencia en el Tema"
-      description: "Breve descripción de tu conocimiento/experiencia"
-      placeholder: |
-        Ej: "10 años como Supply Chain Manager en manufactura automotriz, 
-        certificación CPIM (APICS), implementé 5 proyectos de optimización 
-        con resultados promedio de -25% en costos logísticos."
-
-  - type: input
-    id: contact
-    attributes:
-      label: "Información de Contacto (Opcional)"
-      description: "Email o LinkedIn para coordinación"
-      placeholder: "email@ejemplo.com o linkedin.com/in/usuario"
-
-  - type: checkboxes
-    id: checklist
-    attributes:
-      label: "Checklist de Calidad"
-      description: "Confirma antes de enviar"
-      options:
-        - label: "Es un problema real y relevante profesionalmente"
-          required: true
-        - label: "Tiene complejidad suficiente para demostrar capacidades de Clara 4.0"
-          required: true
-        - label: "No es redundante con challenges existentes"
-          required: true
-        - label: "Está fundamentado en metodologías reconocidas"
-          required: true
-        - label: "He leído la [Guía de Contribución](https://github.com/usuario/repo/blob/main/CONTRIBUTING.md)"
-          required: true
+      description:

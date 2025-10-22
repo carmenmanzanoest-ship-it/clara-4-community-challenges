@@ -1,0 +1,61 @@
+📄 .github/ISSUE_TEMPLATE/question.yml
+name: ❓ Pregunta
+description: Hacer una pregunta sobre el repositorio o los challenges
+title: "[QUESTION] "
+labels: ["question"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Antes de preguntar, revisa si tu duda está respondida en:
+        - [FAQ.md](https://github.com/usuario/repo/blob/main/FAQ.md)
+        - [README.md](https://github.com/usuario/repo/blob/main/README.md)
+        - [CONTRIBUTING.md](https://github.com/usuario/repo/blob/main/CONTRIBUTING.md)
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Categoría de la Pregunta
+      options:
+        - Uso y aplicación de challenges
+        - Aspectos legales / Disclaimers
+        - Licencia y permisos
+        - Contribuciones
+        - Aspectos técnicos
+        - Propuesta comercial / Colaboración
+        - Otro
+    validations:
+      required: true
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Tu Pregunta
+      description: Sé lo más específico posible
+      placeholder: |
+        Ejemplo:
+        "¿Puedo usar el Challenge #3 como base para un servicio de consultoría 
+        en planificación patrimonial que ofreceré a clientes, adaptándolo a 
+        cada caso específico?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto Adicional
+      description: ¿Por qué haces esta pregunta? ¿Qué intentas lograr?
+      placeholder: |
+        Estoy desarrollando un servicio de consultoría y quiero asegurarme 
+        de cumplir con la licencia correctamente...
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: He revisado el FAQ y no encontré la respuesta
+          required: true
+        - label: Mi pregunta es específica y clara
+          required: true

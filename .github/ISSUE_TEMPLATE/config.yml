@@ -1,0 +1,12 @@
+📄 .github/config.yml (Configuración de Templates)
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discusiones Generales
+    url: https://github.com/usuario/clara-4-challenges/discussions
+    about: Para conversaciones abiertas, ideas, y feedback general
+  - name: 📧 Contacto Directo
+    url: mailto:tu-email@dominio.com
+    about: Para consultas privadas o propuestas comerciales
+  - name: 📚 Documentación
+    url: https://github.com/usuario/clara-4-challenges/blob/main/README.md
+    about: Lee la documentación completa del proyecto

@@ -595,4 +595,54 @@ PERFIL DE EGRESO POR COMPETENCIAS (Marco institucional):
 
 Todo egresado de URSM, independiente de su carrera, será capaz de:
 
-1. SABER 
+1. SABER (Conocimientos):
+   ├─ Dominar fundamentos teóricos de su disciplina
+   └─ Comprender contexto social, económico, tecnológico actual
+
+2. SABER HACER (Habilidades):
+   ├─ Aplicar conocimientos para resolver problemas complejos
+   ├─ Utilizar tecnologías y herramientas de su campo profesional
+   ├─ Comunicar ideas de manera clara y persuasiva
+   ├─ Trabajar efectivamente en equipos diversos
+   ├─ Gestionar proyectos y recursos
+   └─ Aprender de manera autónoma y continua
+
+3. SABER SER (Actitudes y Valores):
+   ├─ Actuar con integridad y responsabilidad ética
+   ├─ Demostrar compromiso con el desarrollo sostenible
+   ├─ Valorar la diversidad y practicar inclusión
+   ├─ Mostrar liderazgo y proactividad
+   └─ Adaptarse ágilmente a cambios y nuevos contextos
+
+4. SABER CONVIVIR (Competencias Sociales):
+   ├─ Colaborar efectivamente con otros profesionales
+   ├─ Contribuir al bien común y desarrollo regional
+   └─ Ejercer ciudadanía activa y responsable
+
+3️⃣ EVALUACIÓN AUTÉNTICA Y FORMATIVA
+
+Transformación del sistema de evaluación:
+
+❌ ELIMINAR gradualmente:
+- Exámenes memorísticos de opción múltiple (excepto casos justificados)
+- Evaluación solo sumativa al final del curso
+- Calificación sin retroalimentación formativa
+
+✅ IMPLEMENTAR progresivamente:
+- Rúbricas de evaluación (criterios claros y transparentes)
+- Evaluación por portafolio de evidencias
+- Co-evaluación y auto-evaluación (metacognición)
+- Evaluación continua con retroalimentación frecuente
+- Evaluación auténtica: desempeño en situaciones reales
+- Badges digitales y micro-credentials (reconocimiento granular)
+
+Ejemplo de Rúbrica Institucional (Pensamiento Crítico):
+
+│ Nivel      │ Identificación  │ Análisis        │ Síntesis        │ Evaluación      │
+│────────────│─────────────────│─────────────────│─────────────────│─────────────────│
+│ Excelente  │ Identifica todos│ Analiza con     │ Sintetiza       │ Evalúa crít.    │
+│ (4)        │ elementos       │ profundidad     │ integrando      │ con evidencia   │
+│            │ relevantes      │ relaciones      │ múltiples fuentes│ sólida          │
+│────────────│─────────────────│─────────────────│─────────────────│─────────────────│
+│ Competente │ Identifica      │ Analiza aspectos│ Sintetiza con   │ Evalúa con      │
+

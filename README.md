@@ -433,7 +433,7 @@ Formato de contribución:
 🔄 Proceso de Contribución
 Paso 1: Contacto Inicial
 GitHub Issues: Abre un issue con etiqueta apropiada (bug, enhancement, new-challenge, documentation)
-Email: [tu-email@dominio.com] con asunto "Contribución Clara 4.0 - [Tipo]"
+Email: controlsafemail.365@keemail.me con asunto "Contribución Clara 4.0 - [Tipo]"
 LinkedIn: Mensaje directo con propuesta breve
 Paso 2: Evaluación
 Revisión de propuesta en 5-7 días hábiles

@@ -1,4 +1,4 @@
-📄 LICENSE.md - 
+htpsps LICENSE.md - 
 # Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License  
 # Licencia Internacional Creative Commons Atribución-NoComercial-SinDerivadas 4.0
 
@@ -102,7 +102,7 @@ Al compartir este trabajo, por favor incluya:
 Si está interesado en utilizar este material con fines comerciales, por favor contacte a:
 - **Carmen Delia Manzano**
 - Email: controlsafemail.365@keemail.me
-- LinkedIn: htps://linkedin.com/in/carmen-delia-manzano
+- LinkedIn: https://linkedin.com/in/carmen-delia-manzano
 
 Código legal completo: [https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es)
 

@@ -212,8 +212,7 @@ A menos que el enlace apunte a contenido claramente malicioso
 Security Contact:
 Carmen Delia Manzano
 Canales de Contacto:
-Email prioritario: [security-email@dominio.com]
-Email alternativo: [tu-email@dominio.com]
+Email prioritario: controlsafemail.365@keemail.me email alternativo: controlsafemail.365@keemail.me
 PGP Key: Disponible bajo solicitud
 LinkedIn: Solo para coordinación, no para reportes iniciales
 Respuesta esperada:

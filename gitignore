@@ -41,4 +41,350 @@ $RECYCLE.BIN/
 *.lnk
 
 # Linux
+
+# ============================================
+# Editores y IDEs
+# ============================================
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+.history/
+
+# JetBrains IDEs (IntelliJ, PyCharm, WebStorm, etc.)
+.idea/
+*.iml
+*.iws
+out/
+.idea_modules/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+Sessionx.vim
+.netrwhist
 *~
+tags
+[._]*.un~
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# ============================================
+# Archivos de Trabajo Temporal
+# ============================================
+
+# Archivos temporales de Office
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.tmp
+
+# Archivos de respaldo
+*.bak
+*.backup
+*.old
+*.orig
+*-old.*
+*-backup.*
+
+# Archivos de borrador (no publicables)
+*-draft.*
+*-borrador.*
+*-wip.*
+DRAFT_*
+BORRADOR_*
+WIP_*
+
+# ============================================
+# Archivos de Configuración Local
+# ============================================
+
+# Configuración personal (no compartir)
+.env
+.env.local
+.env.*.local
+config.local.*
+settings.local.*
+
+# Credenciales (NUNCA commitear)
+credentials.json
+secrets.json
+*.key
+*.pem
+*.p12
+*.pfx
+
+# ============================================
+# Archivos de Build y Dependencias
+# ============================================
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+ENV/
+env/
+
+# ============================================
+# Archivos de Logs y Debugging
+# ============================================
+
+# Logs generales
+*.log
+logs/
+*.log.*
+log-*.txt
+
+# Debug
+debug/
+*.debug
+.vscode/launch.json
+
+# ============================================
+# Archivos Específicos del Proyecto
+# ============================================
+
+# Archivos privados (datos sensibles, casos reales no anonimizados)
+/private/
+/confidential/
+/personal-cases/
+*-confidential.*
+*-private.*
+
+# Archivos en progreso (challenges no terminados)
+/work-in-progress/
+/drafts/
+*-incomplete.*
+
+# Versiones anteriores (mantener solo la actual)
+/old-versions/
+/archive/
+*-v0.*
+*-deprecated.*
+
+# Archivos de revisión interna (no publicar)
+/internal-review/
+/peer-review/
+*-review.*
+*-feedback.*
+
+# ============================================
+# Archivos Multimedia Pesados
+# ============================================
+
+# Videos (no incluir en repo, usar enlaces)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.flv
+
+# Audio
+*.mp3
+*.wav
+*.flac
+*.aac
+
+# Imágenes de alta resolución (optimizar antes de commitear)
+*-original.*
+*-highres.*
+*-4k.*
+
+# ============================================
+# Archivos de Testing y Validación
+# ============================================
+
+# Tests en progreso
+/tests-wip/
+test-results/
+coverage/
+.nyc_output/
+
+# Datos de prueba sensibles
+test-data-private/
+*-test-confidential.*
+
+# ============================================
+# Archivos de Documentación Temporal
+# ============================================
+
+# Notas personales
+notes.md
+notas.md
+TODO.md
+PENDIENTE.md
+scratch.md
+
+# Documentación en progreso
+*-notes.*
+*-brainstorm.*
+*-ideas.*
+
+# ============================================
+# Archivos de Presentaciones (excepto finales)
+# ============================================
+
+# PowerPoint/Google Slides exportados (preferir enlaces)
+*.pptx
+*.ppt
+*.key
+
+# PDFs generados (mantener solo versiones finales)
+*-draft.pdf
+*-borrador.pdf
+*-v*.pdf
+
+# ============================================
+# Bases de Datos y Archivos Grandes
+# ============================================
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+
+# Archivos CSV grandes (preferir enlaces o samples)
+*-full.csv
+*-complete.csv
+*-raw-data.csv
+
+# Excel grandes
+*-dataset.xlsx
+*-full-data.xlsx
+
+# ============================================
+# Archivos de Compresión
+# ============================================
+
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.bz2
+*.xz
+
+# ============================================
+# Caché y Archivos Temporales de Markdown
+# ============================================
+
+# Jekyll (si se usa para GitHub Pages)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Hugo (si se usa para site estático)
+/public/
+/resources/_gen/
+
+# MkDocs
+site/
+
+# ============================================
+# Archivos de Control de Versiones
+# ============================================
+
+# Git
+*.orig
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*_BACKUP_*.txt
+*_BASE_*.txt
+*_LOCAL_*.txt
+*_REMOTE_*.txt
+
+# ============================================
+# Archivos Específicos de macOS
+# ============================================
+
+# Archivos de sincronización de iCloud
+*.icloud
+
+# ============================================
+# Otros
+# ============================================
+
+# Thumbnails
+*.thumb
+
+# Lock files
+*.lock
+
+# Patch files
+*.patch
+
+# Diff files
+*.diff
+
+# ===========================================
+# PERMITIR EXPLÍCITAMENTE (Excepciones)
+# ===========================================
+
+# Imágenes optimizadas de challenges (SI incluir)
+!/images/challenge2/*.png
+!/images/challenge2/*.jpg
+!/images/challenge3/*.png
+!/images/challenge3/*.jpg
+!/images/challenge4/*.png
+!/images/challenge4/*.jpg
+
+# Documentos finales (SI incluir)
+!challenge*.md
+!README.md
+!LICENSE.md
+!CONTRIBUTING.md
+!CODE_OF_CONDUCT.md
+!CHANGELOG.md
+
+# Plantillas y ejemplos (SI incluir)
+!/templates/
+!/examples

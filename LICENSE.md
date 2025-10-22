@@ -156,7 +156,7 @@ Para preguntas sobre esta licencia o para solicitar permisos más allá del alca
 
 **Carmen Delia Manzano**  
 Email: controlsafemail.365@keemail.me
-LinkedIn: (https://linkedin.com/in/carmendeliamanzano)
+LinkedIn: https://www.linkedin.com/in/carmen-delia-manzano
 
 ---
 

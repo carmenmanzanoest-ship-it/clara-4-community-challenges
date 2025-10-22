@@ -1,3 +1,23 @@
+<div align="center">
+
+# 🧩 Clara 4.0 Community Edition  
+## 🔒 Política de Seguridad  
+
+**Author:** Carmen Delia Manzano  
+**License:** CC BY-NC-ND 4.0  
+**Version:** 1.0  
+**Year:** 2025  
+
+</div>
+
+---
+
+
+
+
+
+
+
 📄 SECURITY.md
 # 🔒 Política de Seguridad - Clara 4.0 Community Edition
 

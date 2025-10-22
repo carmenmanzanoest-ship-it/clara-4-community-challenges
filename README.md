@@ -538,7 +538,7 @@ Carmen Delia Manzano
 Vías de contacto:
 GitHub Issues: Repositorio/Issues
 Email: controlsafemail.365@keemail.me
-LinkedIn: linkedin.com/in/carmen-delia-manzano
+LinkedIn: https://www.linkedin.com/in/carmen-delia-manzano
 Tiempos de respuesta esperados:
 Issues críticos (bugs que afectan usabilidad): 2-3 días hábiles
 Propuestas de nuevos challenges: 5-7 días hábiles
@@ -679,7 +679,7 @@ Este Código de Conducta aplica tanto dentro de los espacios del proyecto como e
 Instancias de comportamiento abusivo, acosador o inaceptable pueden ser reportadas contactando a:
 
 **Carmen Delia Manzano**  
-- Email: [tu-email@dominio.com]
+- Email: controlsafemail.365@keemail.me
 - LinkedIn: [Mensaje privado](https://linkedin.com/in/carmendeliamanzano)
 - Asunto del email: "CODE OF CONDUCT VIOLATION - Clara 4.0"
 

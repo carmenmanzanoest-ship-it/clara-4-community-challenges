@@ -642,3 +642,9 @@ Antes de enviar, confirma:
 ---
 
 **Muchas gracias por contribuir a Clara 4.0 Community Edition! 🚀**
+
+
+---
+
+*Last updated / Última actualización: 22 October 2025*  
+*Versión: 1.0 – Security Policy maintained by Clara 4.0 Community Edition Team*

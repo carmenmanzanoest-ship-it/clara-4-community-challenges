@@ -931,7 +931,7 @@ Paso 2: Pre-comunicación Individual (Opcional)
 ├─ Reunión privada Padre + Hijo A: Explicar plan del negocio, prepararlo
 ├─ Reunión privada Padre + Esposa: Explicar protección económica
 ├─ Objetivo: Aliados clave entienden y apoyan el plan antes de reunión general
-└─ [CRITERIO] Recomendado si se anticipan resistencias fuertes
+└─ [CRIHijoomendado si se anticipan resistencias fuertes
 
 📅 FASE 2: COMUNICACIÓN GENERAL (Semana 3)
 
@@ -1135,4 +1135,67 @@ Semana 5-6:
 ✓ Redacción completa del testamento (con abogado)
   └─ Todas las cláusulas detalladas en Estrategia #1
   └─ Anexos: avalúos, auditoría inversiones Hijo A
-r
+ └─ Carta ética del padre (documento separado)
+
+✓ Diseño del Holding Familiar (si se opta por reorganización)
+  └─ Estatutos sociales
+  └─ Pacto de socios con cláusulas sucesorias
+  └─ Asignación de participaciones: Padre 60%, Hijo A 30%, Esposa 10%
+
+✓ Diseño del Fideicomiso para Hijo C
+  └─ Contrato de fideicomiso testamentario
+  └─ Instrucciones específicas de distribución
+  └─ Selección de institución fiduciaria
+
+Semana 7-8:
+✓ Revisión legal integral de todos los documentos
+  └─ Validación de legalidad y coherencia
+  └─ Ajustes finales
+
+✓ Preparación de materiales para reunión familiar
+  └─ Presentación PowerPoint
+  └─ Documentos de respaldo
+  └─ Guion de conversación
+
+INVERSIÓN MES 2: $15,000-$20,000
+ENTREGABLES: Testamento completo, documentos societarios, fideicomiso
+
+══════════════════════════════════════════════════════════════════
+MES 3: COMUNICACIÓN Y FORMALIZACIÓN INICIAL
+══════════════════════════════════════════════════════════════════
+
+Semana 9-10:
+✓ REUNIÓN FAMILIAR FACILITADA (Semana 10)
+  └─ Protocolo completo descrito en sección anterior
+  └─ Duración: 2-3 horas
+  └─ Resultado esperado: Comprensión y aceptación (aunque no total acuerdo)
+
+✓ Reuniones individuales de seguimiento (post-reunión)
+  └─ Padre + abogado disponibles para aclarar dudas privadas
+  └─ Especial atención a resistencias
+
+Semana 11-12:
+✓ Firma del testamento ante notario público
+  └─ Presencia: Padre, notario, testigos
+  └─ Certificado médico de capacidad mental adjunto
+  └─ Original queda en protocolo notarial
+
+✓ Inicio de donaciones en vida (primera tranche)
+  └─ $15,000 a cada uno de los 4 hijos (si exento de impuestos)
+  └─ Escrituración ante notario
+  └─ Total año 1: $60,000 donados
+
+✓ Contratación de seguros de vida
+  └─ Póliza 1: Liquidez patrimonial ($150K)
+  └─ Póliza 2: Hijo C ($150K)
+  └─ Póliza 3: Hijo A - Compra negocio ($450K)
+  └─ Inicio de pago de primas: $15,000-$21,000/año
+
+INVERSIÓN MES 3: $25,000-$35,000 (incluye donaciones)
+HITOS: Testamento firmado ✅ | Familia informada ✅ | Seguros activos ✅
+
+══════════════════════════════════════════════════════════════════
+MES 4-5: REORGANIZACIÓN EMPRESARIAL (Si aplica)
+══════════════════════════════════════════════════════════════════
+
+Semana 13-16:

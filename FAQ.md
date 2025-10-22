@@ -293,3 +293,56 @@ Sí, puedes:
 ```bash
 git clone https://github.com/usuario/clara-4-challenges.git
 O descargar como ZIP desde GitHub.
+
+
+📞 Contacto
+¿Cómo contacto a la autora?
+Carmen Delia Manzano
+Email: [tu-email@dominio.com]
+LinkedIn: linkedin.com/in/carmendeliamanzano
+GitHub Issues: Para reportes técnicos y sugerencias
+¿Cuánto tarda en responder consultas?
+Tiempos esperados:
+Issues críticos (bugs): 2-3 días hábiles
+Propuestas de challenges: 5-7 días hábiles
+Consultas generales: 10-15 días hábiles
+Solicitudes de licenciamiento comercial: 5-7 días hábiles
+¿Ofrecen capacitaciones o workshops sobre Clara 4.0?
+Consulta disponibilidad de:
+Workshops corporativos sobre uso de IA en consultoría
+Capacitaciones en prompting estratégico
+Consultoría para implementación de frameworks similares
+Contactar vía email para más información.
+🎓 Para Estudiantes
+¿Puedo usar estos challenges en mi tesis/trabajo académico?
+Sí, siempre que:
+Cites apropiadamente según normas académicas (APA, IEEE, etc.)
+No presentes el contenido como creación propia
+Uses el material como referencia/benchmark, no como tu análisis principal
+Formato de citación sugerido (APA):
+Manzano, C. D. (2025). Clara 4.0 Community Edition - Challenge #X: [Título]. GitHub. https://github.com/usuario/clara-4-challenges
+¿Hay descuentos para estudiantes?
+Este repositorio es completamente gratuito para uso educativo. No hay costos ni descuentos porque no hay precio.
+¿Puedo solicitar challenges adicionales para mi investigación?
+Puedes sugerir challenges vía GitHub Issues. Sin embargo, no hay garantía de que se desarrollen, depende de:
+Alineación con objetivos del proyecto
+Complejidad y tiempo requerido
+Relevancia para la comunidad más amplia
+Para necesidades específicas de investigación, considera contratar servicios de consultoría independientes.
+📚 Recursos Adicionales
+¿Dónde aprendo más sobre los frameworks mencionados?
+Recursos recomendados:
+Lean/Six Sigma: ASQ.org, Lean Enterprise Institute
+Gestión de Riesgos: ISO 31000, COSO Framework
+Gestión del Cambio: Kotter International, Prosci ADKAR
+Educación: Bloom's Taxonomy (original y revisada), TPACK Framework
+¿Hay una comunidad de usuarios de Clara 4.0?
+Actualmente el proyecto está en fase inicial. Se planea:
+Foro de discusión (GitHub Discussions)
+Newsletter trimestral (si hay suficiente interés)
+Eventos virtuales ocasionales
+Mantente informado siguiendo el repositorio en GitHub.
+¿Tu pregunta no está aquí?
+Abre un Issue en GitHub con etiqueta question o contacta directamente a la autora.
+Última actualización: [Fecha actual]
+Si encuentras información desactualizada en este FAQ, por favor repórtalo.

@@ -180,8 +180,8 @@ Modelo TPACK, Taxonomía de Bloom Revisada, Challenge-Based Learning, Aprendizaj
 - Compartir casos de uso reales inspirados en estos challenges
 
 Por favor contacta a la autora: **Carmen Delia Manzano**  
-LinkedIn: [linkedin.com/in/carmendeliamanzano](https://linkedin.com/in/carmendeliamanzano)  
-Email: [tu-email@dominio.com]
+LinkedIn: https://linkedin.com/in/carmendeliamanzano 
+Email: controlsafemail.365@keemail.me
 
 ---
 

@@ -1,6 +1,5 @@
-📄 .github/ISSUE_TEMPLATE/new_challenge.yml
-name: 🚀 Propuesta de Nuevo Challenge
-description: Sugerir un nuevo challenge para el repositorio
+name: "🚀 Propuesta de Nuevo Challenge"
+description: "Sugerir un nuevo challenge para el repositorio"
 title: "[NEW CHALLENGE] "
 labels: ["enhancement", "new-challenge"]
 assignees:
@@ -15,8 +14,8 @@ body:
   - type: input
     id: title
     attributes:
-      label: Título del Challenge
-      description: Nombre descriptivo y profesional
+      label: "Título del Challenge"
+      description: "Nombre descriptivo y profesional"
       placeholder: "Ej: Optimización de Cadena de Suministro en PYME Manufacturera"
     validations:
       required: true
@@ -24,8 +23,8 @@ body:
   - type: input
     id: sector
     attributes:
-      label: Sector/Industria
-      description: Área de aplicación principal
+      label: "Sector/Industria"
+      description: "Área de aplicación principal"
       placeholder: "Ej: Manufactura, Finanzas, Tecnología, Gobierno, ONGs"
     validations:
       required: true
@@ -33,19 +32,19 @@ body:
   - type: dropdown
     id: complexity
     attributes:
-      label: Nivel de Complejidad Estimado
+      label: "Nivel de Complejidad Estimado"
       options:
-        - ⭐⭐⭐ (Medio)
-        - ⭐⭐⭐⭐ (Alto)
-        - ⭐⭐⭐⭐⭐ (Muy Alto)
+        - "⭐⭐⭐ (Medio)"
+        - "⭐⭐⭐⭐ (Alto)"
+        - "⭐⭐⭐⭐⭐ (Muy Alto)"
     validations:
       required: true
 
   - type: textarea
     id: context
     attributes:
-      label: Contexto del Escenario
-      description: Descripción general del problema o situación a analizar
+      label: "Contexto del Escenario"
+      description: "Descripción general del problema o situación a analizar"
       placeholder: |
         Ejemplo:
         PYME manufacturera con 250 empleados enfrenta problemas de eficiencia en su cadena de suministro:
@@ -59,8 +58,8 @@ body:
   - type: textarea
     id: organization
     attributes:
-      label: Organización Tipo (Características)
-      description: Tamaño, facturación, estructura, ubicación (si es relevante)
+      label: "Organización Tipo (Características)"
+      description: "Tamaño, facturación, estructura, ubicación (si es relevante)"
       placeholder: |
         - Tamaño: 250 empleados
         - Facturación: $30M/año
@@ -71,8 +70,8 @@ body:
   - type: textarea
     id: problem
     attributes:
-      label: Problemática Principal
-      description: Descripción detallada del desafío estratégico/operativo
+      label: "Problemática Principal"
+      description: "Descripción detallada del desafío estratégico/operativo"
       placeholder: |
         **Síntomas del problema:**
         1. Tiempo promedio de entrega: 45 días (objetivo: 30 días)
@@ -91,25 +90,25 @@ body:
   - type: checkboxes
     id: capabilities
     attributes:
-      label: Capacidades de Clara 4.0 a Demostrar
-      description: Marca todas las que apliquen
+      label: "Capacidades de Clara 4.0 a Demostrar"
+      description: "Marca todas las que apliquen"
       options:
-        - label: Diagnóstico de sistemas complejos
-        - label: Optimización de procesos
-        - label: Gestión del cambio organizacional
-        - label: Análisis de riesgos multidimensional
-        - label: Planificación estratégica
-        - label: Análisis de viabilidad (financiera/operativa)
-        - label: Benchmarking sectorial
-        - label: Diseño de KPIs y dashboards
-        - label: Selección y evaluación de tecnología
-        - label: Gestión de stakeholders
+        - "Diagnóstico de sistemas complejos"
+        - "Optimización de procesos"
+        - "Gestión del cambio organizacional"
+        - "Análisis de riesgos multidimensional"
+        - "Planificación estratégica"
+        - "Análisis de viabilidad (financiera/operativa)"
+        - "Benchmarking sectorial"
+        - "Diseño de KPIs y dashboards"
+        - "Selección y evaluación de tecnología"
+        - "Gestión de stakeholders"
 
   - type: textarea
     id: methodologies
     attributes:
-      label: Metodologías Sugeridas
-      description: Frameworks o herramientas que se aplicarían
+      label: "Metodologías Sugeridas"
+      description: "Frameworks o herramientas que se aplicarían"
       placeholder: |
         - Lean Supply Chain
         - Theory of Constraints (TOC)
@@ -123,8 +122,8 @@ body:
   - type: textarea
     id: deliverables
     attributes:
-      label: Entregables Esperados
-      description: ¿Qué generaría Clara 4.0 en este challenge?
+      label: "Entregables Esperados"
+      description: "¿Qué generaría Clara 4.0 en este challenge?"
       placeholder: |
         1. Diagnóstico situacional con análisis de brechas
         2. Mapeo de flujos actuales (VSM - Value Stream Mapping)
@@ -140,8 +139,8 @@ body:
   - type: textarea
     id: results
     attributes:
-      label: Resultados/Impacto Proyectado
-      description: Mejoras cuantificables esperadas
+      label: "Resultados/Impacto Proyectado"
+      description: "Mejoras cuantificables esperadas"
       placeholder: |
         - Reducción de tiempo de entrega: de 45 a 30 días (-33%)
         - Mejora en tasa de cumplimiento: de 70% a >95%
@@ -152,8 +151,8 @@ body:
   - type: textarea
     id: justification
     attributes:
-      label: Justificación de Relevancia
-      description: ¿Por qué este challenge es valioso para la comunidad?
+      label: "Justificación de Relevancia"
+      description: "¿Por qué este challenge es valioso para la comunidad?"
       placeholder: |
         - Alta aplicabilidad: 40% de PYMEs tienen problemas similares
         - Sector clave: Manufactura representa 18% PIB en región
@@ -166,22 +165,22 @@ body:
   - type: checkboxes
     id: audience
     attributes:
-      label: Audiencia Objetivo
-      description: ¿Quiénes se beneficiarían de este challenge?
+      label: "Audiencia Objetivo"
+      description: "¿Quiénes se beneficiarían de este challenge?"
       options:
-        - label: Consultores estratégicos
-        - label: Gerentes de operaciones / Supply Chain
-        - label: Directores de transformación
-        - label: Académicos / Investigadores
-        - label: Estudiantes de MBA / Posgrado
-        - label: Emprendedores / Fundadores
-        - label: Otro (especificar abajo)
+        - "Consultores estratégicos"
+        - "Gerentes de operaciones / Supply Chain"
+        - "Directores de transformación"
+        - "Académicos / Investigadores"
+        - "Estudiantes de MBA / Posgrado"
+        - "Emprendedores / Fundadores"
+        - "Otro (especificar abajo)"
 
   - type: textarea
     id: references
     attributes:
-      label: Referencias y Benchmarks
-      description: Casos reales, papers, o empresas líderes en este tema
+      label: "Referencias y Benchmarks"
+      description: "Casos reales, papers, o empresas líderes en este tema"
       placeholder: |
         **Casos similares:**
         - Toyota Production System (TPS)
@@ -198,18 +197,18 @@ body:
   - type: dropdown
     id: sensitivity
     attributes:
-      label: Sensibilidad Legal/Ética
-      description: ¿Qué nivel de disclaimers requiere?
+      label: "Sensibilidad Legal/Ética"
+      description: "¿Qué nivel de disclaimers requiere?"
       options:
-        - Bajo - Tema general sin implicaciones legales complejas
-        - Medio - Requiere disclaimers estándar
-        - Alto - Requiere disclaimers robustos y validación especializada
+        - "Bajo - Tema general sin implicaciones legales complejas"
+        - "Medio - Requiere disclaimers estándar"
+        - "Alto - Requiere disclaimers robustos y validación especializada"
 
   - type: textarea
     id: disclaimers
     attributes:
-      label: Disclaimers Necesarios
-      description: ¿Qué advertencias deben incluirse?
+      label: "Disclaimers Necesarios"
+      description: "¿Qué advertencias deben incluirse?"
       placeholder: |
         "Este análisis no sustituye asesoría de consultores especializados en 
         Supply Chain Management. Toda implementación debe considerar contexto 
@@ -218,21 +217,21 @@ body:
   - type: dropdown
     id: contribution
     attributes:
-      label: Nivel de Contribución Ofrecida
-      description: ¿Cómo te gustaría participar?
+      label: "Nivel de Contribución Ofrecida"
+      description: "¿Cómo te gustaría participar?"
       options:
-        - Puedo co-crear el challenge completo (40+ horas)
-        - Puedo proporcionar contexto y revisión (10-15 horas)
-        - Puedo validar la propuesta final (5 horas)
-        - Solo quiero sugerir la idea
+        - "Puedo co-crear el challenge completo (40+ horas)"
+        - "Puedo proporcionar contexto y revisión (10-15 horas)"
+        - "Puedo validar la propuesta final (5 horas)"
+        - "Solo quiero sugerir la idea"
     validations:
       required: true
 
   - type: textarea
     id: expertise
     attributes:
-      label: Tu Experiencia en el Tema
-      description: Breve descripción de tu conocimiento/experiencia
+      label: "Tu Experiencia en el Tema"
+      description: "Breve descripción de tu conocimiento/experiencia"
       placeholder: |
         Ej: "10 años como Supply Chain Manager en manufactura automotriz, 
         certificación CPIM (APICS), implementé 5 proyectos de optimización 
@@ -241,23 +240,23 @@ body:
   - type: input
     id: contact
     attributes:
-      label: Información de Contacto (Opcional)
-      description: Email o LinkedIn para coordinación
+      label: "Información de Contacto (Opcional)"
+      description: "Email o LinkedIn para coordinación"
       placeholder: "email@ejemplo.com o linkedin.com/in/usuario"
 
   - type: checkboxes
     id: checklist
     attributes:
-      label: Checklist de Calidad
-      description: Confirma antes de enviar
+      label: "Checklist de Calidad"
+      description: "Confirma antes de enviar"
       options:
-        - label: Es un problema real y relevante profesionalmente
+        - label: "Es un problema real y relevante profesionalmente"
           required: true
-        - label: Tiene complejidad suficiente para demostrar capacidades de Clara 4.0
+        - label: "Tiene complejidad suficiente para demostrar capacidades de Clara 4.0"
           required: true
-        - label: No es redundante con challenges existentes
+        - label: "No es redundante con challenges existentes"
           required: true
-        - label: Está fundamentado en metodologías reconocidas
+        - label: "Está fundamentado en metodologías reconocidas"
           required: true
-        - label: He leído la [Guía de Contribución](https://github.com/usuario/repo/blob/main/CONTRIBUTING.md)
+        - label: "He leído la [Guía de Contribución](https://github.com/usuario/repo/blob/main/CONTRIBUTING.md)"
           required: true

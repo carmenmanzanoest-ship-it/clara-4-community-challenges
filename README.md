@@ -255,7 +255,7 @@ Para consultas sobre:
 
 ## 🔗 Recursos Adicionales
 
-- [Repositorio principal de Clara 4.0](enlace-al-repo-principal)
+- [Repositorio principal de Clara 4.0] carmenmanzanoest-ship-it/clara-4-community-challenges
 - [Documentación técnica completa](enlace-a-docs)
 - [Guía de prompts profesionales](enlace-a-guía)
 - [Casos de éxito y testimonios](enlace-a-casos)

@@ -49,8 +49,8 @@ When sharing this work, please include:
 
 If you are interested in using this material for commercial purposes, please contact:
 - **Carmen Delia Manzano**
-- Email: [tu-email@dominio.com]
-- LinkedIn: [linkedin.com/in/carmendeliamanzano](https://linkedin.com/in/ccarmendeliamanzano)
+- Email: controlsafemail.365@keemail.me
+- LinkedIn: https://linkedin.com/in/carmen-delia-manzano
 
 Full legal code: [https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
 
@@ -91,7 +91,7 @@ El licenciante no puede revocar estas libertades mientras cumpla con los términ
 Al compartir este trabajo, por favor incluya:
 - Título: "Clara 4.0 Community Edition - Repositorio de Challenges"
 - Autora: Carmen Delia Manzano
-- Fuente: [URL de este repositorio]
+- Fuente: https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges
 - Licencia: CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 **Ejemplo de atribución:**  
@@ -101,8 +101,8 @@ Al compartir este trabajo, por favor incluya:
 
 Si está interesado en utilizar este material con fines comerciales, por favor contacte a:
 - **Carmen Delia Manzano**
-- Email: [tu-email@dominio.com]
-- LinkedIn: [linkedin.com/in/carmendeliamanzano](https://linkedin.com/in/carmendeliamanzano)
+- Email: controlsafemail.365@keemail.me
+- LinkedIn: htps://linkedin.com/in/carmen-delia-manzano
 
 Código legal completo: [https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es)
 

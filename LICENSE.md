@@ -155,8 +155,8 @@ For questions about this license or to request permissions beyond the scope of t
 Para preguntas sobre esta licencia o para solicitar permisos más allá del alcance de esta licencia:
 
 **Carmen Delia Manzano**  
-Email: [tu-email@dominio.com]  
-LinkedIn: [linkedin.com/in/carmendeliamanzano](https://linkedin.com/in/carmendeliamanzano)
+Email: controlsafemail.365@keemail.me
+LinkedIn: (https://linkedin.com/in/carmendeliamanzano)
 
 ---
 

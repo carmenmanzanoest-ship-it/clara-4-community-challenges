@@ -54,8 +54,7 @@ Si descubres una vulnerabilidad de seguridad, **NO** abras un Issue público.
 **Proceso de reporte confidencial:**
 
 1. **Email Seguro:**
-   - Enviar a: [tu-email-seguridad@dominio.com]
-   - Asunto: "SECURITY - Clara 4.0 Challenges"
+   - Enviar a: controlsafemail.365@keemail.me  - Asunto: "SECURITY - Clara 4.0 Challenges"
    - Usar encriptación PGP si es posible (clave disponible bajo solicitud)
 
 2. **Información a incluir:**

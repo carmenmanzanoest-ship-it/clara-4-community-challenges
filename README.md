@@ -537,8 +537,8 @@ Autora y Mantenedora:
 Carmen Delia Manzano
 Vías de contacto:
 GitHub Issues: Repositorio/Issues
-Email: [tu-email@dominio.com]
-LinkedIn: linkedin.com/in/carmendeliamanzano
+Email: controlsafemail.365@keemail.me
+LinkedIn: linkedin.com/in/carmen-delia-manzano
 Tiempos de respuesta esperados:
 Issues críticos (bugs que afectan usabilidad): 2-3 días hábiles
 Propuestas de nuevos challenges: 5-7 días hábiles

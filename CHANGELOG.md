@@ -1,3 +1,21 @@
+<div align="center">
+
+# 🧩 Clara 4.0 Community Edition  
+## 📘 Challenges Repository – Changelog  
+
+**Author:** Carmen Delia Manzano  
+**License:** CC BY-NC-ND 4.0  
+**Version:** 1.0.0  
+**Year:** 2025  
+
+</div>
+
+
+
+
+
+
+
 ## 📄 CHANGELOG.md
 
 ```markdown
@@ -114,4 +132,7 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
 ---
 
-*Para sugerir cambios o reportar issues: [GitHub Issues](enlace-a-issues)*
+*Para sugerir cambios o reportar issues: [GitHub Issues](enlace-a-issues) https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/
+
+
+*Last updated / Última actualización: 22 October 2025*

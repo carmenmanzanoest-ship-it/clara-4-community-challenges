@@ -645,4 +645,291 @@ Ejemplo de Rúbrica Institucional (Pensamiento Crítico):
 │            │ relevantes      │ relaciones      │ múltiples fuentes│ sólida          │
 │────────────│─────────────────│─────────────────│─────────────────│─────────────────│
 │ Competente │ Identifica      │ Analiza aspectos│ Sintetiza con   │ Evalúa con      │
+│ (3)        │ mayoría de      │ principales     │ estructura      │ alguna evidencia│
+│            │ elementos       │                 │ coherente       │                 │
+│────────────│─────────────────│─────────────────│─────────────────│─────────────────│
+│ En         │ Identifica      │ Análisis        │ Síntesis        │ Evaluación      │
+│ Desarrollo │ algunos         │ superficial     │ básica          │ sin fundamento  │
+│ (2)        │ elementos       │                 │                 │ sólido          │
+│────────────│─────────────────│─────────────────│─────────────────│─────────────────│
+│ Inicial    │ Identificación  │ No analiza      │ No sintetiza    │ No evalúa       │
+│ (1)        │ mínima/incorrecta│                │                 │                 │
+└────────────┴─────────────────┴─────────────────┴─────────────────┴─────────────────┘
 
+4️⃣ APRENDIZAJE HÍBRIDO Y FLEXIBLE
+
+Modelo de Flexibilidad Académica:
+
+MODALIDADES DE APRENDIZAJE:
+├─ Presencial: 60% (interacción, colaboración, práctica)
+├─ Online sincrónico: 20% (sesiones virtuales en tiempo real)
+├─ Online asincrónico: 20% (contenidos, foros, tareas)
+└─ Estudiante puede ajustar según contexto personal (trabajo, familia)
+
+FLEXIBILIDAD CURRICULAR:
+├─ Sistema de créditos flexible (120-150 créditos según ritmo)
+├─ Posibilidad de acelerar o desacelerar estudios
+├─ Reconocimiento de aprendizaje previo (RPL)
+├─ Transferencia de créditos entre facultades
+└─ Opción de doble titulación o minors
+
+TIEMPOS FLEXIBLES:
+├─ Bloques de 8 semanas (4 por año) + veranos intensivos
+├─ Permite trabajar y estudiar simultáneamente
+└─ Facilita movilidad estudiantil (intercambios)
+
+══════════════════════════════════════════════════════════════════
+ECOSISTEMA TECNOLÓGICO INTEGRADO
+══════════════════════════════════════════════════════════════════
+
+🖥️ PLATAFORMAS Y HERRAMIENTAS (Stack Tecnológico):
+
+CAPA 1: GESTIÓN DEL APRENDIZAJE
+
+LMS Institucional (Moodle/Canvas - Open Source)
+├─ Función: Repositorio de cursos, materiales, entregas
+├─ Integración: 100% de cursos, 90% adopción docente (meta)
+├─ Características:
+│  ✓ Recursos multimedia (videos, podcasts, simulaciones)
+│  ✓ Foros de discusión moderados
+│  ✓ Sistema de evaluación con rúbricas
+│  ✓ Calificador integrado
+│  ✓ App móvil para acceso ubicuo
+└─ Inversión: $150K (infraestructura) + $50K/año (soporte)
+
+CAPA 2: COLABORACIÓN Y COMUNICACIÓN
+
+Microsoft Teams / Google Workspace
+├─ Función: Comunicación sincrónica, trabajo colaborativo
+├─ Uso:
+│  ✓ Clases virtuales (videollamadas)
+│  ✓ Trabajo en equipo (documentos compartidos)
+│  ✓ Mentoría docente-estudiante
+└─ Inversión: Licencias educativas (bajo costo/gratuitas)
+
+CAPA 3: EVALUACIÓN Y ANALYTICS
+
+Learning Analytics Dashboard
+├─ Función: Monitoreo en tiempo real del progreso estudiantil
+├─ Alertas tempranas:
+│  ✓ Riesgo de deserción (modelo predictivo)
+│  ✓ Bajo rendimiento en competencias clave
+│  ✓ Falta de engagement (bajas interacciones)
+├─ Visualización:
+│  ✓ Dashboard para docentes (progreso de clase)
+│  ✓ Dashboard para estudiantes (autoevaluación)
+│  ✓ Dashboard para dirección (indicadores institucionales)
+└─ Inversión: $200K desarrollo + $30K/año mantenimiento
+
+Sistema de Evaluación por Rúbricas (Integrado en LMS)
+├─ Función: Estandarizar evaluación, facilitar retroalimentación
+├─ Características:
+│  ✓ Banco de rúbricas institucionales
+│  ✓ Evaluación por pares (peer review)
+│  ✓ Autoevaluación estudiantil
+│  ✓ Exportación de evidencias (portafolios)
+└─ Inversión: Incluida en LMS
+
+CAPA 4: CONTENIDOS DIGITALES
+
+Biblioteca Digital Expandida
+├─ Recursos objetivo: 50,000+ (libros, journals, videos, casos)
+├─ Suscripciones: JSTOR, ScienceDirect, IEEE, etc.
+├─ Contenido abierto: MOOCs, OpenCourseWare, OER
+└─ Inversión: $300K/año (suscripciones + licencias)
+
+Repositorio de Recursos Educativos Abiertos (REA)
+├─ Función: Docentes crean y comparten materiales propios
+├─ Contenido: Videos explicativos, casos de estudio, simulaciones
+├─ Licencia: Creative Commons (reutilizable)
+└─ Inversión: $50K plataforma + incentivos a docentes
+
+CAPA 5: SIMULACIÓN Y PRÁCTICA
+
+Laboratorios Virtuales y Simuladores
+├─ Aplicaciones:
+│  • Ingeniería: Simuladores de circuitos, CAD, programación
+│  • Medicina: Simuladores clínicos, anatomía 3D
+│  • Economía: Simuladores de mercados, gestión empresarial
+│  • Derecho: Simulación de juicios, redacción legal
+├─ Ventajas: Práctica ilimitada, sin riesgo, disponible 24/7
+└─ Inversión: $400K (licencias + hardware)
+
+CAPA 6: CREDENCIALIZACIÓN DIGITAL
+
+Sistema de Badges y Micro-Credentials
+├─ Función: Reconocimiento granular de competencias
+├─ Badges por:
+│  • Competencias transversales (ej: "Pensamiento Crítico - Nivel 3")
+│  • Proyectos completados (ej: "Challenge Empresarial 2025")
+│  • Cursos especializados (ej: "Machine Learning Aplicado")
+├─ Estándar: Open Badges (reconocido globalmente)
+├─ Visualización: Perfil digital del estudiante, compartible en LinkedIn
+└─ Inversión: $30K plataforma + diseño
+
+INFRAESTRUCTURA DE SOPORTE:
+
+Conectividad:
+├─ 100% campus con WiFi de alta velocidad (1 Gbps backbone)
+├─ Redundancia: 2 proveedores ISP independientes
+└─ Inversión: $500K
+
+Equipamiento de Aulas:
+├─ Pantallas interactivas en 80% de aulas (prioridad: aulas grandes)
+├─ Sistema de audio profesional
+├─ Cámaras para streaming (clases híbridas)
+├─ Mobiliario flexible (mesas modulares para trabajo grupal)
+└─ Inversión: $1.2M
+
+Dispositivos para Estudiantes (Programa de Inclusión Digital):
+├─ Préstamo de laptops para estudiantes de escasos recursos
+├─ Meta: 100% estudiantes con dispositivo propio o prestado
+└─ Inversión: $300K (200 laptops año 1, escalable)
+
+══════════════════════════════════════════════════════════════════
+VINCULACIÓN ESTRUCTURAL CON EL ECOSISTEMA
+══════════════════════════════════════════════════════════════════
+
+🤝 MODELO DE VINCULACIÓN CON EMPLEADORES:
+
+1. ADVISORY BOARDS POR CARRERA
+├─ Composición: 5-7 empleadores + 2 alumni + 2 docentes + 1 estudiante
+├─ Función:
+│  ✓ Revisar currículo bianualmente (pertinencia)
+│  ✓ Proponer actualización de competencias
+│  ✓ Identificar tecnologías emergentes a incorporar
+│  ✓ Ofrecer oportunidades de prácticas y proyectos
+├─ Frecuencia: Reunión trimestral
+└─ Meta: 100% de carreras con advisory board activo (Año 2)
+
+2. PROYECTOS REALES CON EMPRESAS (Challenge-Based Learning)
+├─ Mecanismo:
+│  1. Empresa propone reto/problema real
+│  2. Equipos de estudiantes (4-6) trabajan solución 8-12 semanas
+│  3. Empresa asigna mentor interno
+│  4. Evaluación conjunta: academia (50%) + empresa (50%)
+│  5. Mejores soluciones se implementan (compensación simbólica)
+├─ Beneficio estudiante: Experiencia real, networking, portafolio
+├─ Beneficio empresa: Soluciones innovadoras, talento identificado
+├─ Meta: 40% de cursos años 3-5 integran proyectos reales (Año 3)
+└─ Coordinación: Oficina de Vinculación Universidad-Empresa (crear)
+
+3. PRÁCTICAS PRE-PROFESIONALES ESTRUCTURADAS
+├─ Requisito: 480 horas mínimo (equivalente a 1 semestre)
+├─ Inicio: Desde 3er año (modalidad part-time)
+├─ Supervisión: Tutor académico + supervisor empresa
+├─ Evaluación: Reporte reflexivo + evaluación del empleador
+├─ Convenios: 200+ empresas/organizaciones (objetivo año 2)
+└─ Gestión: Plataforma digital de matching estudiante-empresa
+
+4. PROGRAMA DE MENTORES PROFESIONALES
+├─ Mecanismo: Profesionales exitosos (alumni + externos) mentorean estudiantes
+├─ Formato: 1 mentor : 5 estudiantes, sesiones mensuales
+├─ Duración: 1 año (renovable)
+├─ Enfoque: Desarrollo profesional, networking, orientación carrera
+└─ Meta: 30% de estudiantes con mentor (Año 3)
+
+5. EMPLOYABILITY HUB (Centro de Empleabilidad)
+├─ Funciones:
+│  ✓ Bolsa de trabajo exclusiva para estudiantes/alumni
+│  ✓ Talleres de preparación (CV, entrevistas, LinkedIn)
+│  ✓ Ferias de empleo (2 por año)
+│  ✓ Seguimiento de graduados (tracking de empleabilidad)
+│  ✓ Certificaciones profesionales (alianzas con certificadoras)
+├─ Personal: Director + 3 coordinadores + 2 asistentes
+└─ Inversión: $250K/año (personal + operación)
+
+══════════════════════════════════════════════════════════════════
+ROL DEL DOCENTE EN EL NUEVO MODELO
+══════════════════════════════════════════════════════════════════
+
+📚 TRANSFORMACIÓN DEL ROL DOCENTE:
+
+DE: Transmisor de Conocimiento → A: Facilitador de Aprendizaje
+
+NUEVAS COMPETENCIAS DOCENTES REQUERIDAS:
+
+1. DISEÑO DE EXPERIENCIAS DE APRENDIZAJE
+   ├─ Diseñar problemas complejos y desafiantes
+   ├─ Curar recursos digitales de calidad
+   ├─ Crear rúbricas de evaluación claras
+   └─ Integrar tecnología pedagógicamente (TPACK)
+
+2. FACILITACIÓN Y MENTORÍA
+   ├─ Guiar, no dictar
+   ├─ Hacer preguntas poderosas (método socrático)
+   ├─ Proporcionar retroalimentación formativa efectiva
+   └─ Desarrollar pensamiento crítico en estudiantes
+
+3. COMPETENCIAS DIGITALES
+   ├─ Manejo avanzado de LMS
+   ├─ Creación de contenido multimedia
+   ├─ Moderación de foros y discusiones online
+   └─ Análisis de learning analytics
+
+4. EVALUACIÓN AUTÉNTICA
+   ├─ Diseñar evaluaciones de desempeño
+   ├─ Utilizar rúbricas consistentemente
+   ├─ Facilitar co-evaluación y autoevaluación
+   └─ Documentar evidencias de competencias
+
+5. COLABORACIÓN INTERDISCIPLINARIA
+   ├─ Co-diseñar proyectos integradores con colegas
+   ├─ Trabajar con empresas (co-supervisión de proyectos)
+   └─ Participar en comunidades de práctica
+
+SISTEMA DE APOYO AL DOCENTE:
+
+Centro de Innovación en Docencia (CID)
+├─ Funciones:
+│  ✓ Capacitación continua (programa estructurado)
+│  ✓ Asesoría pedagógica personalizada
+│  ✓ Comunidades de práctica por metodología
+│  ✓ Repositorio de buenas prácticas
+│  ✓ Investigación en educación superior
+├─ Personal: Director + 5 asesores pedagógicos + 2 diseñadores instruccionales
+└─ Inversión: $400K/año
+
+Programa de Mentoría Docente (Peer-to-Peer)
+├─ Docentes "champions" (early adopters) mentorean a colegas
+├─ Ratio: 1 mentor : 5 mentorados
+├─ Duración: 6 meses (con seguimiento)
+├─ Incentivo: Reconocimiento + reducción de carga (2 horas/semana)
+└─ Meta: 100% docentes pasan por mentoría (Año 3)
+
+══════════════════════════════════════════════════════════════════
+MODELO DE FINANCIAMIENTO SOSTENIBLE
+══════════════════════════════════════════════════════════════════
+
+💰 ESTRUCTURA DE INGRESOS (Diversificación):
+
+ACTUAL (2024):
+├─ Fondos públicos: 85% ($38.25M)
+├─ Matrícula/pensiones: 10% ($4.5M)
+├─ Proyectos/servicios: 5% ($2.25M)
+└─ TOTAL: $45M
+
+META (2029):
+├─ Fondos públicos: 70% ($42M - crecimiento moderado)
+├─ Matrícula/pensiones: 12% ($7.2M - más estudiantes por menor deserción)
+├─ Fondos concursables: 8% ($4.8M - innovación, investigación)
+├─ Proyectos/servicios: 6% ($3.6M - consultoría, educación continua)
+├─ Donaciones/filantropía: 4% ($2.4M - alumni, empresas)
+└─ TOTAL: $60M (+33% en 5 años)
+
+FUENTES DE FINANCIAMIENTO PARA TRANSFORMACIÓN:
+
+Año 1-3:
+├─ Fondos concursables gobierno: $5M (aplicar inmediatamente)
+├─ Reasignación presupuestaria: $2M/año (eficiencias administrativas)
+├─ Alianzas con empresas: $1M/año (co-financiamiento infraestructura)
+├─ Fondos de cooperación internacional: $2M (BID, Banco Mundial)
+└─ TOTAL DISPONIBLE: $15M (3 años)
+
+Inversión requerida transformación: $12M (3 años)
+Balance: +$3M (buffer para contingencias) ✅
+
+Metodología: Modelo TPACK, Taxonomía de Bloom revisada, Backward Design 
+(Wiggins & McTighe), Challenge-Based Learning Framework, Modelo SAMR de 
+integración tecnológica, Aprendizaje Basado en Competencias (Perrenoud),
+Benchmarking de universidades innovadoras

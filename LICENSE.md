@@ -50,7 +50,7 @@ When sharing this work, please include:
 If you are interested in using this material for commercial purposes, please contact:
 - **Carmen Delia Manzano**
 - Email: [tu-email@dominio.com]
-- LinkedIn: [linkedin.com/in/carmendeliamanzano](https://linkedin.com/in/carmendeliamanzano)
+- LinkedIn: [linkedin.com/in/carmendeliamanzano](https://linkedin.com/in/ccarmendeliamanzano)
 
 Full legal code: [https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
 

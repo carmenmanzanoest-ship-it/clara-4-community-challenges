@@ -1,4 +1,17 @@
-htpsps LICENSE.md - 
+<div align="center">
+
+# 🛡️ Clara 4.0 Community Edition  
+## Licencia Internacional Creative Commons BY-NC-ND 4.0  
+
+**Repository:** [Clara 4.0 Community Challenges](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges)  
+**Author:** Carmen Delia Manzano  
+**Year:** 2025  
+
+</div>
+
+
+
+LICENSE.md - 
 # Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License  
 # Licencia Internacional Creative Commons Atribución-NoComercial-SinDerivadas 4.0
 
@@ -160,4 +173,4 @@ LinkedIn: https://www.linkedin.com/in/carmen-delia-manzano
 
 ---
 
-*Last updated / Última actualización: [Fecha actual]*
+*Last updated / Última actualización: 22-10-2025

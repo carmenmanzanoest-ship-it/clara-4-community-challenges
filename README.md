@@ -242,9 +242,9 @@ Agradecimientos especiales a:
 ## 📞 Contacto y Soporte
 
 **Autora:** Carmen Delia Manzano  
-**LinkedIn:** [linkedin.com/in/carmendeliamanzano](https://linkedin.com/in/carmendeliamanzano)  
+**LinkedIn:** [linkedin.com/in/carmendeliamanzano]https://linkedin.com/in/https
 **GitHub:** [github.com/carmen-delia-manzano] (si aplica)  
-**Email:** [tu-email@dominio.com]
+**Email:** controlsafemail.365@keemail.me
 
 Para consultas sobre:
 - Uso de Clara 4.0 en proyectos profesionales

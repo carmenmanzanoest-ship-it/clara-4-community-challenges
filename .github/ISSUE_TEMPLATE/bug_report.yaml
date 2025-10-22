@@ -1,4 +1,4 @@
-📄 .github/ISSUE_TEMPLATE/bug_report.yml
+📄 .github/ISSUE_TEMPLATE/bug_report.yaml
 name: 🐛 Reporte de Error
 description: Reportar un error, inconsistencia o contenido incorrecto en los challenges
 title: "[BUG] "

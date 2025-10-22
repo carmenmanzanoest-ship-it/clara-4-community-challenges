@@ -1,5 +1,5 @@
-name: ✨ Mejora de Contenido
-description: Sugerir mejoras a challenges existentes o documentación
+name: "Mejora de Contenido"
+description: "Sugerir mejoras a challenges existentes o documentación"
 title: "[FEATURE] "
 labels: ["enhancement"]
 
@@ -12,39 +12,39 @@ body:
   - type: dropdown
     id: type
     attributes:
-      label: Tipo de Mejora
+      label: "Tipo de Mejora"
       options:
-        - Ampliar análisis existente
-        - Añadir referencias/benchmarks adicionales
-        - Mejorar visualizaciones
-        - Mejorar estructura/formato
-        - Añadir ejemplos complementarios
-        - Mejorar disclaimers
-        - Traducción
-        - Otro
+        - "Ampliar análisis existente"
+        - "Añadir referencias/benchmarks adicionales"
+        - "Mejorar visualizaciones"
+        - "Mejorar estructura/formato"
+        - "Añadir ejemplos complementarios"
+        - "Mejorar disclaimers"
+        - "Traducción"
+        - "Otro"
     validations:
       required: true
 
   - type: dropdown
     id: challenge
     attributes:
-      label: Challenge o Documento Afectado
+      label: "Challenge o Documento Afectado"
       options:
-        - Challenge #2 - Urgencias Hospitalarias
-        - Challenge #3 - Planificación de Herencias
-        - Challenge #4 - Transformación Universitaria
-        - README / Documentación general
-        - CONTRIBUTING / CODE_OF_CONDUCT
-        - Múltiples documentos
-        - Otro
+        - "Challenge #2 - Urgencias Hospitalarias"
+        - "Challenge #3 - Planificación de Herencias"
+        - "Challenge #4 - Transformación Universitaria"
+        - "README / Documentación general"
+        - "CONTRIBUTING / CODE_OF_CONDUCT"
+        - "Múltiples documentos"
+        - "Otro"
     validations:
       required: true
 
   - type: textarea
     id: current
     attributes:
-      label: Situación Actual
-      description: ¿Qué hay ahora que podría mejorarse?
+      label: "Situación Actual"
+      description: "¿Qué hay ahora que podría mejorarse?"
       placeholder: |
         Ejemplo:
         "La sección de Análisis de Riesgos en Challenge #2 solo incluye 
@@ -56,8 +56,8 @@ body:
   - type: textarea
     id: proposal
     attributes:
-      label: Mejora Propuesta
-      description: ¿Qué te gustaría que se añadiera o cambiara?
+      label: "Mejora Propuesta"
+      description: "¿Qué te gustaría que se añadiera o cambiara?"
       placeholder: |
         Propongo añadir una subsección "Riesgos Regulatorios y de Ciberseguridad":
         - Cumplimiento HIPAA/LOPD en registros electrónicos
@@ -73,8 +73,8 @@ body:
   - type: textarea
     id: value
     attributes:
-      label: Valor Agregado
-      description: ¿Por qué esta mejora es importante?
+      label: "Valor Agregado"
+      description: "¿Por qué esta mejora es importante?"
       placeholder: |
         - Mejora la completitud del análisis de riesgos
         - Refleja preocupaciones actuales del sector salud
@@ -84,8 +84,8 @@ body:
   - type: textarea
     id: references
     attributes:
-      label: Referencias de Soporte
-      description: Fuentes que respaldan tu propuesta
+      label: "Referencias de Soporte"
+      description: "Fuentes que respaldan tu propuesta"
       placeholder: |
         - [Paper académico]
         - [Normativa/Estándar]
@@ -94,24 +94,24 @@ body:
   - type: dropdown
     id: effort
     attributes:
-      label: Esfuerzo Estimado de Implementación
+      label: "Esfuerzo Estimado de Implementación"
       options:
-        - Bajo (cambios menores, <2 horas)
-        - Medio (cambios moderados, 2-8 horas)
-        - Alto (cambios significativos, >8 horas)
+        - "Bajo (cambios menores, <2 horas)"
+        - "Medio (cambios moderados, 2-8 horas)"
+        - "Alto (cambios significativos, >8 horas)"
 
   - type: checkboxes
     id: contribution-offer
     attributes:
-      label: Ofrecimiento de Ayuda
+      label: "Ofrecimiento de Ayuda"
       options:
-        - label: Puedo proporcionar contenido/texto sugerido
-        - label: Puedo proporcionar referencias adicionales
-        - label: Puedo revisar/validar la implementación
-        - label: Solo estoy sugiriendo la idea
+        - label: "Puedo proporcionar contenido/texto sugerido"
+        - label: "Puedo proporcionar referencias adicionales"
+        - label: "Puedo revisar/validar la implementación"
+        - label: "Solo estoy sugiriendo la idea"
 
   - type: textarea
     id: additional
     attributes:
-      label: Información Adicional
-      description: Cualquier otro contexto relevante
+      label: "Información Adicional"
+      description: "Cualquier otro contexto relevante"

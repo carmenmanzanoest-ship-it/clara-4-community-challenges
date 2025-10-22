@@ -180,7 +180,7 @@ Modelo TPACK, Taxonomía de Bloom Revisada, Challenge-Based Learning, Aprendizaj
 - Compartir casos de uso reales inspirados en estos challenges
 
 Por favor contacta a la autora: **Carmen Delia Manzano**  
-LinkedIn: https://linkedin.com/in/carmendeliamanzano 
+LinkedIn: https://linkedin.com/in/carmen-delia-manzano 
 Email: controlsafemail.365@keemail.me
 
 ---
@@ -205,7 +205,7 @@ Los análisis son **propuestas estratégicas basadas en mejores prácticas inter
 ## 📊 Versión y Actualizaciones
 
 **Versión actual:** Clara 4.0 Community Edition - 2025  
-**Última actualización:** [Fecha actual]  
+**Última actualización:** 22-10-2025  
 **Changelog:**
 - 2025-01: Publicación inicial con 3 challenges (Salud, Legal, Educación)
 - [Futuras actualizaciones se documentarán aquí]

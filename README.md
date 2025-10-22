@@ -2,6 +2,18 @@
 ![Version](https://img.shields.io/badge/version-4.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Carmen%20Delia%20Manzano-pink.svg" alt="Made by Carmen Delia Manzano" />
+  <img src="https://img.shields.io/badge/Powered%20by-Clara%204.0%20Community%20Edition-blueviolet.svg" alt="Powered by Clara 4.0 Community Edition" />
+  <img src="https://img.shields.io/badge/AI%20Framework-GPT%20Intelligence%20System-lightblue.svg" alt="AI Framework" />
+  <img src="https://img.shields.io/badge/Purpose-Educational%20%7C%20Strategic%20Demonstration-green.svg" alt="Educational Purpose" />
+</p>
+
+---
+
 🌐 [Read in English](README_EN.md)
 
 # 🚀 Clara 4.0 Community Edition - Challenges Repository

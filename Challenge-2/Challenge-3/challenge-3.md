@@ -716,4 +716,424 @@ Estructura:
 │ Fiduciario: Institución financiera                              │
 │ Fideicomisario: Hijo C                                          │
 │                                                                  │
-│ Patrimonio Fideicom
+│ Patrimonio Fideicomitido: $100,000 en inversiones financieras   │
+│                                                                  │
+│ Instrucciones del Fideicomiso:                                  │
+│ • Distribuciones mensuales: $1,500 (gastos de vida)            │
+│ • Distribuciones extraordinarias: Educación, salud, vivienda    │
+│   (requieren justificación al fiduciario)                       │
+│ • Capital NO puede ser embargado por acreedores personales      │
+│ • Plazo: 10 años o hasta que Hijo C demuestre estabilidad       │
+│   financiera (a criterio de fiduciario)                         │
+│ • Al término: Capital residual pasa a propiedad plena de Hijo C │
+│                                                                  │
+│ Cláusula de Protección:                                         │
+│ "Este fideicomiso es IRREVOCABLE e INEMBARGABLE. Ningún         │
+│ acreedor de [Hijo C] podrá reclamar sobre estos activos         │
+│ mientras estén bajo administración fiduciaria."                 │
+└─────────────────────────────────────────────────────────────────┘
+
+Costo: $5,000-$8,000 (constitución) + 1-1.5% anual (administración)
+Beneficio: Protección, disciplina financiera, paz mental
+
+══════════════════════════════════════════════════════════════════
+COMPARATIVA DE ESTRATEGIAS
+══════════════════════════════════════════════════════════════════
+
+│ Estrategia        │ Costo    │ Complejidad │ Ahorro Fiscal │ Protección │
+│───────────────────│──────────│─────────────│───────────────│────────────│
+│ Testamento solo   │ $5K      │ Baja        │ $0            │ Media      │
+│ + Donaciones vida │ $8K      │ Media       │ $55K-$100K    │ Alta       │
+│ + Seguros vida    │ $15K/año │ Baja        │ $30K-$50K     │ Muy Alta   │
+│ + Reorganización  │ $35K     │ Alta        │ $20K-$40K     │ Muy Alta   │
+│ + Fideicomiso     │ $8K      │ Media       │ $10K-$20K     │ Muy Alta   │
+│───────────────────│──────────│─────────────│───────────────│────────────│
+│ PLAN INTEGRAL     │ $71K +   │ Alta        │ $115K-$210K   │ Máxima     │
+│                   │ $15K/año │             │               │            │
+
+ROI del Plan Integral:
+- Inversión: $71,000 + ($15,000 × 10 años seguros) = $221,000
+- Ahorro fiscal: $115,000-$210,000
+- Ahorro en litigios evitados: $200,000-$500,000
+- Preservación de valor del negocio: $180,000 (evitar venta forzada)
+- BENEFICIO TOTAL: $495,000-$890,000
+- ROI: 224%-402% 🚀
+
+Metodología: Derecho sucesorio comparado, planificación patrimonial, 
+ingeniería fiscal lícita, gobierno corporativo familiar
+🖼️ Captura 4: Plan de Distribución y Comunicación Familiar
+Contenido esperado de Clara:
+📊 PROPUESTA DE DISTRIBUCIÓN PATRIMONIAL INTEGRAL
+
+══════════════════════════════════════════════════════════════════
+DISTRIBUCIÓN RECOMENDADA (Combinando todas las estrategias)
+══════════════════════════════════════════════════════════════════
+
+┌─────────────────────────────────────────────────────────────────┐
+│                     PATRIMONIO TOTAL: $1,680,000                 │
+└─────────────────────────────────────────────────────────────────┘
+
+🏠 VIVIENDA PRINCIPAL ($450,000)
+├─ Usufructo Vitalicio → ESPOSA (derecho de vivir hasta su fallecimiento)
+├─ Nuda Propiedad → 4 HIJOS (25% c/u)
+├─ Valor actual para esposa: $450K (usufructo vitalicio = 100% uso)
+└─ Valor heredado por cada hijo al fallecimiento de esposa: $112,500
+
+🏢 APARTAMENTO EN ALQUILER ($280,000)
+├─ DONACIÓN EN VIDA con reserva de usufructo → ESPOSA
+├─ Padre retiene usufructo (cobra rentas $1,500/mes hasta su muerte)
+├─ Al fallecimiento del padre: ESPOSA propietaria plena
+├─ Al fallecimiento de esposa: 4 HIJOS heredan (25% c/u = $70K c/u)
+└─ Ahorro fiscal: ~$20K-$35K
+
+💼 NEGOCIO FAMILIAR ($600,000 = 80% participación padre)
+Opción Recomendada: REORGANIZACIÓN + HOLDING
+
+FASE 1 (Inmediata): Crear Holding Familiar
+├─ PADRE: 60% = $360,000
+├─ HIJO A: 30% = $180,000 (reconocimiento inversiones documentadas)
+└─ ESPOSA: 10% = $60,000 (protección económica)
+
+FASE 2 (Al fallecimiento del padre): Sucesión de 60% del padre
+
+Distribución del 60% del padre ($360,000):
+├─ HIJO A: Derecho preferente de compra del 60%
+│  └─ Pago: $90,000 a cada uno de los otros 3 hermanos en 5 años
+│      (Total: $270,000 pagaderos)
+│  └─ Hijo A se queda con: 30% inicial + 60% comprado = 90% total
+│  └─ Garantía: Hipoteca sobre activos del negocio
+│
+├─ Si Hijo A NO puede/quiere ejercer opción:
+│  └─ Entra en FIDEICOMISO EMPRESARIAL 10 años
+│  └─ Hijo A: Director General con sueldo de mercado
+│  └─ Utilidades distribuidas: 25% c/heredero anualmente
+│  └─ Después de 10 años: Reevaluación (venta o continuidad)
+│
+└─ Si ninguna opción es viable:
+   └─ Venta a terceros en subasta
+   └─ Producto distribuido según % participación en holding
+
+Resultado esperado:
+✓ HIJO A: 90% del negocio (valorado en $540K) - Operador
+✓ ESPOSA: 10% del negocio ($60K) - Rentista
+✓ OTROS 3 HIJOS: $90K cada uno + intereses (total $95K-$100K c/u en 5 años)
+
+💰 INVERSIONES FINANCIERAS ($350,000)
+
+Distribución Inmediata (Donaciones en vida - 5 años):
+Año 1-5: Donar $15,000/año/hijo (si exento fiscalmente)
+├─ HIJO A: $75,000 (5 años × $15K)
+├─ HIJA B: $75,000
+├─ HIJO C: $75,000
+└─ HIJO 1er matrimonio: $75,000
+Total donado: $300,000 (SIN impuestos si está bajo límite de exención)
+
+Distribución Testamentaria ($50,000 restantes + intereses generados):
+├─ ESPOSA: $20,000 adicionales (complemento seguridad)
+├─ HIJO C: $30,000 → FIDEICOMISO con distribuciones mensuales
+└─ Ahorro fiscal estimado: $40K-$65K
+
+🛡️ SEGUROS DE VIDA (Beneficios al fallecimiento)
+
+SEGURO 1 - Liquidez Patrimonial: $150,000
+└─ Beneficiario: Patrimonio sucesorio (pagar impuestos)
+
+SEGURO 2 - Compensación Hijo C: $150,000
+└─ Beneficiario directo: HIJO C (liquidez inmediata, no embargable)
+
+SEGURO 3 - Compra del Negocio: $450,000
+└─ Beneficiario: HIJO A (para pagar a hermanos por sus participaciones)
+
+══════════════════════════════════════════════════════════════════
+RESUMEN POR HEREDERO (Valor Neto Proyectado)
+══════════════════════════════════════════════════════════════════
+
+👤 ESPOSA
+├─ Usufructo vitalicio vivienda principal: $450,000 (uso completo)
+├─ Propiedad apartamento alquiler: $280,000 (genera $1,500/mes)
+├─ 10% negocio en holding: $60,000 (genera dividendos)
+├─ Inversiones donadas/heredadas: $20,000
+├─ TOTAL: $810,000 + ingresos pasivos ~$3,000/mes
+└─ PROTECCIÓN: Máxima, vejez asegurada con dignidad ✅
+
+👤 HIJO A (Operador del Negocio)
+├─ 90% del negocio (30% inicial + 60% comprado): $540,000
+├─ Menos: Pago a hermanos en 5 años: -$270,000
+├─ Inversiones donadas: $75,000
+├─ 25% nuda propiedad vivienda (futuro): $112,500
+├─ NETO: $457,500 + control total del negocio
+├─ OBLIGACIÓN: Pagar $90K a c/hermano en 5 años (~$18K/año c/u)
+└─ RECONOCIMIENTO: Inversiones y dedicación valoradas ✅
+
+👤 HIJA B (Profesional Independiente)
+├─ Compensación por negocio (de Hijo A): $90,000 (+ intereses 5 años)
+├─ Inversiones donadas: $75,000
+├─ 25% nuda propiedad vivienda (futuro): $112,500
+├─ 25% apartamento (tras fallecimiento esposa): $70,000
+├─ TOTAL: $347,500
+└─ FLEXIBILIDAD: Capital líquido para inversión ✅
+
+👤 HIJO C (Con Dificultades Financieras)
+├─ Seguro de vida directo: $150,000 (inmediato, NO embargable)
+├─ Fideicomiso $30,000 (distribución mensual $500 por 5 años)
+├─ Compensación por negocio (de Hijo A): $90,000 (5 años)
+├─ Inversiones donadas: $75,000
+├─ 25% nuda propiedad vivienda (futuro): $112,500
+├─ 25% apartamento (tras fallecimiento esposa): $70,000
+├─ TOTAL: $527,500
+└─ PROTECCIÓN: Capital protegido de acreedores ✅
+
+👤 HIJO PRIMER MATRIMONIO (Sin relación familiar)
+├─ Compensación por negocio (de Hijo A): $90,000 (5 años)
+├─ Inversiones donadas: $75,000
+├─ 25% nuda propiedad vivienda (futuro): $112,500
+├─ 25% apartamento (tras fallecimiento esposa): $70,000
+├─ TOTAL: $347,500
+└─ EQUIDAD: Legítima respetada plenamente ✅
+
+══════════════════════════════════════════════════════════════════
+ANÁLISIS DE EQUIDAD Y JUSTICIA
+══════════════════════════════════════════════════════════════════
+
+Valor Neto por Heredero (excluyendo esposa):
+
+│ Heredero              │ Valor Total │ % del Total │ Observaciones        │
+│───────────────────────│─────────────│─────────────│──────────────────────│
+│ Hijo A                │ $457,500    │   26.3%     │ + Control del negocio│
+│ Hija B                │ $347,500    │   20.0%     │ Capital líquido      │
+│ Hijo C                │ $527,500    │   30.4%     │ + Protección especial│
+│ Hijo 1er matrimonio   │ $347,500    │   20.0%     │ Mínima relación      │
+│───────────────────────│─────────────│─────────────│──────────────────────│
+│ TOTAL HEREDEROS       │$1,680,000   │  96.7%      │                      │
+│ Esposa (adicional)    │ $810,000    │  46.6%*     │ *No es heredera, es  │
+│                       │             │             │ cónyuge supérstite   │
+
+✅ CRITERIOS DE JUSTICIA APLICADOS:
+
+1. **Igualdad Base:** Cada hijo recibe valor similar ($347K-$527K)
+2. **Reconocimiento de Mérito:** Hijo A recibe negocio pero PAGA por él
+3. **Protección Especial:** Hijo C recibe más por vulnerabilidad
+4. **Equidad Legal:** Hijo 1er matrimonio recibe legítima completa
+5. **Protección Conyugal:** Esposa asegurada económicamente
+
+══════════════════════════════════════════════════════════════════
+🗣️ PROTOCOLO DE COMUNICACIÓN FAMILIAR
+══════════════════════════════════════════════════════════════════
+
+📅 FASE 1: PREPARACIÓN (Semanas 1-2)
+
+Paso 1: Consulta Profesional Previa
+├─ Reunión con abogado especialista (validar legalidad del plan)
+├─ Reunión con contador fiscal (optimización tributaria)
+├─ Reunión con mediador familiar profesional (estrategia de comunicación)
+└─ Documentos preparados: Avalúos, auditoría inversiones Hijo A, borrador testamento
+
+Paso 2: Pre-comunicación Individual (Opcional)
+├─ Reunión privada Padre + Hijo A: Explicar plan del negocio, prepararlo
+├─ Reunión privada Padre + Esposa: Explicar protección económica
+├─ Objetivo: Aliados clave entienden y apoyan el plan antes de reunión general
+└─ [CRITERIO] Recomendado si se anticipan resistencias fuertes
+
+📅 FASE 2: COMUNICACIÓN GENERAL (Semana 3)
+
+Paso 3: Reunión Familiar Facilitada
+┌─────────────────────────────────────────────────────────────────┐
+│ CONVOCATORIA (Email formal del padre):                          │
+│                                                                  │
+│ "Querida familia:                                               │
+│                                                                  │
+│ Los invito a una reunión familiar el [fecha] a las [hora] en    │
+│ [lugar neutral - NO casa familiar, quizá oficina de abogado].   │
+│                                                                  │
+│ Objetivo: Compartir con ustedes mi planificación patrimonial    │
+│ para el futuro, escuchar sus opiniones y responder dudas.       │
+│                                                                  │
+│ Esta NO es una negociación, pero SÍ es una conversación.        │
+│ Quiero que entiendan mis decisiones y las razones detrás.       │
+│                                                                  │
+│ Asistirán: Toda la familia + nuestro abogado [nombre] +         │
+│ un mediador familiar [nombre] que facilitará la conversación.   │
+│                                                                  │
+│ Los quiero, [Firma Padre]"                                      │
+└─────────────────────────────────────────────────────────────────┘
+
+Estructura de la Reunión (2-3 horas):
+
+00:00-00:10 | APERTURA (Padre)
+├─ "Gracias por venir. Esto no es fácil para mí, pero es necesario."
+├─ "He vivido 72 años y construido este patrimonio con esfuerzo."
+├─ "Quiero decidir yo cómo se distribuye, no que lo decida un juez."
+└─ "Necesito que sepan: Los amo a todos por igual, pero justiciar no siempre es igualar."
+
+00:10-00:40 | PRESENTACIÓN DEL PLAN (Abogado + Padre)
+├─ Presentación en PowerPoint con números claros
+├─ Explicación de situación legal actual (sucesión intestada = riesgo)
+├─ Presentación del plan propuesto con distribución detallada
+├─ Énfasis en: protección de esposa, continuidad del negocio, equidad
+└─ Padre explica RAZONES de decisiones diferenciales
+
+00:40-01:10 | RECONOCIMIENTOS Y JUSTIFICACIONES (Padre)
+├─ "Hijo A: El negocio es tuyo porque lo construiste conmigo. Has invertido
+│   $150,000 de tu bolsillo y 15 años de tu vida. Es justicia."
+├─ "Hijo C: Tu herencia está protegida porque te amo y quiero cuidarte
+│   de decisiones impulsivas. No es desconfianza, es protección."
+├─ "Hija B: Tu camino ha sido independiente y exitoso. Este capital te
+│   permitirá seguir creciendo."
+├─ "Hijo de mi primer matrimonio: Respeto tus derechos legales. Recibes
+│   tu parte justa aunque no hayamos tenido relación cercana."
+└─ "Mi esposa: Estos 30 años juntos merecen que tu vejez sea digna y
+    sin preocupaciones económicas."
+
+01:10-01:50 | ESPACIO PARA PREGUNTAS Y EMOCIONES (Mediador facilita)
+├─ Cada familiar puede expresar dudas, preocupaciones, emociones
+├─ Mediador asegura que todos sean escuchados sin interrupciones
+├─ Padre y abogado responden preguntas técnicas
+├─ Padre valida emociones ("Entiendo que esto te sorprende/preocupa")
+└─ NO se negocian decisiones, pero SÍ se escuchan perspectivas
+
+01:50-02:00 | CIERRE (Padre)
+├─ "Sé que no todos estarán 100% satisfechos. Eso es normal."
+├─ "Les pido: Respeten mis decisiones. Las tomé con amor y reflexión."
+├─ "Lo más importante: Mantengan la unión familiar después de que yo me vaya."
+├─ "Si tienen dudas adicionales, las puertas están abiertas para hablar
+│   individualmente con el abogado o conmigo."
+└─ "Los amo. Gracias por escuchar."
+
+02:00+ | Espacio informal (café, snacks)
+└─ Conversaciones uno-a-uno si alguien necesita procesar emociones
+
+📅 FASE 3: SEGUIMIENTO (Semanas 4-8)
+
+Paso 4: Reuniones Individuales Opcionales
+├─ Disponibilidad del padre y abogado para aclarar dudas privadas
+├─ Especial atención a quien muestre más resistencia o dolor
+└─ Objetivo: No dejar cabos sueltos emocionales
+
+Paso 5: Formalización Legal
+├─ Firma de testamento ante notario
+├─ Inicio de trámites de donaciones en vida
+├─ Contratación de seguros de vida
+├─ Constitución de holding y fiducicomiso (si aplican)
+└─ Actualización de pacto de socios del negocio
+
+Paso 6: Comunicación de Cierre
+├─ Email/carta formal: "El plan ha sido formalizado legalmente"
+├─ Copia del testamento disponible para consulta (sin entrega de originales)
+├─ Recordatorio: Estoy vivo, esto no es un adiós, es previsión
+└─ Invitación a seguir conversando sobre el tema cuando sea necesario
+
+══════════════════════════════════════════════════════════════════
+💬 MANEJO DE OBJECIONES ANTICIPADAS
+══════════════════════════════════════════════════════════════════
+
+🚫 OBJECIÓN 1 (Hijo C): "¿Por qué mi dinero está en fideicomiso? ¿No confías en mí?"
+
+✅ RESPUESTA RECOMENDADA:
+"Hijo, confío en ti como persona. Pero también conozco tus dificultades financieras 
+y sé que tienes acreedores presionándote. Este fideicomiso NO es castigo, es un 
+escudo legal. Si recibieras $100,000 en efectivo, tus acreedores podrían embargártelo 
+al día siguiente y quedarías sin nada. El fideicomiso te protege: recibes $500/mes 
+que nadie puede tocarte, por 5 años. Después, si demuestras estabilidad, el capital 
+es todo tuyo. Es amor paternal, no desconfianza."
+
+🚫 OBJECIÓN 2 (Hija B): "¿Por qué Hijo A se queda con el negocio completo? Eso no es justo."
+
+✅ RESPUESTA RECOMENDADA:
+"Entiendo tu punto. Déjame explicarte: Hijo A no 'se queda' con el negocio gratis. 
+Debe PAGARTE $90,000 en 5 años más intereses. Además, él invirtió $150,000 de su 
+dinero personal en el negocio (tenemos auditoría que lo comprueba) y trabajó 15 años 
+sin sueldo de mercado construyendo la cartera de clientes. Sin él, este negocio valdría 
+la mitad. Tú recibirás $347,500 en total, él recibirá $457,500 pero con la OBLIGACIÓN 
+de dirigir el negocio y pagar a todos. Si dividimos el negocio en 4 partes, habría 
+que venderlo y TODOS recibiríamos menos. ¿Prefieres $90,000 seguros o 25% de un 
+negocio que no sabes operar y que podría colapsar?"
+
+🚫 OBJECIÓN 3 (Hijo 1er matrimonio): "Apenas te conozco y recibo lo mismo que tus otros hijos. Debería recibir menos."
+
+✅ RESPUESTA RECOMENDADA:
+"Aprecio tu honestidad. Legalmente, eres mi hijo y tienes los mismos derechos. 
+Moralmente, reconozco que no estuve presente en tu vida como padre. Este monto 
+($347,500) es lo que la ley establece como tu legítima. No puedo darte menos sin 
+que impugnes el testamento, y no quiero generar un litigio que destruya a tu medio-
+hermanos. Acepto mi responsabilidad: aunque no tuvimos relación, eres mi sangre y 
+mereces lo que te corresponde. Ojalá esto cierre de manera digna una historia que 
+pudo ser diferente."
+
+🚫 OBJECIÓN 4 (Hijo A): "¿Y si no puedo pagar $270,000 a mis hermanos? ¿Pierdo el negocio?"
+
+✅ RESPUESTA RECOMENDADA:
+"Por eso estructuramos el pago en 5 años, no de golpe. Son ~$54,000/año, que es 
+manejable con las utilidades del negocio. Además, tendrás un seguro de vida por 
+$450,000 que cobrás cuando yo fallezca: con eso pagas a tus hermanos desde el inicio 
+si quieres. El negocio genera ~$200,000 de utilidad anual, así que es financieramente 
+viable. Pero si por alguna razón no puedes, hay plan B: el negocio entra en fideicomiso 
+10 años, tú lo diriges con sueldo, y todos reciben utilidades. Después de 10 años, 
+reevaluamos. NO vas a perder el negocio, te lo garantizo con estas opciones."
+
+══════════════════════════════════════════════════════════════════
+📋 CHECKLIST DE COMUNICACIÓN EXITOSA
+══════════════════════════════════════════════════════════════════
+
+✅ Todos los herederos fueron convocados e invitados por igual
+✅ Reunión en espacio neutral (no casa familiar)
+✅ Mediador profesional presente (no solo abogado)
+✅ Presentación visual clara con números específicos
+✅ Padre explicó RAZONES, no solo decisiones
+✅ Se validaron emociones sin ceder en decisiones
+✅ Cada persona tuvo espacio para expresarse
+✅ Se manejaron objeciones con empatía y lógica
+✅ Se ofreció disponibilidad posterior para dudas
+✅ Plan formalizado legalmente tras la reunión
+
+Si se cumplen estos 10 puntos, probabilidad de aceptación familiar: >80%
+
+Metodología: Comunicación no violenta (Rosenberg), Mediación familiar,
+Gestión de conflictos, Psicología de herencias
+🖼️ Captura 5: Hoja de Ruta de Implementación
+Contenido esperado de Clara:
+🗺️ ROADMAP DE IMPLEMENTACIÓN (6 meses)
+
+══════════════════════════════════════════════════════════════════
+MES 1: DIAGNÓSTICO Y PREPARACIÓN
+══════════════════════════════════════════════════════════════════
+
+Semana 1-2:
+✓ Consulta con abogado especialista en derecho sucesorio
+  └─ Entregables: Análisis legal situación actual, riesgos, opciones
+
+✓ Auditoría de inversiones de Hijo A en el negocio
+  └─ Entregables: Informe documentado con respaldos ($150K)
+
+✓ Avalúo profesional de activos inmobiliarios
+  └─ Vivienda principal ($450K) y apartamento ($280K)
+
+✓ Valuación profesional del negocio familiar
+  └─ Metodología: Múltiplo de EBITDA + activos + intangibles
+  └─ Entregable: Informe de valuación ($600K confirmado o ajustado)
+
+Semana 3-4:
+✓ Reunión con contador/asesor fiscal
+  └─ Análisis de carga tributaria actual vs. optimizada
+  └─ Estrategia de donaciones en vida (límites, exenciones)
+  └─ Entregable: Plan de optimización fiscal
+
+✓ Cotización de seguros de vida
+  └─ 3 pólizas: Liquidez ($150K), Hijo C ($150K), Hijo A ($450K)
+  └─ Entregable: Propuestas de 3 aseguradoras, comparativa
+
+✓ Consulta con mediador familiar
+  └─ Diseño de estrategia de comunicación
+  └─ Preparación para reunión familiar
+
+INVERSIÓN MES 1: $8,000-$12,000
+PROFESIONALES INVOLUCRADOS: Abogado, contador, valuadores, mediador
+
+══════════════════════════════════════════════════════════════════
+MES 2: DISEÑO ESTRATÉGICO
+══════════════════════════════════════════════════════════════════
+
+Semana 5-6:
+✓ Redacción completa del testamento (con abogado)
+  └─ Todas las cláusulas detalladas en Estrategia #1
+  └─ Anexos: avalúos, auditoría inversiones Hijo A
+  └─ Car

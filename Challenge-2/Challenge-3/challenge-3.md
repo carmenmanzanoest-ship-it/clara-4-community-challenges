@@ -592,3 +592,128 @@ Con todo mi amor, [Nombre del Padre]"
 ESTRATEGIA #2: DONACIONES EN VIDA (Optimización Fiscal)
 ══════════════════════════════════════════════════════════════════
 
+🎁 DONACIÓN CON RESERVA DE USUFRUCTO
+
+Ventajas:
+✓ Reduce base imponible del impuesto sucesorio futuro
+✓ Donante mantiene control y uso de bienes de por vida
+✓ Evita proceso sucesorio para esos bienes específicos
+✓ Menores tasas impositivas que sucesión en muchas jurisdicciones
+
+Propuesta Concreta:
+
+DONACIÓN 1: Apartamento en Alquiler → Esposa
+├─ Nuda propiedad: Donación a esposa HOY
+├─ Usufructo vitalicio: Retenido por donante (padre)
+├─ Efecto: Esposa recibe propiedad ahora, padre cobra rentas de por vida
+├─ Beneficio fiscal: Valor de nuda propiedad es ~50-60% del valor total
+├─ Impuesto: Sobre $140K-$168K (vs. $280K en sucesión)
+└─ Ahorro estimado: $15K-$30K en impuestos
+
+DONACIÓN 2: Participación en Inversiones → Hijos
+├─ Donar anualmente hasta límite exento de impuestos
+├─ Ejemplo: Si exención es $15K/año/persona → $60K/año (4 hijos)
+├─ En 5 años: $300K transferidos sin impuestos
+├─ Donante conserva $50K para su seguridad
+└─ Ahorro estimado: $40K-$70K en impuestos sucesorios
+
+⚠️ [REQUIERE VALIDACIÓN] - Límites de exención y tasas varían por jurisdicción
+
+══════════════════════════════════════════════════════════════════
+ESTRATEGIA #3: SEGUROS DE VIDA (Liquidez y Equidad)
+══════════════════════════════════════════════════════════════════
+
+🛡️ PÓLIZAS ESTRATÉGICAS:
+
+PÓLIZA 1: Seguro de Liquidez para Impuestos
+├─ Monto: $150,000
+├─ Beneficiario: Patrimonio sucesorio (no persona específica)
+├─ Objetivo: Pagar impuestos sucesorios sin vender activos
+├─ Prima estimada: $3,500-$5,000/año (edad 72)
+└─ Beneficio: Evita venta forzada o endeudamiento
+
+PÓLIZA 2: Seguro de Compensación para Hijo C
+├─ Monto: $150,000
+├─ Beneficiario: Hijo C (directamente)
+├─ Objetivo: Proveer liquidez inmediata, reducir presión sobre herencia
+├─ Ventaja adicional: No forma parte de patrimonio sucesorio (no embargable)
+└─ Prima estimada: $3,000-$4,500/año
+
+PÓLIZA 3: Seguro Cruzado para Hijo A (Compra de Participaciones)
+├─ Monto: $450,000 (75% del valor del negocio)
+├─ Beneficiario: Hijo A
+├─ Objetivo: Financiar compra de participaciones de hermanos en el negocio
+├─ Estructura: Hijo A paga primas, cobra al fallecimiento del padre
+├─ Mecanismo: Con ese dinero, compra participaciones de hermanos según testamento
+└─ Prima estimada: $8,000-$12,000/año (puede ser pagada por el negocio)
+
+COSTO TOTAL ANUAL SEGUROS: $14,500-$21,500
+BENEFICIO: Liquidez, equidad, continuidad del negocio
+
+══════════════════════════════════════════════════════════════════
+ESTRATEGIA #4: REORGANIZACIÓN SOCIETARIA
+══════════════════════════════════════════════════════════════════
+
+🏢 SEPARACIÓN PATRIMONIO PERSONAL / EMPRESARIAL
+
+Situación Actual (Riesgosa):
+├─ Padre posee 80% del negocio directamente
+├─ Negocio mezclado con patrimonio personal
+└─ Todo entra en sucesión simultáneamente
+
+Propuesta de Reorganización:
+
+PASO 1: Crear Holding Familiar
+┌─────────────────────────────────────────────────────────────────┐
+│                    HOLDING FAMILIAR MARTÍNEZ SA                  │
+│                                                                  │
+│  Accionistas:                                                    │
+│  • Padre: 60%                                                    │
+│  • Hijo A: 30% (reconocimiento de inversiones)                  │
+│  • Esposa: 10%                                                   │
+│                                                                  │
+│  Activo de Holding: 80% del NEGOCIO OPERATIVO                   │
+│                                                                  │
+│  Ventajas:                                                       │
+│  ✓ Clara estructura de propiedad                                │
+│  ✓ Hijo A ya tiene 30%, reduce conflicto futuro                 │
+│  ✓ Decisiones empresariales separadas de herencia              │
+│  ✓ Esposa tiene participación (protección económica)            │
+│  ✓ Pacto de socios puede incluir cláusulas sucesorias          │
+└─────────────────────────────────────────────────────────────────┘
+
+PASO 2: Pacto de Socios con Cláusulas Sucesorias
+Contenido clave:
+├─ Derecho de preferencia: Hijo A tiene opción de compra antes que terceros
+├─ Valoración: Método objetivo (múltiplo de EBITDA, valuación independiente)
+├─ Financiamiento: Hasta 5 años de plazo para pago diferido
+├─ Gobernanza: Mientras se resuelve sucesión, Hijo A es CEO con poderes amplios
+├─ Deadlock: Si hay empate en decisiones, mediador empresarial externo decide
+└─ No competencia: Herederos que vendan no pueden competir por 3 años
+
+PASO 3: Protocolo Familiar Empresarial
+Documento que regula:
+├─ ¿Quiénes de la familia pueden trabajar en la empresa? (requisitos)
+├─ ¿Cómo se toman decisiones estratégicas?
+├─ ¿Qué pasa si un heredero quiere vender su participación?
+├─ ¿Cómo se distribuyen utilidades vs. reinversión?
+├─ ¿Cómo se resuelven conflictos sin destruir la empresa ni la familia?
+└─ Consejo Familiar: Reunión trimestral con todos los stakeholders
+
+Costo de Reorganización: $25,000-$40,000
+Tiempo: 3-4 meses
+Beneficio: Estructura sostenible por generaciones
+
+══════════════════════════════════════════════════════════════════
+ESTRATEGIA #5: FIDEICOMISO TESTAMENTARIO (Protección)
+══════════════════════════════════════════════════════════════════
+
+🏦 FIDEICOMISO PARA HIJO C (Protección de Acreedores)
+
+Estructura:
+┌─────────────────────────────────────────────────────────────────┐
+│ Fideicomitente: Padre (en testamento)                           │
+│ Fiduciario: Institución financiera                              │
+│ Fideicomisario: Hijo C                                          │
+│                                                                  │
+│ Patrimonio Fideicom

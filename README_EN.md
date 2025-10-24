@@ -180,8 +180,8 @@ TPACK Model, Revised Bloom's Taxonomy, Challenge-Based Learning, Competency-Base
 - Share real use cases inspired by these challenges
 
 Please contact the author: **Carmen Delia Manzano**  
-LinkedIn: [linkedin.com/in/carmendeliamanzano](https://linkedin.com/in/carmendeliamanzano)  
-Email: controlsafemail.365@keemail.me ---
+LinkedIn: [linkedin.com/in/carmendeliamanzano](https://linkedin.com/in/carmen-delia-manzano)  
+Email: controlsafemail.365@keemail.me     ---
 
 ## ⚠️ Important Disclaimers
 
@@ -240,11 +240,9 @@ Special thanks to:
 ## 📞 Contact and Support
 
 **Author:** Carmen Delia Manzano  
-**LinkedIn:** [linkedin.com/in/carmendeliamanzano](https://linkedin.com/in/carmendeliamanzano)  
+**LinkedIn:** [linkedin.com/in/carmendeliamanzano](https://linkedin.com/in/carmen-delia-manzano)  
 **GitHub:** [github.com/carmen-delia-manzano] (if applicable)  
-**Email:** [your-email@domain.com]
-
-For inquiries about:
+**Email:** controlsafemail.365@keemail.me  For inquiries about:
 - Using Clara 4.0 in professional projects
 - Collaborations and case studies
 - Training and workshops

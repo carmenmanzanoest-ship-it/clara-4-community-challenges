@@ -1,4 +1,4 @@
-leftADME_EN.md (Versión en Inglés - Parcial)
+README_EN.md (Versión en Inglés - Parcial)
 # 🚀 Clara 4.0 Community Edition - Challenges Repository
 
 *[Read this in Spanish](README.md)*

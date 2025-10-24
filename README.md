@@ -3,15 +3,6 @@
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
 
-
-![Clones](https://img.shields.io/badge/Clones-45-blueviolet?style=for-the-badge)
-![Usuarios%20%C3%9Anicos](https://img.shields.io/badge/Cloners%20%C3%9Anicos-28-gold?style=for-the-badge)
-![Vistas](https://img.shields.io/badge/Vistas-610-black?style=for-the-badge)
-![Visitantes%20%C3%9Anicos](https://img.shields.io/badge/Visitantes%20%C3%9Anicos-53-violet?style=for-the-badge)
-
-
-
-
 ---
 
 <p align="center">

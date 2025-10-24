@@ -181,9 +181,7 @@ TPACK Model, Revised Bloom's Taxonomy, Challenge-Based Learning, Competency-Base
 
 Please contact the author: **Carmen Delia Manzano**  
 LinkedIn: [linkedin.com/in/carmendeliamanzano](https://linkedin.com/in/carmendeliamanzano)  
-Email: [your-email@domain.com]
-
----
+Email: controlsafemail.365@keemail.me ---
 
 ## ⚠️ Important Disclaimers
 

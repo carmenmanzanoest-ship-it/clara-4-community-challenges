@@ -1,4 +1,4 @@
-name: "❓ Pregunta"
+bloba-4-challenges: "❓ Pregunta"
 description: "Hacer una pregunta sobre el repositorio o los challenges"
 title: "[QUESTION] "
 labels: ["question"]
@@ -8,7 +8,7 @@ body:
     attributes:
       value: |
         Antes de preguntar, revisa si tu duda está respondida en:
-        - [FAQ.md](https://github.com/carmenmanzanoest-ship-it/clara-4-challenges/blob/main/FAQ.md)
+        - [FAQ.md](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/FAQ.md)
         - [README.md](https://github.com/carmenmanzanoest-ship-it/clara-4-challenges/blob/main/README.md)
         - [CONTRIBUTING.md](https://github.com/carmenmanzanoest-ship-it/clara-4-challenges/blob/main/CONTRIBUTING.md)
 

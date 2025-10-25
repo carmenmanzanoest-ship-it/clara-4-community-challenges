@@ -1,4 +1,4 @@
-bloba-4-challenges: "❓ Pregunta"
+name: "❓ Pregunta"
 description: "Hacer una pregunta sobre el repositorio o los challenges"
 title: "[QUESTION] "
 labels: ["question"]

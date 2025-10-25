@@ -252,7 +252,7 @@ Special thanks to:
 
 ## 🔗 Additional Resources
 
-- [Clara 4.0 Main Repository](link-to-main-repo)
+- [Clara 4.0 Main Repository](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges)
 - [Complete Technical Documentation](link-to-docs)
 - [Professional Prompts Guide](link-to-guide)
 - [Success Stories and Testimonials](link-to-cases)

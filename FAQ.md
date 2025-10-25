@@ -117,7 +117,7 @@ Sí, hay varias formas de contribuir:
 4. Compartir casos de uso (anonimizados)
 5. Ampliar referencias y benchmarks
 
-Ver [CONTRIBUTING.md](CONTRIBUTING.md) para detalles completos.
+[Ver sección de Contribuciones](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/README.md#contribuciones) para detalles completos.
 
 ### ¿Cómo se reconocen las contribuciones?
 

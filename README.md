@@ -8,7 +8,7 @@
 
 
 
-![Version](https://img.shie<p align="center">
+<p align="center">
 
   <img src="https://img.shields.io/badge/Clones-45-blueviolet?style=for-the-badge" alt="Clones">
   <img src="https://img.shields.io/badge/Cloners%20%C3%9Anicos-28-gold?style=for-the-badge" alt="Cloners Únicos">

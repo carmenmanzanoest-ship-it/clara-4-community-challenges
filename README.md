@@ -1,4 +1,4 @@
-carmenmanzanoest-ship-itarmenmanzanoest-ship-it[License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 ![Version](https://img.shields.io/badge/version-4.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 

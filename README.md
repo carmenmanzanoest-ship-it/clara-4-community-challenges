@@ -1,10 +1,14 @@
-License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
-![Version](https://img.shields.io/badge/version-4.0-blue.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
+<div align="center">
+
+![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+![Version](https://img.shields.io/badge/Version-4.0-blue.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+
+</div>
 
 
 
-<p align="center">
+![Version](https://img.shie<p align="center">
 
   <img src="https://img.shields.io/badge/Clones-45-blueviolet?style=for-the-badge" alt="Clones">
   <img src="https://img.shields.io/badge/Cloners%20%C3%9Anicos-28-gold?style=for-the-badge" alt="Cloners Únicos">

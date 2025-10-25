@@ -3,7 +3,7 @@ README_EN.md (Versión en Inglés - Parcial)
 
 *[Read this in Spanish](README.md)*
 
-Official **Challenges Repository** demonstrating the professional capabilities of **Clara 4.0 Community Editclara-4-community-challenges-community-challengesn real-world high-complexity scenarios: operational optimization, strategic planning, andclara-4-community-challengesonstrate how **Clara 4.0 Community Edition** analyzes, diagnoses, and transforms complex processes and systems across various sectors, providing:
+Official **Challenges Repository** demonstrating the professional capabilities of **Clara 4.0 Community Editclara-4-community-challenges-community-challengesn real-world high-complexity scenarios: operational optimization, strategic planning, andclara-4-community-challengesonstrate how **Clara 4.0 Community Edition** analyzes, diagnosesGuideransforms complex processes and systems across various sectors, providing:
 
 ✅ Strategic analysis grounded in recognized frameworks  
 ✅ Risk identification and bottleneck detection  
@@ -247,7 +247,7 @@ Special thanks to:
 ## 🔗 Additional Resources
 
 - [Clara 4.0 Main Repository](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges)
-- [Complete Technical Documentation](https://github.com/carmenmanzanoest-ship-it/clara-4.0-community-challenges/blob/main/README_EN.md Technicalfessional Prompts Guide](link-to-guide)
+- [Complete Technical Documentation](https://github.com/carmenmanzanoest-ship-it/clara-4.0-community-challenges/blob/main/README.md Technicalfessional Prompts Guide](link-to-guide)
 - [Success Stories and Testimonials](link-to-cases)
 
 ---

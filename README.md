@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+carmenmanzanoest-ship-itarmenmanzanoest-ship-it[License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
 ![Version](https://img.shields.io/badge/version-4.0-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
@@ -31,7 +31,7 @@
 🌐 [Read in English](README_EN.md)
 ## 🎉 Últimas Noticias
 
-**🚀 Release v1.0.0 disponible!** (27 Ene 2025) - Lanzamiento oficial con 3 challenges completos. [Ver notas del release →](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/releases/tag/v1.0.0)
+**🚀 Release v1.0.0 disponible!** (27 Ene 2025) - Lanzamiento oficial con 3 challenges completos. [Ver notas del release →](https://github.com/carmenmanzanoes/clara-4-community-challenges/releases/tag/v1.0.0)
 # 🚀 Clara 4.0 Community Edition - Challenges Repository
 
 Repositorio oficial de **Challenges** que demuestran las capacidades profesionales de **Clara 4.0 Community Edition** en escenarios reales de alta complejidad: optimización operativa, planificación estratégica y análisis de sistemas complejos.

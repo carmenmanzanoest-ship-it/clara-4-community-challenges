@@ -84,10 +84,7 @@ Hospital general con 300 camas enfrenta saturación en urgencias: largas esperas
 - `challenge2-urgencias-hospitalarias.md` - Análisis completo
 - `/images/challenge2/` - Capturas visuales del proceso
 
-<h3 align="center">🏥 Challenge #2 – Optimización de Urgencias Hospitalarias</h3>
-<p align="center">
-  <img src="assets/challenge-2-urgencias.png" width="800" alt="Challenge #2 – Optimización de Urgencias Hospitalarias">
-</p>
+
 
 
 

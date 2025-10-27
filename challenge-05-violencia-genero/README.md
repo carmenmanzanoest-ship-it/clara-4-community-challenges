@@ -3360,7 +3360,7 @@ Ver [CONTRIBUTING.md](../CONTRIBUTING.md)
 
 ## 📜 Licencia
 
-Este contenido está bajo licencia [MIT](../LICENSE) - libre uso con atribución.
+Este contenido está bajo licencia [https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/LICENSE.md) - libre uso con atribución.
 
 ---
 

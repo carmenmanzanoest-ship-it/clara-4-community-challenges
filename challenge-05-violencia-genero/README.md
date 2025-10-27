@@ -1447,17 +1447,19 @@ Archivo: README.md (raíz del repo)
 
 Colección de challenges avanzados resueltos por **Clara 4.0**, asistente virtual profesional especializada en análisis estratégico, gestión empresarial e inteligencia aplicada.
 
+
 ## 📚 Índice de Challenges
 
 | # | Título | Tema | Complejidad | Puntuación | Estado |
-|---|--------|------|-------------|------------|--------|
-| 1 | [Challenge 1](#) | [Tema] | ⭐⭐⭐ | [XX/100] | ✅ Completado |
-| 2 | [Challenge 2](#) | [Tema] | ⭐⭐⭐⭐ | [XX/100] | ✅ Completado |
-| 3 | [Challenge 3](#) | [Tema] | ⭐⭐⭐ | [XX/100] | ✅ Completado |
-| 4 | [Challenge 4](#) | [Tema] | ⭐⭐⭐⭐ | [XX/100] | ✅ Completado |
-| 5 | [**Sistema Integral VG**](./challenge-05-violencia-genero) | Violencia de Género | ⭐⭐⭐⭐⭐ | **95.4/100** 🏆 | ✅ Completado |
-| 6 | [Ocupación Ilegal](./challenge-06-ocupacion-ilegal) | Vivienda y Conflictividad | ⭐⭐⭐⭐⭐ | Pendiente | 🚧 En desarrollo |
-| 7 | [Reinserción Penitenciaria](./challenge-07-prision) | Justicia y Reinserción | ⭐⭐⭐⭐⭐ | Pendiente | 📋 Planificado |
+|---|---------|------|--------------|-------------|---------|
+| 2 | Challenge 2 – Optimización de Urgencias Hospitalarias | Salud / Gestión Sanitaria | ⭐⭐⭐⭐ | [XX/100] | ✅ Completado |
+| 3 | Challenge 3 – Planificación de Herencias | Derecho / Gestión Patrimonial | ⭐⭐⭐ | [XX/100] | ✅ Completado |
+| 4 | Challenge 4 – Transformación Universitaria | Educación / Innovación | ⭐⭐⭐⭐ | [XX/100] | ✅ Completado |
+| 5 | [Challenge 5 – Sistema Integral VG](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/challenge-05-violencia-genero/README.md) | Violencia de Género / Intervención Social | ⭐⭐⭐⭐⭐ | [XX/100] | ✅ Desarrollo completo |
+
+
+
+
 
 ## 🌟 Challenge Destacado: Sistema Integral contra Violencia de Género
 

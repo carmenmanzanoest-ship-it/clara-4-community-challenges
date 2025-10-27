@@ -1522,11 +1522,17 @@ Los challenges desarrollados por Clara 4.0 son **propuestas técnicas basadas en
 
 Siempre consulta con profesionales certificados para implementaciones reales.
 
-## 📜 Licencia
 
-Este proyecto está bajo licencia **MIT** - ver [LICENSE](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/LICENSE.md
 
-Libre uso con atribución a "Clara 4.0 Community"
+## 🪪 Licencia
+
+Este proyecto está bajo licencia **Creative Commons BY-NC-ND 4.0** — consulta el archivo [LICENSE](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/LICENSE.md).
+
+**Uso libre con atribución a “Clara 4.0 Community”. No se permite uso comercial ni modificaciones.**
+
+
+
+
 
 ## 📞 Contacto y Comunidad
 

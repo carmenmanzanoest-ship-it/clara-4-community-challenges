@@ -17,7 +17,78 @@ challenge-05-violencia-genero/README.md
 ## 🎯 Objetivo del Challenge
 
 [Copiar el objetivo completo del documento]
-
+🚨 CHALLENGE 5: VIOLENCIA DE GÉNERO
+Sistema Integral de Prevención y Respuesta
+📋 CONTEXTO DEL DESAFÍO
+Eres director/a de Políticas Sociales de un municipio de 250,000 habitantes. Los datos del último año son alarmantes:
+Indicadores actuales:
+847 denuncias por violencia de género (+34% vs año anterior)
+12 casos de violencia extrema requiriendo hospitalización
+3 feminicidios en los últimos 18 meses
+Tasa de reincidencia: 67% en agresores sin intervención
+Solo 23% de víctimas completan proceso de denuncia
+Tiempo promedio de respuesta institucional: 72 horas
+156 órdenes de alejamiento activas (cumplimiento parcial: 41%)
+Presupuesto disponible: €850,000/año
+Recursos humanos: 8 trabajadores sociales, 2 psicólogos, coordinación con policía local
+Problemáticas sistémicas detectadas:
+Descoordinación entre servicios sociales, policía, justicia y salud
+Falta de protocolos unificados de actuación
+Víctimas enfrentan revictimización en procesos institucionales
+Escasa formación especializada en funcionarios públicos
+Infraestructura insuficiente (refugios, centros de atención)
+Limitada prevención primaria en educación
+Estigma social que dificulta denuncias
+Agresores sin programas de reeducación efectivos
+🎯 OBJETIVOS DEL CHALLENGE
+Diseñar un Sistema Integral de Prevención, Detección y Respuesta ante Violencia de Género que incluya:
+1. Marco Estratégico Multidimensional
+Análisis de causas raíz (modelo ecológico: individual, relacional, comunitario, societal)
+Teoría del cambio documentada
+Objetivos SMART a 1, 3 y 5 años
+Indicadores de impacto (no solo de gestión)
+2. Protocolo de Actuación Inmediata
+Flujo de respuesta 0-24h, 24-72h, +72h
+Criterios de valoración de riesgo (con escala validada tipo VPR)
+Coordinación interinstitucional operativa
+Mecanismos de protección urgente
+3. Programa de Prevención Primaria
+Intervención en sistema educativo (primaria, secundaria, bachillerato)
+Campañas de sensibilización (público general + grupos específicos)
+Formación en masculinidades no violentas
+Detección precoz en contextos comunitarios
+4. Atención Integral a Víctimas
+Modelo de atención psicosocial (fases de intervención)
+Acompañamiento legal sin coste
+Itinerarios de inserción sociolaboral
+Vivienda de emergencia y transicional
+Atención a hijos/as (menores expuestos)
+5. Intervención con Agresores
+Programas de reeducación (voluntarios y obligatorios)
+Seguimiento de cumplimiento de medidas judiciales
+Evaluación de riesgo de reincidencia
+6. Sistema de Coordinación Institucional
+Mesa técnica permanente (composición, funciones, periodicidad)
+Protocolo de derivación entre servicios
+Sistema de información compartido (compatible con LOPD)
+Circuitos de comunicación ágiles
+7. Plan de Formación Especializada
+Cursos obligatorios para funcionarios de contacto
+Especialización en trauma para profesionales de atención
+Formación judicial y policial específica
+8. Infraestructura y Recursos
+Dimensionamiento de recursos necesarios (RRHH, físicos, tecnológicos)
+Priorización de inversiones
+Plan de sostenibilidad financiera
+9. Sistema de Evaluación y Mejora Continua
+KPIs de proceso, resultado e impacto
+Mecanismos de monitoreo trimestral
+Auditoría externa anual
+Participación de supervivientes en evaluación
+10. Marco Legal y Normativo
+Ordenanza municipal específica
+Convenios de colaboración interinstitucional
+Cumplimiento normativo (Ley Orgánica 1/2004, Convenio Estambul, etc.)
 ## 📊 Dashboard Interactivo
 
 🔗 [Ver Dashboard](./dashboard/index.html)

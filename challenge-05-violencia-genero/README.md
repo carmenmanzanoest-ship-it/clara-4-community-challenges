@@ -1384,6 +1384,228 @@ Para víctimas con perfil emprendedor o dificultad inserción convencional:
 **Inversión:** €50,000/año
 
 
+🏠 SUBCOMPONENTE 4.2: ITINERARIO HABITACIONAL PROGRESIVO
+Objetivo: 60% de víctimas con vivienda estable propia al mes 24
+MODELO DE 4 NIVELES:
+NIVEL 1: EMERGENCIA (0-3 meses)
+═══════════════════════════════════════════════════════════════
+Recurso: Refugio de emergencia (20 plazas)
+Características:
+• Ubicación confidencial
+• Atención 24/7
+• Estancia máxima: 3 meses
+• Servicios incluidos: alojamiento, manutención, atención integral
+• Coste para víctima: €0
+Población: Riesgo extremo/alto (60% del total)
+
+▼ Transición cuando: Riesgo controlado + Tramitación ayudas iniciada
+
+NIVEL 2: TRANSICIÓN (3-9 meses)
+═══════════════════════════════════════════════════════════════
+Recurso: Pisos de acogida supervisados (15 unidades)
+Características:
+• Ubicación normalizada (barrios diversos)
+• Supervisión semanal (trabajadora social)
+• Pisos compartidos (2-3 víctimas) o individuales (con hijos/as)
+• Ayuda económica complementaria (alimentación, suministros)
+• Coste para víctima: €50-150/mes (según ingresos)
+Población: Riesgo medio + víctimas en formación
+
+▼ Transición cuando: Ingresos estables (IMV/empleo) + Autonomía demostrada
+
+NIVEL 3: AUTONOMÍA TUTELADA (9-18 meses)
+═══════════════════════════════════════════════════════════════
+Recurso: Red de viviendas privadas con aval social
+Características:
+• Vivienda en mercado libre (alquiler)
+• Aval social municipal (sustituye fianza + garantías)
+• Ayuda al alquiler decreciente:
+  - Meses 9-12: 80% del alquiler (máx. €500)
+  - Meses 13-15: 60% del alquiler (máx. €400)
+  - Meses 16-18: 40% del alquiler (máx. €300)
+• Seguimiento social mensual
+• Fondo de emergencia para imprevistos
+Población: Víctimas con empleo estable
+
+▼ Transición cuando: Solvencia económica demostrada (3 meses)
+
+NIVEL 4: AUTONOMÍA PLENA (18-24 meses)
+═══════════════════════════════════════════════════════════════
+Recurso: Vivienda propia (alquiler sostenible)
+Características:
+• Contrato alquiler a nombre propio
+• Capacidad de pago demostrada
+• Ayuda excepcional puntual (máx. 2 meses/año)
+• Seguimiento social trimestral
+• Alta del programa habitacional (mes 24)
+Población: Víctimas con autonomía consolidada
+Gestión de la Red Habitacional:
+Convenios con propietarios privados:
+Incentivos fiscales (deducción IRPF por alquiler social)
+Garantía de pago municipal (aval)
+Mantenimiento básico incluido
+Seguro de impagos
+Contrato mínimo: 2 años
+Meta: 50 viviendas en red (30 nuevas)
+Inversión: €90,000/año (ayudas alquiler + avales + coordinación)
+🧠 SUBCOMPONENTE 4.3: ATENCIÓN PSICOSOCIAL ESPECIALIZADA
+Objetivo: Recuperación de trauma, reconstrucción de autoestima, empoderamiento
+MODELO DE INTERVENCIÓN PSICOLÓGICA:
+FASE 1: CONTENCIÓN Y SEGURIDAD (Meses 0-3)
+Foco: Estabilización emocional post-crisis
+Frecuencia: Semanal (1h)
+Modalidad: Individual
+Objetivos:
+Contención de crisis emocionales
+Validación de vivencias
+Psicoeducación sobre trauma y VG
+Técnicas de regulación emocional (ansiedad, pánico)
+Construcción de red de apoyo inmediata
+Enfoque terapéutico: Trauma-Informed Care (atención sensible al trauma)
+FASE 2: PROCESAMIENTO DE TRAUMA (Meses 3-12)
+Foco: Elaboración del trauma y reconstrucción identitaria
+Frecuencia: Semanal (primeros 6 meses) → Quincenal (meses 7-12)
+Modalidad: Individual + Grupal
+Objetivos:
+Procesamiento de recuerdos traumáticos (EMDR, Exposición narrativa)
+Deconstrucción de creencias distorsionadas ("fue mi culpa", "merezco sufrir")
+Reconstrucción de autoestima
+Trabajo de duelo (por relación perdida, proyecto vital)
+Desarrollo de asertividad
+Terapias evidenciadas:
+EMDR (Eye Movement Desensitization and Reprocessing)
+Terapia Cognitivo-Conductual focalizada en trauma
+Terapia Narrativa
+FASE 3: EMPODERAMIENTO Y PROYECTO VITAL (Meses 12-24)
+Foco: Autonomía emocional y construcción de futuro
+Frecuencia: Mensual
+Modalidad: Individual + Grupal
+Objetivos:
+Consolidación de logros
+Prevención de relaciones futuras tóxicas (señales de alarma)
+Proyecto vital propio (más allá de la supervivencia)
+Cierre terapéutico
+Plan de prevención de recaídas
+GRUPOS TERAPÉUTICOS ESPECIALIZADOS:
+1. Grupo de Apoyo Mutuo "Mujeres Resilientes"
+Encuentros semanales (90 min)
+Facilitado por psicóloga + superviviente referente
+10-12 participantes (grupo cerrado, 6 meses)
+Temáticas: Gestión emocional, relaciones sanas, empoderamiento
+Beneficio demostrado: Reducción aislamiento, modelaje positivo
+2. Grupo de Crianza Positiva "Madres Fuertes"
+Para madres con hijos/as (menores expuestos a VG)
+Quincenal (90 min)
+Contenidos: Crianza no violenta, gestión de comportamientos, apoyo emocional a hijos/as
+8-10 participantes
+3. Grupo de Mindfulness y Autocuidado
+Semanal (60 min)
+Técnicas de relajación, meditación, yoga
+Reducción de ansiedad y estrés postraumático
+ATENCIÓN A MENORES EXPUESTOS (Hijos/as de víctimas):
+Datos alarmantes:
+78% de víctimas tienen hijos/as a cargo
+100% de estos menores son víctimas indirectas (exposición a violencia)
+Consecuencias: Trauma, trastornos de conducta, reproducción patrones
+Intervención especializada:
+Evaluación psicológica inicial (0-30 días)
+Terapia infantil individual (según edad y daño)
+Terapia de vínculo madre-hijo/a (reparación relación)
+Coordinación con centros educativos
+Talleres grupales por edades (expresión emocional, resolución conflictos)
+Equipo: 2 psicólogas infantiles
+Inversión: €60,000/año
+⚖️ SUBCOMPONENTE 4.4: ACOMPAÑAMIENTO JURÍDICO INTEGRAL
+Objetivo: Garantizar acceso a justicia sin coste y sin revictimización
+Servicio Jurídico Gratuito "Justicia para Todas":
+Cobertura:
+Representación legal en proceso penal (contra agresor)
+Representación en proceso civil (divorcio, custodia, pensión)
+Tramitación de órdenes de protección
+Reclamación de indemnizaciones
+Defensa ante incumplimientos de órdenes
+Equipo: 3 abogadas especializadas en VG (jornada completa)
+Ratio: 1 abogada / 40 casos activos
+Protocolo de actuación:
+1. PRIMERA CONSULTA (24-48h desde derivación)
+   - Análisis de situación jurídica
+   - Explicación de procesos y plazos
+   - Opciones legales disponibles
+   - Expectativas realistas
+
+2. ACOMPAÑAMIENTO PROCESAL
+   - Preparación de denuncias/demandas
+   - Acompañamiento a juicios (presencia física)
+   - Coordinación con fiscalía
+   - Información continua de avances
+   - Traducción jurídica a lenguaje comprensible
+
+3. PROTECCIÓN DE DERECHOS
+   - Vigilancia de cumplimiento de órdenes
+   - Denuncia de incumplimientos
+   - Solicitud de medidas adicionales si necesario
+   - Reclamación de indemnizaciones
+
+4. COORDINACIÓN INTERINSTITUCIONAL
+   - Comunicación fluida con trabajadora social
+   - Información compartida (con consentimiento)
+   - Visión integral del caso
+Inversión: €90,000/año (salarios + gastos procesales)
+📊 INDICADORES DE ATENCIÓN INTEGRAL
+Indicador
+Línea Base
+Meta Año 1
+Meta Año 3
+Metodología
+Víctimas atendidas en programa
+0
+80
+120/año
+Registro IPI
+Completitud del IPI
+23%
+50%
+≥70%
+(Completan 18 meses / Total ingresos) x 100
+Inserción laboral (12 meses)
+18%
+30%
+≥40%
+Seguimiento laboral
+Vivienda estable (24 meses)
+35%
+50%
+≥60%
+Seguimiento habitacional
+Mejora bienestar psicológico
+Línea base
++30%
++50%
+Escala validada (pre-post)
+Satisfacción con atención
+N/A
+≥80%
+≥85%
+Encuesta anual
+Reagresión durante programa
+67%
+40%
+<25%
+Registro de incidentes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🛠️ Plantillas Descargables
 
 - [📋 Valoración Inicial Víctima](./plantillas/valoracion-inicial.md)

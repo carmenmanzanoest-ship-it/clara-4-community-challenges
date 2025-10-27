@@ -3362,7 +3362,7 @@ Ver [CONTRIBUTING.md](https://github.com/carmenmanzanoest-ship-it/clara-4-commun
 
 Este contenido está bajo licencia
 Creative Commons BY-NC-ND 4.0 —
-[https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/LICENSE.md) - Uso libre con atribución a “Clara 4.0 Community”. No se permite uso comercial ni modificaciones.
+[https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/LICENSE.md] - Uso libre con atribución a “Clara 4.0 Community”. No se permite uso comercial ni modificaciones.
 
 ---
 
@@ -3377,7 +3377,7 @@ Colección de challenges avanzados resueltos por **Clara 4.0**, asistente virtua
 
 
 ## 📚 Índice de Challenges
-
+<p align="center">
 | # | Título | Tema | Complejidad | Puntuación | Estado |
 |---|---------|------|--------------|-------------|---------|
 | 2 | [Challenge 2 – Optimización de Urgencias Hospitalarias](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/challenge-2/challenge2-urgencias-hospitalarias.md) | Salud / Gestión Sanitaria | ⭐⭐⭐⭐ | [XX/100] | ✅ Completado |
@@ -3385,7 +3385,7 @@ Colección de challenges avanzados resueltos por **Clara 4.0**, asistente virtua
 | 4 | [Challenge 4 – Transformación Universitaria](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/Challenge-4/challenge4-transformacion-universitaria.md) | Educación / Innovación | ⭐⭐⭐⭐⭐ | [XX/100] | ✅ Completado |
 | 5 | [Challenge 5 – Sistema Integral VG](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/challenge-05-violencia-genero/README.md) | Violencia de Género / Intervención Social | ⭐⭐⭐⭐⭐ | [XX/100] | ✅ Desarrollo completo |
 
-
+</p>
 
 
 

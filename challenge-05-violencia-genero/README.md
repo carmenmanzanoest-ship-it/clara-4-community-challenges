@@ -24,7 +24,7 @@ challenge-05-violencia-generoo/README.md
 
 ## 🎯 Objetivo del Challenge
 
-[Copiar el objetivo completo del documento]
+
 🚨 CHALLENGE 5: VIOLENCIA DE GÉNERO
 Sistema Integral de Prevención y Respuesta
 📋 CONTEXTO DEL DESAFÍO

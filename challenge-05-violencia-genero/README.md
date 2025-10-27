@@ -1474,7 +1474,13 @@ Sistema municipal integral de prevención y respuesta ante violencia de género 
 - ✅ Análisis de viabilidad y plan de implementación 36 meses
 - ✅ Sistema de evaluación con SROI 1:4.2
 
-🔗 [Ver Challenge completo](./challenge-05-violencia-genero)
+
+### 4.2 🔗 Ver Challenge completo
+
+[Ver Challenge completo](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/challenge-05-violencia-genero/README.md)
+
+
+
 
 ## 🎯 Sobre Clara 4.0
 

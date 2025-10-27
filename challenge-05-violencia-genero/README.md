@@ -3362,7 +3362,7 @@ Ver [CONTRIBUTING.md](https://github.com/carmenmanzanoest-ship-it/clara-4-commun
 
 Este contenido está bajo licencia
 Creative Commons BY-NC-ND 4.0 —
-[https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/LICENSE.md) - libre uso con atribución.
+[https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/LICENSE.md) - Uso libre con atribución a “Clara 4.0 Community”. No se permite uso comercial ni modificaciones.
 
 ---
 

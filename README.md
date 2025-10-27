@@ -242,6 +242,16 @@ Los análisis tienen **fines exclusivamente educativos y demostrativos**. NO con
 ### 🎓 Challenge Educación:
 Los análisis son **propuestas estratégicas basadas en mejores prácticas internacionales**, no sustituyen consultorías especializadas en transformación educativa, acreditación universitaria o implementación de tecnología educativa. Toda transformación institucional debe considerar contexto normativo, cultural y presupuestario específico.
 
+
+
+## 🚨 Challenge 5 – Sistema Integral VG
+
+<p align="center">
+| # | Título | Tema | Complejidad | Puntuación | Estado |
+|---|---------|------|-------------|-------------|---------|
+| 5 | <a href="https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/challenge-05-violencia-genero/README.md">Challenge 5 – Sistema Integral VG</a> | Violencia de Género / Intervención Social | ⭐⭐⭐⭐⭐ | [XX/100] | ✅ Desarrollo completo |
+</p>
+
 ---
 
 ## 📊 Versión y Actualizaciones

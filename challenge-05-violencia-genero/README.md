@@ -1593,7 +1593,186 @@ Reagresión durante programa
 <25%
 Registro de incidentes
 
+✅ FASE 8/10 COMPLETADA: INTERVENCIÓN CON AGRESORES
+⚖️ COMPONENTE 5: REDUCCIÓN DE REINCIDENCIA
+Objetivo: Reducir reincidencia de agresores del 67% al <35% mediante programas de reeducación y seguimiento exhaustivo
+Presupuesto: €70,000/año (8% del total)
+Población diana: 45 agresores/año en programas
+Posicionamiento ético:
+La intervención con agresores NO es excusa ni justificación de la violencia. Es una estrategia complementaria de protección a víctimas: sin cambio en el agresor, el riesgo persiste. Responsabilización, no victimización del agresor.
+🎯 MODELO DE INTERVENCIÓN: PROGRAMA "HOMBRES SIN VIOLENCIA"
+Basado en: Modelo Duluth (Minnesota, EEUU) adaptado + Programa Contexto (España)
+Duración: 12 meses (intensivo) + 12 meses (seguimiento)
+Modalidad: Grupal (8-10 participantes) + Individual si necesario
+📋 CRITERIOS DE ACCESO
+Tipología de agresores atendidos:
+1. Programa VOLUNTARIO (30% casos):
+Agresores que reconocen problema
+Sin orden judicial pero motivación de cambio
+Pueden ser preventivos (hombres que detectan conductas violentas)
+2. Programa OBLIGATORIO judicial (70% casos):
+Impuesto por sentencia o medida cautelar
+Suspensión de condena condicionada a cumplimiento
+Libertad vigilada con tratamiento
+Criterios de EXCLUSIÓN (derivación a recursos especializados):
+Trastorno mental grave no estabilizado
+Adicción activa sin tratamiento paralelo
+Violencia extrema con alta peligrosidad (prisión)
+Negación total y ausencia de motivación (obligatorios inicialmente)
+🗓️ ESTRUCTURA DEL PROGRAMA
+FASE 1: EVALUACIÓN Y COMPROMISO (Mes 1)
+Evaluación multidimensional:
+Historia de violencia (frecuencia, gravedad, tipos)
+Factores de riesgo (consumos, salud mental, antecedentes)
+Actitudes hacia violencia y hacia mujeres
+Motivación al cambio (escala de Prochaska)
+Nivel de peligrosidad (instrumento validado)
+Herramientas:
+Inventario de Pensamientos Distorsionados sobre la Mujer (IPDMV)
+Escala de Tácticas de Conflicto (CTS-2)
+Inventario de Hostilidad (Buss-Durkee)
+Contrato terapéutico:
+Compromiso de asistencia (>85% sesiones)
+Reconocimiento de responsabilidad (no culpar a víctima)
+Prohibición de contacto con víctima (si orden vigente)
+Consecuencias de abandono (comunicación a juzgado)
+FASE 2: RESPONSABILIZACIÓN (Meses 2-4)
+Objetivo: Romper negación, minimización y culpabilización
+Contenidos:
+Sesión 1-2: "Mi historia de violencia"
+Reconstrucción cronológica de episodios violentos
+Identificación de patrones (qué desencadena, cómo escalo, qué justificaciones uso)
+Sesión 3-4: "El impacto de mi violencia"
+Consecuencias en víctima (físicas, psicológicas, sociales, económicas)
+Consecuencias en hijos/as (trauma, modelaje, lealtades)
+Consecuencias en mí mismo (pérdida de familia, antecedentes, vergüenza)
+Sesión 5-6: "Mitos y realidades sobre VG"
+Deconstrucción de creencias: "Me provocó", "Perdí el control", "Fue mutuo"
+La violencia como decisión, no como pérdida de control
+Responsabilidad: "Yo elegí usar violencia"
+Metodología:
+Confrontación empática (no agresiva, pero firme)
+Role-playing (ponerse en lugar de víctima)
+Testimonios de supervivientes (vídeos)
+FASE 3: GESTIÓN EMOCIONAL (Meses 5-7)
+Objetivo: Desarrollar alternativas no violentas a la ira
+Contenidos:
+Sesión 7-8: "Alfabetización emocional masculina"
+Identificar emociones más allá de la ira (miedo, tristeza, vergüenza)
+Diferenciar emoción vs. conducta ("sentir ira es normal, agredir no")
+Sesión 9-10: "Mi escala de la violencia"
+Señales de alerta tempranas (físicas, cognitivas, emocionales)
+Técnicas de desescalada: Time-out, respiración, autoinstrucciones
+Sesión 11-12: "Comunicación asertiva vs. agresiva"
+Expresar necesidades sin violencia
+Escucha activa y empatía
+Herramientas prácticas:
+Plan personal de prevención de crisis
+Tarjeta de bolsillo con estrategias
+Línea de apoyo 24/7 (ante riesgo de agresión)
+FASE 4: MASCULINIDAD Y CREENCIAS (Meses 8-10)
+Objetivo: Deconstruir creencias sexistas que sostienen la violencia
+Contenidos:
+Sesión 13-14: "¿Qué aprendí sobre ser hombre?"
+Mandatos de masculinidad hegemónica (fortaleza, control, no mostrar debilidad)
+Cómo estos mandatos facilitan violencia
+Sesión 15-16: "Poder y control en la pareja"
+Rueda de poder y control (Modelo Duluth)
+Identificar mis tácticas de control (económico, aislamiento, intimidación)
+Sesión 17-18: "Igualdad y respeto en la pareja"
+Rueda de igualdad (alternativa no violenta)
+Relación basada en respeto, no en dominación
+FASE 5: PREVENCIÓN DE RECAÍDAS (Meses 11-12)
+Objetivo: Consolidar cambios y prevenir reagresión
+Contenidos:
+Sesión 19-20: "Situaciones de alto riesgo"
+Identificar contextos de riesgo (consumos, estrés, conflictos)
+Plan de prevención específico
+Sesión 21-22: "Mi plan de vida sin violencia"
+Compromisos de futuro
+Red de apoyo (a quién llamar si riesgo)
+Proyecto vital más allá de violencia
+Sesión 23-24: "Cierre y evaluación"
+Evaluación post-tratamiento
+Certificado de finalización (para juzgado)
+Compromiso de seguimiento
+📞 SEGUIMIENTO POST-PROGRAMA (Meses 13-24)
+Sesiones mensuales grupales (90 min):
+Revisión de situación actual
+Apoyo mutuo entre participantes
+Refuerzo de aprendizajes
+Detección precoz de recaídas
+Contactos telefónicos trimestrales individuales
+Coordinación con servicios de vigilancia:
+Información a policía/juzgado de evolución
+Alerta inmediata ante riesgo de reincidencia
+📊 EVALUACIÓN DE EFECTIVIDAD
+Indicadores de proceso:
+Tasa de asistencia (objetivo: ≥85%)
+Tasa de finalización (objetivo: ≥65%)
+Abandono prematuro (objetivo: <20%)
+Indicadores de resultado:
+Cambio en actitudes sexistas (pre-post con escalas validadas)
+Cambio en tácticas de conflicto (CTS-2 pre-post)
+Reducción de hostilidad
+Indicadores de impacto:
+Tasa de reincidencia a 12 meses: Objetivo <30%
+Tasa de reincidencia a 24 meses: Objetivo <35%
+Satisfacción de participantes
+Percepción de seguridad de víctimas (si contacto permitido)
+Metodología de medición reincidencia:
+Seguimiento judicial (nuevas denuncias/condenas)
+Seguimiento policial (incidentes registrados)
+Consulta a víctimas (si contacto permitido y consentimiento)
+👮 VIGILANCIA DE CUMPLIMIENTO DE ÓRDENES
+Problema actual: 59% incumplen órdenes sin consecuencias inmediatas
+Propuesta: Unidad de Seguimiento de Órdenes de Alejamiento
+Recursos:
+2 policías locales dedicados exclusivamente (jornada completa)
+Sistema de gestión informatizado (alertas automáticas)
+Coordinación directa con juzgados
+Protocolo:
+1. REGISTRO DE TODAS LAS ÓRDENES ACTIVAS
+   - Base de datos municipal actualizada semanalmente
+   - 156 órdenes actuales → sistema de alertas
 
+2. VERIFICACIÓN SISTEMÁTICA
+   - Llamada telefónica a víctima: 3x semana (aleatorio)
+   - Visita domicilio agresor: 1x semana (sorpresa)
+   - Verificación geolocalización (si dispositivo)
+   - Revisión CCTV municipal (si incidencia reportada)
+
+3. DETECCIÓN DE INCUMPLIMIENTO
+   - Víctima reporta contacto
+   - Policía detecta proximidad física
+   - Llamadas/mensajes registrados
+   
+   → ACTUACIÓN INMEDIATA:
+   • Desplazamiento policial <30 min
+   • Detención in fraganti si procede
+   • Atestado y comunicación urgente a juzgado
+   • Activación de protección adicional a víctima
+
+4. CONSECUENCIAS AGRAVADAS
+   - Primera infracción: Detención + agravamiento medidas
+   - Segunda infracción: Prisión provisional solicitada
+   - Comunicación inmediata a fiscal
+Meta: Aumentar cumplimiento del 41% al ≥85%
+Inversión: €80,000/año (personal + tecnología)
+⚠️ DILEMAS ÉTICOS ABORDADOS
+DILEMA 1: ¿Invertir recursos en agresores vs. víctimas?
+Posición fundamentada:
+Invertir el 8% del presupuesto en agresores NO es restar a víctimas, es protección indirecta adicional. Sin cambio en agresor, víctima sigue en riesgo (cambia de pareja, pero agresor no). Enfoque complementario, nunca sustitutivo.
+DILEMA 2: ¿Qué hacer con agresores que no cambian?
+Posición:
+El programa no es "absolución" ni garantía. Algunos agresores NO cambiarán. Criterio: tras 6 meses sin avances + actitud negativa → informe desfavorable a juzgado + endurecimiento de medidas. No perpetuamos falsas esperanzas.
+DILEMA 3: ¿Informar a víctima del progreso del agresor?
+Posición:
+SÍ, con matices:
+Víctima tiene derecho a saber si agresor está en programa
+Informes trimestrales generales (sin detalle terapéutico)
+Clara advertencia: "Participación en programa NO garantiza cambio real"
+Nunca presionar a víctima para retomar relación
 
 
 

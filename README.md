@@ -166,6 +166,9 @@ Universidad pública regional con 15,000 estudiantes enfrenta crisis de relevanc
 **Metodologías aplicadas:**  
 Modelo TPACK, Taxonomía de Bloom Revisada, Challenge-Based Learning, Aprendizaje Basado en Competencias (Perrenoud), Modelo SAMR, Lean Higher Education, Gestión del Cambio (Kotter), Análisis de Stakeholders
 
+### Challenge #5
+
+https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/challenge-05-violencia-genero/README.md
 ---
 
 ## 🧠 Acerca de Clara 4.0 Community Edition

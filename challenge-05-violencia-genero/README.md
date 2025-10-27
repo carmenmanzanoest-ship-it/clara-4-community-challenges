@@ -1260,8 +1260,7 @@ PASO 3: DERIVA
 │  ├─ Apoyo psicológico: Sesiones mensuales (alta terapéutica)    │
 │  ├─ Prevención recaídas: Señales alarma, red apoyo activada     │
 │  ├─ Participación comunitaria: Integración social plena         │
-│  │                                                               │
-│  Intensidad: Contacto mensual + disponibilidad ante crisis      │
+│  │                                                          LICENSE Intensidad: Contacto mensual + disponibilidad ante crisis      │
 │  │                                                               │
 │  ▼                                                               │
 │  ALTA DEL PROGRAMA: Autonomía lograda ✓                         │
@@ -1525,7 +1524,7 @@ Siempre consulta con profesionales certificados para implementaciones reales.
 
 ## 📜 Licencia
 
-Este proyecto está bajo licencia **MIT** - ver [LICENSE](./LICENSE)
+Este proyecto está bajo licencia **MIT** - ver [LICENSE](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/LICENSE.md
 
 Libre uso con atribución a "Clara 4.0 Community"
 

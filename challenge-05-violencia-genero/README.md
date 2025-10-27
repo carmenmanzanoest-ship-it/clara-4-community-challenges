@@ -1501,8 +1501,10 @@ Plantillas, protocolos y herramientas descargables listas para adaptar a tu cont
 ### Para evaluar:
 Sistema de scoring transparente permite autoevaluar tu propia solución.
 
-### Para contribuir:
-Issues, PRs y discusiones bienvenidas. Ver [CONTRIBUTING.md](./CONTRIBUTING.md)
+📘 **Para contribuir:**  
+Issues, PRs y discusiones son bienvenidas.  
+Consulta la sección [Contribuciones](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/README.md#contribuciones) y revisa el archivo **CONTRIBUTING.md** para más detalles.
+
 
 
 ## 🤝 Contribuciones

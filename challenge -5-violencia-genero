@@ -333,7 +333,125 @@ Supuestos críticos a validar:
 ⚠️ Riesgo: Resistencias culturales pueden enlentecer cambio
 
 
+✅ FASE 3/10 COMPLETADA: ANÁLISIS DE SITUACIÓN Y DIAGNÓSTICO
+📊 DIAGNÓSTICO CUANTITATIVO DETALLADO
+Evolución histórica (últimos 3 años):
+Año
+Denuncias
+Órdenes Protección
+Feminicidios
+Reincidencia
+2023
+632
+89
+1
+64%
+2024
+701
+102
+1
+65%
+2025
+847 (+21%)
+156 (+53%)
+1
+67%
+Tendencia
+📈 Preocupante
+📈 Aumento demanda
+⚠️ Persistente
+📈 Empeorando
+Análisis de la "cifra oscura" (casos no denunciados):
+Según metodología de la Macroencuesta de Violencia contra la Mujer 2024 (Delegación Gobierno España):
+Solo 1 de cada 5 mujeres que sufren VG denuncia
+Estimación real de casos en el municipio: ~4,235 mujeres/año sufriendo alguna forma de violencia
+Iceberg actual: Denunciamos solo el 20% del problema real
+Perfil de víctimas atendidas:
+EDAD:                          SITUACIÓN LABORAL:           HIJOS/AS A CARGO:
+18-25 años:  8%                Empleada:        31%         Sí:  78%
+26-35 años: 34%                Desempleada:     47%         No:  22%
+36-50 años: 41%                Inactiva:        22%         Promedio: 1.8 hijos/as
+>50 años:   17%
 
+NACIONALIDAD:                  NIVEL FORMATIVO:             DENUNCIA PREVIA:
+Española:     68%              Sin estudios:    12%         Sí:  34%
+Extranjera:   32%              Primaria:        29%         No:  66%
+                               Secundaria:      43%         (reincidencia invisible)
+                               Superior:        16%
+Análisis crítico:
+Víctimas son mayoritariamente mujeres en edad productiva (26-50 años) con hijos/as a cargo
+69% sin empleo o estudios → alta dependencia económica
+66% nunca denunció previamente → sufrieron violencia años antes de actuar
+32% extranjeras enfrentan barreras adicionales (idioma, documentación, red social)
+🔍 DIAGNÓSTICO CUALITATIVO: PROBLEMAS SISTÉMICOS
+1. FRAGMENTACIÓN INSTITUCIONAL (Problema crítico #1)
+Actualmente, una víctima debe interactuar con 7-12 servicios diferentes sin coordinación:
+Víctima denuncia → Policía (valoración) → Juzgado (orden) → Servicios Sociales (recursos) 
+→ Sanidad (informes) → Vivienda (empadronamiento) → Empleo (orientación) 
+→ Educación (hijos) → ONG especializada (psicológica) → Cada servicio con:
+  - Distintos horarios
+  - Documentación duplicada
+  - Sin comunicación entre ellos
+  - Tiempos de espera acumulativos
+Consecuencia: Agotamiento, abandono del proceso (77% de casos), revictimización institucional.
+2. LENTITUD DE RESPUESTA (Problema crítico #2)
+Tiempo actual entre denuncia y protección efectiva: 72 horas promedio
+Desglose del retraso:
+Denuncia en comisaría: T+0h
+Valoración policial de riesgo (VPR): T+6h promedio
+Traslado expediente a juzgado: T+24h
+Audiencia judicial (si urgente): T+48-72h
+Orden de alejamiento activa: T+72h
+Mientras tanto: Víctima en situación de riesgo máximo
+Casos documentados:
+2 de los 3 feminicidios ocurrieron en las primeras 48 horas post-denuncia, antes de activación de protección.
+3. AUSENCIA DE ALTERNATIVAS HABITACIONALES
+Situación actual:
+1 refugio municipal: 8 plazas (ocupación promedio: 112%)
+Tiempo medio de estancia: 8 meses (saturación crónica)
+Lista de espera: 23 mujeres con hijos/as
+67% víctimas retornan con agresor por falta de alternativa habitacional
+Testimonio recurrente:
+"¿Dónde voy a ir con 2 niños, sin trabajo y sin familia? No puedo permitirme un alquiler. Al menos en casa tengo un techo" (Patrón de retorno forzado)
+4. ESTIGMA Y CULPABILIZACIÓN DE VÍCTIMAS
+Barreras sociales detectadas:
+43% víctimas reportan presión familiar para "no romper la familia"
+38% enfrentan incredulidad de entorno ("algo habrás hecho")
+29% sufren aislamiento social post-denuncia
+67% expresan vergüenza y culpa (internalización)
+Narrativa social tóxica persistente:
+"¿Por qué no se fue antes?", "Seguro exagera", "Le gusta el morbo", "Por qué lo provocó"
+5. AGRESORES SIN INTERVENCIÓN
+Situación actual:
+156 órdenes de alejamiento activas
+0 programas municipales de reeducación obligatoria
+41% cumplimiento de órdenes (59% las violan)
+67% reinciden con la misma víctima u otras
+Vacío institucional:
+Sistema se enfoca en víctima (alejarla del peligro) pero NO interviene sobre la fuente del peligro (agresor). Sin cambio en el agresor, el riesgo persiste.
+⚠️ ANÁLISIS DE CAUSAS RAÍZ (Diagrama de Ishikawa)
+ALTO ÍNDICE DE VIOLENCIA DE GÉNERO
+                                   (847 denuncias, 67% reincidencia, 3 feminicidios)
+                                                    │
+                ┌───────────────────────────────────┼───────────────────────────────────┐
+                │                                   │                                   │
+        PERSONAS (Víctimas/Agresores)      PROCESOS (Institucionales)          ENTORNO (Social)
+                │                                   │                                   │
+    • Dependencia económica             • Fragmentación servicios              • Cultura patriarcal
+    • Trauma y baja autoestima          • Lentitud judicial                    • Normalización violencia
+    • Normalización violencia           • Falta protocolos unificados          • Estigma hacia víctimas
+    • Agresores sin tratamiento         • Revictimización institucional        • Invisibilización problema
+                │                                   │                                   │
+                └───────────────────────────────────┼───────────────────────────────────┘
+                                                    │
+                                          POLÍTICAS (Estructural)
+                                                    │
+                                    • Insuficiencia recursos
+                                    • Falta voluntad política histórica
+                                    • Desigualdad de género sistémica
+                                    • Educación sin perspectiva de género
+Conclusión diagnóstica:
+El problema NO es falta de marco legal (Ley 1/2004 existe), sino brecha entre ley y realidad operativa. Necesitamos transformar el sistema de implementación.
 
 
 

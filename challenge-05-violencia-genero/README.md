@@ -1504,14 +1504,17 @@ Sistema de scoring transparente permite autoevaluar tu propia solución.
 ### Para contribuir:
 Issues, PRs y discusiones bienvenidas. Ver [CONTRIBUTING.md](./CONTRIBUTING.md)
 
+
 ## 🤝 Contribuciones
 
 ¡Todas las contribuciones son bienvenidas!
 
-- 🐛 **Reportar errores:** Abre un [Issue](../../issues)
-- 💡 **Proponer mejoras:** Pull Request con tu propuesta
-- 🌍 **Traducir:** Ayuda a traducir challenges a otros idiomas
-- 📚 **Compartir casos reales:** Implementaciones basadas en estos challenges (anonimizadas)
+🐛 **Reportar errores:** [Abre un Issue](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/issues)  
+💡 **Proponer mejoras:** Envía un Pull Request con tu propuesta  
+🌍 **Traducir:** Ayuda a traducir los challenges a otros idiomas  
+📚 **Compartir casos reales:** Comparte implementaciones basadas en estos challenges (de forma anonimizada)
+
+
 
 ## ⚠️ Disclaimer
 

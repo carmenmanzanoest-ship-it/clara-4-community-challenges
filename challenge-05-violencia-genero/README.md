@@ -3186,9 +3186,160 @@ Propuestas de mejora
 Este documento fue desarrollado por IA, sin participación directa de supervivientes. Por tanto, requiere validación y enriquecimiento con sus voces y experiencias.
 
 
+🎓 ATRIBUCIÓN Y LICENCIA
+📝 CITA ACADÉMICA SUGERIDA
+Formato APA:
+Clara 4.0 Community. (2025). Challenge 5: Sistema Integral de Prevención 
+y Respuesta ante Violencia de Género [Propuesta técnica educativa]. 
+GitHub. https://github.com/[usuario]/clara-4.0-challenges/challenge-05
+Formato Vancouver:
+Clara 4.0 Community. Challenge 5: Sistema Integral de Prevención y 
+Respuesta ante Violencia de Género [Internet]. 2025 [citado 26 Oct 2025]. 
+Disponible en: https://github.com/[usuario]/clara-4.0-challenges/challenge-05
+📜 LICENCIA
+�
+￼ 
+Este documento está bajo licencia Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional (CC BY-NC-ND 4.0).
+Esto significa que:
+✅ PUEDES:
+Compartir: Copiar y redistribuir el material en cualquier medio o formato
+Usar con fines educativos: Formación, investigación, docencia
+Citar en trabajos académicos con atribución apropiada
+❌ NO PUEDES:
+Uso comercial: Vender este documento o usarlo con fines lucrativos
+Crear obras derivadas: Modificar, transformar o crear nuevas versiones sin autorización expresa
+Redistribuir modificaciones: Cualquier adaptación requiere permiso del autor
+📋 DEBES:
+Atribuir correctamente: Dar crédito a "Clara 4.0 Community"
+Indicar la licencia: Incluir enlace a CC BY-NC-ND 4.0
+Indicar si has hecho cambios: (Aunque no está permitido sin autorización)
+No sugerir endorsement: No implicar que el licenciante respalda tu uso
+🔗 Enlaces oficiales:
+Texto legal completo: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es
+Resumen legible: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+Más información sobre CC: https://creativecommons.org/
+⚖️ PERMISOS ESPECIALES
+Si deseas:
+Adaptar el documento a tu contexto específico
+Traducirlo a otro idioma
+Crear versión modificada para uso institucional
+Uso comercial (consultoría, formación de pago, etc.)
+Contacta con el autor para solicitar permiso específico.
+⚠️ EXENCIÓN DE RESPONSABILIDAD
+Esta licencia NO otorga:
+❌ Garantías de ningún tipo sobre el contenido
+❌ Responsabilidad del licenciante por el uso que se haga
+❌ Asesoramiento profesional, legal, médico o institucional
+El uso de este documento es bajo tu exclusiva responsabilidad.
+Ver Disclaimer completo para limitaciones de uso y advertencias críticas.
+🔄 IMPLICACIONES DE LA LICENCIA CC BY-NC-ND 4.0
+✅ VENTAJAS PARA TU PROYECTO
+1. Protección del trabajo original:
+Nadie puede modificar tu contenido sin permiso
+Mantienes control sobre versiones "oficiales"
+Evitas adaptaciones inadecuadas o descontextualizadas
+2. Uso educativo libre:
+Profesores pueden usar en clases
+Estudiantes pueden citar en trabajos
+Investigadores pueden referenciar libremente
+3. Prevención de uso comercial no autorizado:
+Consultoras no pueden vender tu trabajo sin permiso
+Plataformas de pago no pueden monetizarlo
+Requiere contacto contigo para usos comerciales
+4. Visibilidad con control:
+Máxima difusión en contextos educativos
+Pero con restricciones que protegen calidad
+⚠️ CONSIDERACIONES IMPORTANTES
+Limitación para colaboración abierta:
+La cláusula ND (NoDerivadas) impide que otros hagan PRs con mejoras
+Si alguien detecta un error, NO puede corregirlo directamente
+Adaptaciones a otros contextos requieren tu permiso explícito
 
+#### 🤝 EXCEPCIONES A LA LICENCIA PARA COLABORACIÓN
 
+Si bien este documento está bajo licencia CC BY-NC-ND 4.0, **invitamos a la comunidad a:**
 
+✅ **Proponer mejoras vía Issues:** Correcciones, actualizaciones, sugerencias
+✅ **Traducir a otros idiomas:** Con atribución y coordinación con el autor
+✅ **Adaptar a contextos específicos:** Para uso NO comercial, informando al autor
+
+**Para estas excepciones:**
+- Abre un Issue en GitHub describiendo tu propuesta
+- Espera aprobación antes de redistribuir versiones modificadas
+- Mantén siempre la atribución y licencia original
+
+**Contacto para permisos:** [tu-email@ejemplo.com]
+📋 ACTUALIZACIÓN DEL README DEL CHALLENGE 5
+Sección de licencia corregida:
+## 📜 Licencia
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+  <img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" />
+</a><br />
+
+Este contenido está bajo licencia [Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+**Resumen:**
+- ✅ Libre uso educativo, investigación, docencia (no comercial)
+- ✅ Compartir y redistribuir sin modificaciones
+- ✅ Citar en trabajos académicos con atribución
+- ❌ Uso comercial sin autorización
+- ❌ Crear obras derivadas sin permiso
+
+**Atribución requerida:** Clara 4.0 Community
+
+Ver [LICENSE](../LICENSE) para texto legal completo.
+
+---
+
+### 🤝 Colaboración
+
+Aunque la licencia restringe obras derivadas, **invitamos a contribuir mediante:**
+- 🐛 Issues con mejoras o correcciones
+- 💬 Discussions sobre adaptaciones
+- 📧 Contacto para permisos especiales
+
+**Para uso comercial o adaptaciones:** Contactar con el autor.
+📄 ARCHIVO LICENSE A INCLUIR
+Crea un archivo LICENSE en la raíz del repositorio:
+Creative Commons Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional
+
+=======================================================================
+
+Creative Commons Corporation ("Creative Commons") no es un estudio de 
+abogacía ni ofrece servicios legales ni asesoría legal. La distribución 
+de las licencias públicas de Creative Commons no genera una relación 
+abogado-cliente ni de cualquier otro tipo. Creative Commons proporciona 
+sus licencias y la información relacionada tal como se presenta. 
+Creative Commons no ofrece ninguna garantía con respecto a sus licencias, 
+ni sobre el material sujeto a sus términos y condiciones, ni sobre 
+cualquier información relacionada. Creative Commons queda exenta de 
+cualquier responsabilidad derivada de daños que resulten de su uso en 
+la máxima medida posible.
+
+Uso de las Licencias Públicas de Creative Commons
+
+Las licencias públicas de Creative Commons ofrecen un conjunto estándar 
+de términos y condiciones que los creadores y otros titulares de 
+derechos pueden usar para compartir obras originales...
+
+[TEXTO COMPLETO: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es]
+
+=======================================================================
+
+NOTA: Para el texto legal completo en español, visita:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es
+
+Para el resumen legible, visita:
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+Alternativamente (más común), puedes simplemente incluir:
+Este repositorio está licenciado bajo Creative Commons 
+Reconocimiento-NoComercial-SinObraDerivada 4.0 Internacional (CC BY-NC-ND 4.0)
+
+Texto legal completo disponible en:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es
+
+© 2025 Clara 4.0 Community
 
 
 

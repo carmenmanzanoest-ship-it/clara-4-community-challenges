@@ -1532,14 +1532,14 @@ Este proyecto está bajo licencia **Creative Commons BY-NC-ND 4.0** — consulta
 
 
 
-
-
 ## 📞 Contacto y Comunidad
 
-- 💬 Discusiones: [GitHub Discussions](../../discussions)
-- 🐛 Issues: [GitHub Issues](../../issues)
-- 📧 Email: [tu-email@ejemplo.com]
-- 🐦 Twitter: [@tu_usuario]
+💬 **Discusiones:** [GitHub Discussions](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/discussions)  
+🐛 **Issues:** [GitHub Issues](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/issues)  
+📧 **Email:** [controlsafemail.365@keemail.me](mailto:controlsafemail.365@keemail.me)  
+💼 **LinkedIn:** [Carmen Delia Manzano](https://www.linkedin.com/in/carmen-delia-manzano)
+
+
 
 ---
 

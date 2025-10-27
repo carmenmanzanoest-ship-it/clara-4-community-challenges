@@ -1774,8 +1774,268 @@ Informes trimestrales generales (sin detalle terapéutico)
 Clara advertencia: "Participación en programa NO garantiza cambio real"
 Nunca presionar a víctima para retomar relación
 
-
-
+✅ FASE 9/10 COMPLETADA: COORDINACIÓN Y EVALUACIÓN
+🤝 COMPONENTE 6: SISTEMA DE COORDINACIÓN INTERINSTITUCIONAL
+Objetivo: Transformar fragmentación en red coordinada con protocolos unificados
+🏛️ MESA TÉCNICA PERMANENTE DE COORDINACIÓN
+Composición (16 miembros):
+Actor
+Representante
+Rol
+Presidencia
+Concejalía de Igualdad
+Liderazgo político
+Coordinación técnica
+Director/a Servicios Sociales
+Coordinación operativa
+Servicios Sociales
+2 trabajadoras sociales VG
+Atención directa víctimas
+Policía Local
+Jefe/a Unidad Familia
+Protección y vigilancia
+Policía Nacional
+Responsable UFAM
+Coordinación estatal
+Juzgado Violencia
+Juez/a o LAJ
+Marco judicial
+Fiscalía
+Fiscal especializado VG
+Acusación pública
+Sanidad
+Coordinador/a Atención Primaria
+Detección y atención
+Urgencias Hospitalarias
+Responsable protocolo VG
+Casos graves
+Educación
+Inspector/a o Orientador/a
+Prevención y detección escolar
+Vivienda
+Técnico/a municipal
+Recursos habitacionales
+Empleo
+Orientador/a laboral
+Inserción sociolaboral
+Entidades especializadas
+Representante ONG VG
+Atención especializada
+Abogacía
+Turno especializado VG
+Asistencia jurídica
+Funcionamiento:
+Reuniones mensuales ordinarias (primer jueves mes)
+Reuniones extraordinarias ante casos críticos (convocatoria <24h)
+Actas públicas (anonimizadas) - transparencia
+Comisión permanente (5 miembros) para decisiones urgentes
+📑 PROTOCOLOS UNIFICADOS DE DERIVACIÓN
+PROTOCOLO 1: DETECCIÓN → SERVICIOS SOCIALES
+CUALQUIER PROFESIONAL detecta caso VG
+│
+├─ Informa a víctima de recursos (tarjeta informativa)
+├─ Solicita consentimiento para derivación
+│  (si deniega: respetar, entregar información escrita)
+│
+└─ SI ACEPTA:
+    ├─ Cumplimenta "Ficha de Derivación VG" (modelo único)
+    ├─ Envío a Servicios Sociales:
+    │   • Email: vg@ayuntamiento.es (cifrado)
+    │   • Fax seguro: XXX-XXX-XXX
+    │   • Presencial: entrega en mano
+    │
+    └─ SLA: Servicios Sociales contacta víctima en <48h
+           (Riesgo extremo: <4h)
+Ficha Derivación (Modelo único municipal):
+Datos básicos víctima (nombre, contacto, situación)
+Profesional derivante
+Motivo derivación (indicadores detectados)
+Nivel de riesgo estimado (VPR si policía)
+Actuaciones ya realizadas
+Consentimiento víctima firmado
+PROTOCOLO 2: SERVICIOS SOCIALES → RED INSTITUCIONAL
+Servicios Sociales actúa como gestor de caso (case manager):
+Víctima llega a SS.SS. (derivada o demanda espontánea)
+│
+PASO 1: VALORACIÓN INTEGRAL (48h máx)
+├─ Riesgo vital (VPR/RVD-BCN)
+├─ Necesidades inmediatas (vivienda, económicas, protección)
+├─ Situación hijos/as
+├─ Situación jurídica
+│
+PASO 2: PLAN DE CASO INDIVIDUALIZADO
+├─ Priorización de necesidades
+├─ Recursos a activar
+├─ Derivaciones necesarias
+│
+PASO 3: ACTIVACIÓN COORDINADA (ficha única compartida)
+├─ A POLICÍA: Si riesgo + necesidad protección
+├─ A JURÍDICO: Si denuncia o asesoramiento legal
+├─ A VIVIENDA: Si necesidad alojamiento
+├─ A PSICOLOGÍA: Atención trauma (lista espera <15 días)
+├─ A EMPLEO: Si empleabilidad (fase 2-3 IPI)
+├─ A SANIDAD: Si lesiones o salud mental
+├─ A EDUCACIÓN: Si hijos/as escolarizados (información + apoyo)
+│
+PASO 4: SEGUIMIENTO INTEGRADO
+└─ Trabajadora social: coordinadora permanente del caso
+    • Reuniones trimestrales de seguimiento (multidisciplinar)
+    • Ajustes de Plan según evolución
+    • Comunicación fluida entre profesionales (sistema compartido)
+💻 SISTEMA DE INFORMACIÓN INTEGRADO "SISVI"
+SISVI: Sistema de Información Sobre Violencia de género - Integrado
+Funcionalidades:
+Registro único de víctimas (código anonimizado)
+Historial de intervenciones (todas las actuaciones registradas)
+Alertas automáticas:
+Riesgo extremo → notificación inmediata a policía + servicios sociales
+Citas perdidas → alerta a trabajadora social
+Cumplimiento orden → seguimiento policial
+Panel de indicadores en tiempo real
+Generación automática de informes (gestión, resultados, impacto)
+Seguridad y protección de datos:
+Cumplimiento estricto RGPD Art. 9 (datos sensibles)
+Acceso restringido por perfiles (cada profesional ve solo lo necesario)
+Trazabilidad completa (quién accede, cuándo, qué consulta)
+Cifrado end-to-end
+Servidores municipales seguros (no nube externa)
+Auditorías anuales de seguridad
+Inversión desarrollo: €45,000 (inicial) + €12,000/año (mantenimiento)
+📊 COMPONENTE 7: SISTEMA DE EVALUACIÓN Y MEJORA CONTINUA
+EVALUACIÓN MULTINIVEL:
+NIVEL 1: MONITOREO CONTINUO (Mensual)
+Dashboard en tiempo real con 20 KPIs críticos:
+KPI
+Fórmula
+Meta
+Semáforo
+Tiempo respuesta promedio
+Suma horas / N° casos
+<24h
+🔴🟡🟢
+Tasa ingreso refugio
+(Ingresos / Solicitudes) x 100
+100%
+🔴🟡🟢
+Completitud IPI
+(Completan 18m / Total) x 100
+≥70%
+🔴🟡🟢
+Reincidencia trimestral
+(Reagresiones / Total órdenes) x 100
+<15%
+🔴🟡🟢
+Cumplimiento órdenes
+(Cumplidas / Total) x 100
+≥85%
+🔴🟡🟢
+Inserción laboral
+(Con empleo 12m / Total) x 100
+≥40%
+🔴🟡🟢
+Satisfacción víctimas
+Encuesta trimestral
+≥80%
+🔴🟡🟢
+Reunión mensual Mesa Técnica: Análisis de KPIs + ajustes operativos
+NIVEL 2: EVALUACIÓN ANUAL (Resultados)
+Informe Anual de Resultados:
+Análisis de todos los indicadores de proceso y resultado
+Evolución interanual
+Identificación de buenas prácticas
+Detección de gaps y áreas de mejora
+Testimoniosen primera persona (anonimizados)
+Análisis de casos complejos (aprendizajes)
+Recomendaciones de mejora
+Elaboración: Equipo de coordinación + apoyo técnico externo
+Presentación: Pleno municipal + difusión pública (datos anonimizados)
+NIVEL 3: EVALUACIÓN DE IMPACTO (Trienal)
+Evaluación externa independiente:
+Contratación de entidad especializada para evaluar:
+Impacto social real:
+¿Ha disminuido la prevalencia de VG en el municipio?
+¿Ha mejorado la percepción de seguridad de víctimas?
+¿Ha cambiado la tolerancia social hacia VG?
+Efectividad del modelo:
+¿Qué componentes son más efectivos?
+¿Dónde están las ineficiencias?
+¿Qué relación coste-efectividad tiene cada fase?
+Retorno Social de la Inversión (SROI):
+Valoración económica del impacto social
+Costes evitados (sanitarios, judiciales, sociales)
+Productividad recuperada
+Meta: Demostrar SROI ≥1:4
+Comparativa con otros municipios:
+Benchmarking de indicadores
+Identificación de mejores prácticas
+Aprendizaje mutuo
+Metodología:
+Mixta: Cuantitativa (indicadores) + Cualitativa (entrevistas, grupos focales)
+Participativa: Inclusión de supervivientes en evaluación
+Longitudinal: Seguimiento de cohortes durante 3-5 años
+Inversión: €35,000 (cada 3 años)
+NIVEL 4: MECANISMOS DE PARTICIPACIÓN (Continuo)
+A) Consejo Municipal de Igualdad:
+Órgano consultivo con participación de:
+Entidades feministas y de VG
+Asociaciones vecinales
+Sindicatos y empresas
+Supervivientes (voluntarias)
+Profesionales especializados
+Funciones: Propuesta de mejoras, seguimiento de políticas, voz ciudadana
+Reuniones trimestrales
+B) Buzón de sugerencias y quejas:
+Acceso anónimo online y presencial
+Respuesta institucional en 15 días
+Análisis trimestral de tendencias
+C) Grupos focales con supervivientes:
+Bianuales (6-8 participantes)
+Facilitados por entidad externa
+Evaluación cualitativa de servicios
+Propuestas de mejora desde experiencia vivida
+🎯 CULTURA DE MEJORA CONTINUA
+Principio: "No hay evaluación sin consecuencias"
+Circuito de feedback:
+DETECCIÓN DE PROBLEMA/OPORTUNIDAD
+(Indicadores, quejas, sugerencias, buenas prácticas)
+│
+▼
+ANÁLISIS EN MESA TÉCNICA
+(¿Qué está fallando? ¿Por qué? ¿Cómo mejorarlo?)
+│
+▼
+DISEÑO DE SOLUCIÓN
+(Propuesta concreta, responsables, plazos)
+│
+▼
+IMPLEMENTACIÓN PILOTO
+(Prueba en pequeña escala, monitoreo intensivo)
+│
+▼
+EVALUACIÓN DE PILOTO
+(¿Funciona? ¿Qué ajustar?)
+│
+▼
+ESCALA O DESCARTE
+(Si funciona → generalizar / Si no → aprender y rediseñar)
+│
+▼
+DOCUMENTACIÓN DE APRENDIZAJE
+(Registro de qué funcionó y qué no, para futuro)
+Ejemplo real de ciclo:
+DETECCIÓN: Tasa de abandono del IPI en Fase 2 es del 35% (muy alta)
+           ↓
+ANÁLISIS: Entrevistas de salida revelan: "Las formaciones son en horario 
+          incompatible con cuidado de hijos/as"
+           ↓
+SOLUCIÓN: Ampliar servicio de guardería + formaciones en horario vespertino
+           ↓
+PILOTO: Durante 3 meses con 1 grupo
+           ↓
+EVALUACIÓN: Tasa de abandono baja al 12% en grupo piloto
+           ↓
+ESCALA: Generalizar horarios vespertinos + comunicar como "mejora por 
+        escucha activa"
 
 
 

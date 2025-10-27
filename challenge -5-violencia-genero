@@ -622,7 +622,319 @@ Evaluación externa
 └─────────────────────────────────────────────────────────────────────────────┘
 
 
+✅ FASE 5/10 COMPLETADA: PROTOCOLO DE RESPUESTA INMEDIATA (0-24H)
+🚨 COMPONENTE 2: PROTOCOLO OPERATIVO CRÍTICO
+OBJETIVO: Garantizar valoración, protección y recursos básicos en menos de 24 horas desde la denuncia, evitando feminicidios en la "ventana de riesgo máximo".
+⏱️ FLUJOGRAMA DE ACTUACIÓN INMEDIATA
+HORA 0: DENUNCIA/CONTACTO
+│
+├─ CANAL 1: Policía (presencial/016)
+├─ CANAL 2: Servicios Sociales
+├─ CANAL 3: Sanidad (urgencias)
+├─ CANAL 4: Línea municipal 24/7
+│
+▼
+HORA 0-2: VALORACIÓN INICIAL DE RIESGO
+│
+├─ Aplicación VPR-4.0 (Valoración Policial Riesgo)
+├─ Escala RVD-BCN (Riesgo de Violencia contra la Pareja)
+├─ Criterios de riesgo vital inmediato
+│
+▼
+CLASIFICACIÓN DE RIESGO
+│
+├─ RIESGO EXTREMO ──────────────────────────────┐
+│   • Amenazas de muerte recientes              │
+│   • Escalada grave violencia                  │
+│   • Acceso a armas                            │
+│   • Conducta agresor errática                 │
+│   └→ PROTOCOLO ROJO (Prioridad máxima)        │
+│                                                ▼
+│                                    ACTIVACIÓN INMEDIATA:
+│                                    • Protección policial <2h
+│                                    • Ingreso refugio <4h
+│                                    • Orden urgente juzgado
+│                                    • Botón de pánico
+│                                    • Custodia policial si necesario
+│
+├─ RIESGO ALTO ────────────────────────────────┐
+│   • Violencia física recurrente               │
+│   • Control/vigilancia constante              │
+│   • Amenazas explícitas                       │
+│   └→ PROTOCOLO NARANJA                        │
+│                                                ▼
+│                                    ACTIVACIÓN 24H:
+│                                    • Valoración social <12h
+│                                    • Plan de seguridad personalizado
+│                                    • Alojamiento alternativo 24-48h
+│                                    • Teléfono seguimiento
+│
+├─ RIESGO MEDIO ───────────────────────────────┐
+│   • Violencia psicológica sistemática         │
+│   • Control económico                         │
+│   • Aislamiento social                        │
+│   └→ PROTOCOLO AMARILLO                       │
+│                                                ▼
+│                                    ACTIVACIÓN 48H:
+│                                    • Cita valoración integral
+│                                    • Información recursos
+│                                    • Inicio acompañamiento
+│
+└─ RIESGO BAJO ────────────────────────────────┐
+    • Primera denuncia sin violencia física    │
+    • Situación controlada                     │
+    └→ PROTOCOLO VERDE                         │
+                                               ▼
+                                   ACTIVACIÓN 72H:
+                                   • Orientación preventiva
+                                   • Derivación servicios
+                                   • Seguimiento telefónico
+🛡️ HERRAMIENTA DE VALORACIÓN DE RIESGO VPR-4.0 ADAPTADA
+Instrumento estandarizado obligatorio para todos los profesionales de primera línea
+═══════════════════════════════════════════════════════════════
+VALORACIÓN POLICIAL DE RIESGO - VPR 4.0 (Versión Municipal)
+═══════════════════════════════════════════════════════════════
 
+DATOS DE LA VÍCTIMA:
+Nombre: ________________  Edad: ___  Hijos/as a cargo: □ Sí □ No  
+Discapacidad: □ Sí □ No  Embarazada: □ Sí □ No
+
+VALORACIÓN DE RIESGO (marcar SÍ si aplica):
+
+SECCIÓN A - INDICADORES DE RIESGO EXTREMO (1 SÍ = RIESGO EXTREMO)
+□ A1. Amenazas de muerte creíbles en últimas 48h
+□ A2. Agresor tiene acceso a armas (arma blanca, fuego, objetos)
+□ A3. Intento de homicidio previo (estrangulamiento, sofocación)
+□ A4. Agresor bajo efectos de sustancias + comportamiento errático
+□ A5. Víctima expresa miedo intenso por su vida ("va a matarme")
+
+SECCIÓN B - INDICADORES DE RIESGO ALTO (≥3 SÍ = RIESGO ALTO)
+□ B1. Incremento frecuencia/intensidad violencia últimos 3 meses
+□ B2. Violencia física grave previa (hospitalización, fracturas)
+□ B3. Agresor controla todos los movimientos de víctima
+□ B4. Víctima ha intentado separarse y agresor impide/acecha
+□ B5. Agresor amenaza con suicidio si lo deja
+□ B6. Hijos/as amenazados o agredidos
+□ B7. Agresor tiene antecedentes penales (violencia, armas)
+□ B8. Víctima sin red de apoyo (aislamiento social)
+□ B9. Violencia sexual forzada en relación
+
+SECCIÓN C - INDICADORES DE RIESGO MEDIO (≥2 SÍ = RIESGO MEDIO)
+□ C1. Control económico total (sin acceso a dinero)
+□ C2. Violencia psicológica sistemática (humillaciones, insultos)
+□ C3. Control de comunicaciones (móvil, redes, contactos)
+□ C4. Denuncia previa retirada por presión/miedo
+□ C5. Agresor culpa a víctima de sus actos ("me provocas")
+□ C6. Dependencia económica total de víctima
+
+═══════════════════════════════════════════════════════════════
+CLASIFICACIÓN AUTOMÁTICA:
+□ RIESGO EXTREMO (cualquier A = SÍ) → PROTOCOLO ROJO
+□ RIESGO ALTO (≥3 B = SÍ) → PROTOCOLO NARANJA
+□ RIESGO MEDIO (≥2 C = SÍ) → PROTOCOLO AMARILLO
+□ RIESGO BAJO (otros casos) → PROTOCOLO VERDE
+
+ACTUACIÓN INMEDIATA REQUERIDA:
+_________________________________________________________________
+
+Profesional: ________________  Fecha: _______  Hora: _____
+═══════════════════════════════════════════════════════════════
+📞 DIRECTORIO DE RECURSOS 24/7
+Recurso
+Disponibilidad
+Tiempo Respuesta
+Contacto
+Policía Local
+24/7
+Inmediato
+092
+016 - Atención VG
+24/7
+Inmediato
+016 (no deja rastro)
+Línea Municipal VG
+24/7
+<15 min
+900-XXX-XXX
+Refugio de Emergencia
+24/7
+<4h (riesgo extremo)
+Coordinación municipal
+Trabajador Social Guardia
+24/7
+<2h
+Móvil emergencia SS.SS.
+Juzgado Guardia
+24/7
+Variable
+A través de policía
+Servicio de Urgencias
+24/7
+Inmediato
+061 / Hospital
+🏠 RECURSOS DE PROTECCIÓN INMEDIATA
+1. REFUGIO DE EMERGENCIA (Ampliación necesaria)
+Situación actual: 8 plazas (insuficiente)
+Propuesta: 20 plazas en 2 ubicaciones confidenciales
+Características:
+Ubicación confidencial (dirección no pública)
+Seguridad 24/7 (personal + sistemas)
+Atención inmediata (sin lista de espera para riesgo extremo/alto)
+Estancia máxima: 3 meses (luego vivienda transicional)
+Servicios incluidos:
+Alojamiento + manutención
+Atención psicológica de emergencia
+Trabajadora social asignada
+Asesoramiento jurídico
+Cuidado infantil (si hijos/as menores)
+Apoyo tramitación ayudas
+Inversión necesaria: €180,000/año (operación) + €120,000 (acondicionamiento inicial)
+2. PISOS DE ACOGIDA INMEDIATA (Nuevo recurso)
+Para casos de riesgo medio donde refugio no es necesario pero no pueden retornar al domicilio:
+10 pisos distribuidos en barrios diversos
+- Gestión mediante convenio con entidades sociales especializadas
+- Estancia: 1-6 meses
+- Alquiler social simbólico (según capacidad económica: €0-150/mes)
+- Acompañamiento social semanal
+- Apoyo en tramitación de ayudas y búsqueda de empleo
+
+**Inversión necesaria:** €90,000/año (alquileres + coordinación)
+
+---
+
+**3. DISPOSITIVOS DE PROTECCIÓN TECNOLÓGICA**
+
+**a) Botón de Pánico GPS (Riesgo Extremo/Alto):**
+- Dispositivo portátil conectado a Central Policía
+- Activación inmediata → patrulla más cercana
+- Grabación audio automática (evidencia)
+- 60 dispositivos disponibles
+- Coste: €35,000/año (dispositivos + monitorización)
+
+**b) App Municipal "Segura Contigo":**
+- Descarga gratuita para todas las víctimas
+- Funciones:
+  - Llamada silenciosa a policía (botón emergencia)
+  - Compartir ubicación en tiempo real con contactos confianza
+  - Grabación de audio/video discreta
+  - Alertas automáticas si víctima no responde check-in
+  - Información de recursos actualizada
+- Desarrollo: €25,000 (inicial) + €8,000/año (mantenimiento)
+
+---
+
+**4. ÓRDENES DE PROTECCIÓN: SEGUIMIENTO ACTIVO**
+
+**Problema actual:** 41% cumplimiento (59% violan órdenes sin consecuencias inmediatas)
+
+**Propuesta: Sistema de Vigilancia Activa**
+- Policía Local asignada específicamente a seguimiento de órdenes (2 agentes tiempo completo)
+- Protocolo de verificación:
+  - Llamadas aleatorias a víctimas (3x semana mínimo)
+  - Visitas sorpresa a domicilio agresor (verificación alejamiento)
+  - Coordinación con policía judicial para detenciones inmediatas
+  - Registro fotográfico de quebrantamientos (geolocalización)
+
+**Inversión:** €80,000/año (2 agentes + recursos)
+
+---
+
+### 📋 PLANTILLAS DOCUMENTALES CRÍTICAS
+
+**DOCUMENTO 1: PLAN DE SEGURIDAD PERSONALIZADO**
+═══════════════════════════════════════════════════════════════
+PLAN DE SEGURIDAD PERSONALIZADO
+Víctima: [Iniciales]  |  Código: [XXX]  |  Fecha: [DD/MM/AAAA]
+Nivel de riesgo: □ EXTREMO  □ ALTO  □ MEDIO  □ BAJO
+═══════════════════════════════════════════════════════════════
+CONTACTOS DE EMERGENCIA (memorizar):
+• Policía: 092
+• Línea municipal VG: 900-XXX-XXX
+• Mi trabajadora social: [Nombre] - [Teléfono 24/7]
+• Contactos confianza: [Nombre 1: Tel] [Nombre 2: Tel]
+SEÑALES DE ALARMA (Si agresor...):
+□ Incrementa llamadas/mensajes insistentes
+□ Aparece en lugares que frecuento
+□ Contacta con mi familia/amigos
+□ Consume alcohol/drogas
+□ Muestra comportamiento errático
+→ ACCIÓN: Llamar inmediatamente a policía/trabajadora social
+SI ESTOY EN PELIGRO INMEDIATO:
+PASO 1: Alejarme físicamente del agresor (salir del domicilio)
+PASO 2: Llamar 092 o activar botón de pánico
+PASO 3: Ir a lugar seguro predefinido: [LUGAR ACORDADO]
+PASO 4: No volver al domicilio hasta que policía lo autorice
+DOCUMENTACIÓN ESENCIAL (tener copias en lugar seguro):
+□ DNI propio e hijos/as
+□ Libro de familia
+□ Tarjeta sanitaria
+□ Informes médicos/denuncias previas
+□ Orden de protección (si existe)
+□ Llaves de vehículo/domicilio alternativo
+□ Medicación esencial
+UBICACIÓN COPIA SEGURA: [Con persona confianza / Taquilla SS.SS.]
+DINERO DE EMERGENCIA:
+□ Efectivo mínimo: €150 guardados en [lugar seguro]
+□ Tarjeta bancaria propia (si no hay control)
+SI TENGO QUE IRME DE CASA URGENTEMENTE:
+• Mochila preparada con: ropa 3 días, documentación, medicación,
+juguete para hijos/as, cargador móvil
+• Ubicación: [lugar discreto pero accesible]
+LUGARES SEGUROS IDENTIFICADOS:
+Opción 1: [Domicilio familiar/amiga] - [Dirección] - [Tel]
+Opción 2: Refugio municipal - [Contactar: 900-XXX-XXX]
+Opción 3: [Otro recurso acordado]
+COMUNICACIÓN SEGURA:
+• NO usar móvil/email si agresor tiene acceso
+• Usar teléfono de contacto confianza
+• Borrar historial de llamadas/navegación
+• Usar modo incógnito en navegador
+HIJOS/AS (si aplica):
+• Colegio informado: □ SÍ  □ NO
+• Solo recogida autorizada por: [Nombre]
+• Clave de seguridad con hijos/as: [Palabra acordada]
+• Plan específico: [Detalles]
+REVISIÓN Y SEGUIMIENTO:
+Próxima revisión: [Fecha en 15 días]
+Este plan es CONFIDENCIAL - Solo víctima + profesionales asignados
+═══════════════════════════════════════════════════════════════
+Elaborado por: [Profesional]  |  Fecha: [DD/MM/AAAA]
+Víctima confirma haber comprendido y recibido copia: □
+═══════════════════════════════════════════════════════════════
+---
+
+**DOCUMENTO 2: REGISTRO DE ACTUACIÓN INMEDIATA (RAI)**
+═══════════════════════════════════════════════════════════════
+REGISTRO DE ACTUACIÓN INMEDIATA - RAI
+CONFIDENCIAL - Protección de datos RGPD Art. 9
+═══════════════════════════════════════════════════════════════
+FECHA Y HORA RECEPCIÓN: [DD/MM/AAAA] [HH:MM]
+CANAL DE ENTRADA: □ Policía  □ SS.SS.  □ Sanidad  □ 016  □ Otro
+DATOS BÁSICOS VÍCTIMA (iniciales):
+[XX] Edad: [] Hijos/as: □ Sí (N°:) □ No  Embarazada: □ Sí □ No
+VALORACIÓN DE RIESGO REALIZADA:
+□ VPR-4.0 aplicado  □ RVD-BCN aplicado
+Resultado: □ EXTREMO  □ ALTO  □ MEDIO  □ BAJO
+ACTUACIONES REALIZADAS (marcar):
+□ Valoración inicial completada (Hora: ____)
+□ Plan de seguridad elaborado
+□ Información de recursos entregada
+□ Derivación a: _______________________
+□ Protección policial activada
+□ Ingreso refugio gestionado (Hora: ____)
+□ Orden protección solicitada a juzgado
+□ Dispositivo GPS entregado
+□ Cita seguimiento programada: [Fecha: ____]
+TIEMPO TRANSCURRIDO DENUNCIA → PROTECCIÓN: [__] horas
+PROFESIONALES INTERVINIENTES:
+Policía: [Nombre] - [Hora intervención]
+Trabajador/a Social: [Nombre] - [Hora intervención]
+Otros: [Especificar]
+OBSERVACIONES CRÍTICAS:
+PRÓXIMAS ACTUACIONES PROGRAMADAS:
+Registro realizado por: [Nombre profesional] [Firma]
+═══════════════════════════════════════════════════════════════
+---
 
 
 

@@ -3356,7 +3356,7 @@ Este challenge forma parte del proyecto **Clara 4.0 Community**.
 - 📚 Compartir implementaciones reales (anonimizadas)
 - 🌍 Traducir a otros idiomas
 
-Ver [CONTRIBUTING.md](../CONTRIBUTING.md)
+Ver [CONTRIBUTING.md](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/README.md#contribuciones)
 
 ## 📜 Licencia
 
@@ -3368,8 +3368,7 @@ Creative Commons BY-NC-ND 4.0 —
 
 **Desarrollado con:** Clara 4.0 | Modo Consultor [$P]  
 **Fecha:** 26 de octubre de 2025  
-**Repositorio:** [Clara 4.0 Challenges](https://github.com/[TU-USUARIO]/clara-4.0-challenges)
-PASO 2: Actualizar README principal del repositorio
+**Repositorio:** [Clara 4.0 Challenges](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges) PASO 2: Actualizar README principal del repositorio
 Archivo: README.md (raíz del repo)
 # 🚀 Clara 4.0 Community - Challenges
 

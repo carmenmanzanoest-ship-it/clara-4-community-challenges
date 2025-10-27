@@ -255,6 +255,15 @@ Los análisis son **propuestas estratégicas basadas en mejores prácticas inter
 | 5 | <a href="https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/challenge-05-violencia-genero/README.md">Challenge 5 – Sistema Integral VG</a> | Violencia de Género / Intervención Social | ⭐⭐⭐⭐⭐ | [XX/100] | ✅ Desarrollo completo |
 </p>
 
+
+Este documento es una propuesta técnica desarrollada por Clara 4.0 (IA) basada en mejores prácticas internacionales. NO sustituye el criterio de profesionales especializados en violencia de género.
+
+Ante situación de violencia: Contactar servicios especializados 📞 016 (España, 24/7, no deja rastro)
+
+
+
+
+
 ---
 
 ## 📊 Versión y Actualizaciones

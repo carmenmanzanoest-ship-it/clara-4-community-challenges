@@ -2,7 +2,7 @@
 ![Score](https://img.shields.io/badge/Score-95.4%2F100-brightgreen)
 ![Badge](https://img.shields.io/badge/Badge-💎%20Outstanding-blue)
 ![Presupuesto](https://img.shields.io/badge/Presupuesto-€850k%2Faño-orange)
-![SROI](https://img.shields.io/badge/SROI-1%3A4.2-success 
+![SROI](https://img.shields.io/badge/SROI-1%3A4.2-success) 
 
 
 

@@ -1,4 +1,12 @@
-challenge-05-violencia-genero/README.md
+![Complejidad](https://img.shields.io/badge/Complejidad-⭐⭐⭐⭐⭐-red)
+![Score](https://img.shields.io/badge/Score-95.4%2F100-brightgreen)
+![Badge](https://img.shields.io/badge/Badge-💎%20Outstanding-blue)
+![Presupuesto](https://img.shields.io/badge/Presupuesto-€850k%2Faño-orange)
+![SROI](https://img.shields.io/badge/SROI-1%3A4.2-success 
+
+
+
+challenge-05-violencia-generoo/README.md
 # 🚨 Challenge 5: Sistema Integral contra Violencia de Género
 
 ## 📋 Información del Challenge

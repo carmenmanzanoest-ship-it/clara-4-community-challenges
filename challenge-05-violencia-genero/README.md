@@ -2038,7 +2038,308 @@ ESCALA: Generalizar horarios vespertinos + comunicar como "mejora por
         escucha activa"
 
 
+✅ FASE 10/10 COMPLETADA: VIABILIDAD, RIESGOS Y PLAN DE IMPLEMENTACIÓN
+💰 ANÁLISIS DE VIABILIDAD PRESUPUESTARIA
+PRESUPUESTO TOTAL ANUAL: €850,000
+Desglose detallado por componente:
+Componente
+Concepto
+Inversión Anual
+% Total
+1. PREVENCIÓN PRIMARIA
 
+€180,000
+21%
+
+Programa educativo (mediadores + materiales)
+€130,000
+
+
+Campañas sensibilización
+€70,000
+
+
+Formación profesionales contacto
+€50,000
+
+
+Programa masculinidades positivas
+€35,000
+
+2. DETECCIÓN PRECOZ
+
+€120,000
+14%
+
+Formación especializada (300 prof/año)
+€50,000
+
+
+Materiales y herramientas detección
+€15,000
+
+
+Coordinación y supervisión
+€25,000
+
+
+Sistema información SISVI
+€12,000
+
+
+Línea municipal 24/7
+€18,000
+
+3. RESPUESTA INMEDIATA
+
+€280,000
+33%
+
+Refugio emergencia 20 plazas (operación)
+€180,000
+
+
+Pisos acogida inmediata (10 unidades)
+€90,000
+
+
+Dispositivos protección (GPS, app)
+€43,000
+
+
+Unidad seguimiento órdenes (2 policías)
+€80,000
+
+
+Recursos crisis (transporte, ayudas urgentes)
+€27,000
+
+4. ATENCIÓN INTEGRAL
+
+€200,000
+24%
+
+Inserción sociolaboral (formación + intermediación)
+€75,000
+
+
+Ayudas al alquiler + avales sociales
+€90,000
+
+
+Atención psicológica (5 psicólogos)
+€120,000
+
+
+Acompañamiento jurídico (3 abogadas)
+€90,000
+
+
+Servicio guardería
+€50,000
+
+
+Autoempleo y cooperativa
+€40,000
+
+5. INTERVENCIÓN AGRESORES
+
+€70,000
+8%
+
+Programa "Hombres sin Violencia" (2 terapeutas)
+€60,000
+
+
+Materiales y evaluación
+€10,000
+
+
+Coordinación con justicia
+Integrado
+
+TOTAL OPERACIÓN ANUAL: €850,000
+INVERSIÓN INICIAL (Año 0 - Infraestructura):
+Acondicionamiento refugio ampliado: €120,000
+Desarrollo sistema SISVI: €45,000
+Equipamiento oficinas y recursos: €35,000
+TOTAL INICIAL: €200,000
+📈 FUENTES DE FINANCIACIÓN
+DIVERSIFICACIÓN ESTRATÉGICA (Sostenibilidad):
+Fuente
+Año 1
+Año 3
+Año 5
+Estrategia
+Presupuesto municipal
+70% (€595K)
+60% (€510K)
+50% (€425K)
+Partida específica estable
+Subvenciones autonómicas
+15% (€127K)
+20% (€170K)
+25% (€212K)
+Pacto Estatal VG, fondos específicos
+Subvenciones estatales
+10% (€85K)
+10% (€85K)
+10% (€85K)
+Fondos ministeriales recurrentes
+Fondos europeos
+0%
+5% (€42K)
+10% (€85K)
+FSE+, Daphne, etc.
+RSC empresarial
+5% (€43K)
+5% (€43K)
+5% (€43K)
+Red "Empresas por Igualdad"
+Estrategia de captación:
+Oficina técnica dedicada a fundraising (media jornada)
+Calendario de convocatorias (seguimiento continuo)
+Alianzas con fundaciones y entidades privadas
+Memoria anual atractiva para potenciales financiadores
+Sostenibilidad a largo plazo:
+Año 5: 50% autofinanciación municipal (presupuesto consolidado)
+Resto: Diversificación múltiples fuentes (riesgo distribuido)
+Meta: Presupuesto municipal incremental anual (IPC mínimo)
+⚠️ ANÁLISIS DE RIESGOS Y ESTRATEGIAS DE MITIGACIÓN
+MATRIZ DE RIESGOS:
+Riesgo
+Probabilidad
+Impacto
+Severidad
+Estrategia de Mitigación
+R1. Insuficiencia presupuestaria
+Media
+Alto
+🔴 CRÍTICO
+• Diversificar fuentes financiación• Priorización de componentes esenciales• Convenios con entidades (reducir costes)• Fase piloto antes de escala completa
+R2. Resistencias políticas
+Media
+Alto
+🔴 CRÍTICO
+• Campaña de sensibilización a grupos políticos• Evidencia de impacto (municipios referentes)• Compromiso transversal (pacto municipal)• Liderazgo político visible
+R3. Falta de coordinación interinstitucional
+Alta
+Alto
+🔴 CRÍTICO
+• Mesa Técnica con compromisos firmados• Sistema SISVI compartido (incentivo)• SLAs claros con consecuencias• Evaluación continua de coordinación
+R4. Saturación de recursos (listas espera)
+Alta
+Medio
+🟡 ALTO
+• Dimensionamiento realista (histórico)• Protocolos de priorización por riesgo• Red de recursos complementarios (ONG)• Revisión trimestral de capacidad
+R5. Rotación de profesionales (pérdida expertise)
+Media
+Medio
+🟡 ALTO
+• Condiciones laborales dignas (estabilidad)• Plan de formación continua• Supervisión y apoyo (prevención burnout)• Documentación de procedimientos
+R6. Resistencia social al cambio cultural
+Alta
+Medio
+🟡 ALTO
+• Campañas de sensibilización previas• Implicación de líderes comunitarios• Comunicación de casos de éxito• Paciencia: cambio cultural es lento
+R7. Incumplimiento agresores sin consecuencias
+Media
+Alto
+🟡 ALTO
+• Unidad vigilancia específica• Coordinación policial-judicial ágil• Consecuencias inmediatas y proporcionales• Tecnología de seguimiento
+R8. Revictimización en procesos judiciales
+Media
+Alto
+🟡 ALTO
+• Formación judicial especializada• Acompañamiento legal permanente• Salas Gesell (declaración protegida)• Sensibilización de operadores jurídicos
+R9. Estigmatización de víctimas
+Alta
+Medio
+🟡 ALTO
+• Campañas contra estigma• Testimonios de supervivientes empoderadas• Mensajes de responsabilización a agresores• Confidencialidad estricta
+R10. Infranotificación (casos no denuncian)
+Alta
+Alto
+🟡 ALTO
+• Facilitar múltiples canales denuncia• Garantizar confidencialidad• Demostrar efectividad sistema (confianza)• Detección proactiva en servicios
+Severidad: 🔴 CRÍTICO (probabilidad alta + impacto alto) / 🟡 ALTO (otros) / 🟢 MEDIO (probabilidad o impacto bajo)
+🗓️ PLAN DE IMPLEMENTACIÓN (GANTT - 36 meses)
+═══════════════════════════════════════════════════════════════════════════
+CRONOGRAMA DE IMPLEMENTACIÓN - SISTEMA INTEGRAL VG
+═══════════════════════════════════════════════════════════════════════════
+
+FASE 0: PREPARACIÓN (Meses -3 a 0)
+├─ Aprobación política (Pleno municipal)                    ████░░░░░░░░
+├─ Asignación presupuestaria                                 ████░░░░░░░░
+├─ Contratación equipo coordinación                           ███░░░░░░░░
+├─ Acondicionamiento infraestructuras                         ██████░░░░░
+└─ Desarrollo sistema SISVI                                    ████████░░
+
+FASE 1: PILOTO (Meses 1-6) [30% Operación]
+├─ Puesta en marcha refugio ampliado                    ░░██████░░░░░░░░
+├─ Activación Mesa Técnica (constitución)               ░░███░░░░░░░░░░░
+├─ Formación inicial a profesionales (100)              ░░░████░░░░░░░░░
+├─ Protocolo respuesta inmediata (prueba)               ░░░███████░░░░░░
+├─ Inicio atención a primeras 20 víctimas               ░░░░██████████░░
+├─ Campaña sensibilización 25N                          ░░░░░███░░░░░░░░
+└─ Evaluación de piloto (ajustes)                       ░░░░░░░░██░░░░░░
+
+FASE 2: ESCALA GRADUAL (Meses 7-18) [70% Operación]
+├─ Ampliación a 70 víctimas en atención                 ░░░░░░░███████████████░░
+├─ Lanzamiento programa educativo (50% centros)         ░░░░░░░░████████░░░░░░░░
+├─ Inicio programa agresores (primer grupo)             ░░░░░░░░░███████░░░░░░░░
+├─ Activación pisos acogida (10 unidades)               ░░░░░░░░░░████░░░░░░░░░░
+├─ 4 campañas sensibilización                           ░░░░░░░█░░░█░░█░░░█░░░░░
+├─ Formación 200 profesionales adicionales              ░░░░░░░░███████████░░░░░
+├─ Sistema SISVI operativo completo                     ░░░░░░░░░████░░░░░░░░░░░
+└─ Evaluación intermedia + ajustes                      ░░░░░░░░░░░░░░██░░░░░░░░
+
+FASE 3: CONSOLIDACIÓN (Meses 19-36) [100% Operación]
+├─ Operación a plena capacidad (120 víctimas/año)       ░░░░░░░░░░░░░░░███████████████████
+├─ Programa educativo en 100% centros                   ░░░░░░░░░░░░░░░█████████░░░░░░░░░░
+├─ 3 grupos agresores simultáneos                       ░░░░░░░░░░░░░░░████████████████░░░
+├─ Red empresas colaboradoras (40 empresas)             ░░░░░░░░░░░░░░░██████████████░░░░░
+├─ Campañas sensibilización (4/año)                     ░░░░░░░░░░░░░░░█░█░█░█░█░█░█░█░░░
+├─ Informe anual de resultados                          ░░░░░░░░░░░░░░░░░░░███░░░░░░░███░
+├─ Evaluación de impacto trienal (externa)              ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░███
+└─ Decisión: ¿Continuar? ¿Ajustar? ¿Escalar modelo?    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██
+
+═══════════════════════════════════════════════════════════════════════════
+Leyenda: █ Actividad en ejecución  ░ Periodo sin actividad
+═══════════════════════════════════════════════════════════════════════════
+🎯 HITOS CRÍTICOS (CHECKPOINTS)
+MES 6 - CHECKPOINT 1:
+✓ 20 víctimas atendidas con IPI completo
+✓ Refugio operativo al 80% capacidad
+✓ Mesa Técnica con 3 reuniones realizadas
+✓ 100 profesionales formados
+✓ Tiempo respuesta promedio <30h (avance hacia meta 24h)
+DECISIÓN: ¿Escalar o ajustar piloto?
+MES 12 - CHECKPOINT 2:
+✓ 50 víctimas en programa
+✓ Primer grupo agresores finalizado (evaluación)
+✓ Programa educativo en 50% centros
+✓ 200 profesionales formados (acumulado)
+✓ Tiempo respuesta <24h consolidado
+✓ Primera evaluación anual completada
+DECISIÓN: ¿Continuar escala según plan?
+MES 24 - CHECKPOINT 3:
+✓ 100 víctimas/año en atención
+✓ Reincidencia agresores <40% (avance hacia meta 35%)
+✓ Inserción laboral 30% (avance hacia meta 40%)
+✓ Sistema 100% operativo
+✓ Segunda evaluación anual completada
+DECISIÓN: ¿Preparar evaluación de impacto trienal?
+MES 36 - CHECKPOINT 4 (FINAL):
+✓ Todos los indicadores evaluados
+✓ Evaluación de impacto externa completada
+✓ SROI calculado
+✓ Benchmarking con otros municipios
+DECISIÓN ESTRATÉGICA:
+¿Consolidar modelo actual?
+¿Ampliar recursos si demanda supera oferta?
+¿Exportar modelo a municipios vecinos (mancomunidad)?
+¿Solicitar reconocimiento como municipio referente?
 
 
 

@@ -3268,7 +3268,7 @@ Si bien este documento está bajo licencia CC BY-NC-ND 4.0, **invitamos a la com
 - Espera aprobación antes de redistribuir versiones modificadas
 - Mantén siempre la atribución y licencia original
 
-**Contacto para permisos:** [tu-email@ejemplo.com]
+**Contacto para permisos:** [controlsafemail.365@keemLICENSE
 📋 ACTUALIZACIÓN DEL README DEL CHALLENGE 5
 Sección de licencia corregida:
 ## 📜 Licencia
@@ -3288,7 +3288,7 @@ Este contenido está bajo licencia [Creative Commons Reconocimiento-NoComercial-
 
 **Atribución requerida:** Clara 4.0 Community
 
-Ver [LICENSE](../LICENSE) para texto legal completo.
+Ver [LICENSE](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/LICENSE.md) para texto legal completo.
 
 ---
 

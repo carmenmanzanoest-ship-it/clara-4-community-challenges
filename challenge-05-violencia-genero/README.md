@@ -3020,6 +3020,181 @@ BADGE OBTENIDO: 💎 OUTSTANDING
 
 **Badge obtenido:** 💎 **OUTSTANDING**
 
+⚠️ DISCLAIMER - CHALLENGE 5: SISTEMA INTEGRAL CONTRA VIOLENCIA DE GÉNERO
+🔴 ADVERTENCIA CRÍTICA SOBRE USO Y LIMITACIONES
+📋 NATURALEZA DEL DOCUMENTO
+Este documento constituye una propuesta técnica de carácter educativo y demostrativo desarrollada por Clara 4.0 (sistema de inteligencia artificial) como parte del proyecto "Clara 4.0 Community Challenges".
+Objetivo: Demostrar capacidades de análisis estratégico, diseño de programas complejos y aplicación de frameworks metodológicos especializados.
+NO es: Un plan operativo validado, una directriz oficial, ni un protocolo clínico, legal o institucional aprobado.
+🚫 LO QUE ESTE DOCUMENTO NO SUSTITUYE
+❌ NO SUSTITUYE PROFESIONALES ESPECIALIZADOS
+Este documento NO reemplaza el criterio, experiencia y responsabilidad de:
+Trabajadores/as Sociales especializados en Violencia de Género
+Psicólogos/as clínicos con formación en trauma
+Abogados/as especializados en Derecho de Familia y VG
+Personal médico y sanitario
+Fuerzas y Cuerpos de Seguridad del Estado
+Operadores jurídicos (jueces, fiscales, magistrados)
+Equipos de coordinación institucional
+Entidades especializadas en atención a víctimas
+❌ NO SUSTITUYE EVALUACIONES ESPECÍFICAS
+Ningún protocolo, herramienta o valoración incluida en este documento puede aplicarse sin:
+Evaluación individualizada presencial por profesional cualificado
+Adaptación al contexto específico (territorio, recursos, normativa local)
+Validación por equipos multidisciplinares
+Supervisión continua durante implementación
+ESPECIALMENTE CRÍTICO:
+La valoración de riesgo vital requiere profesionales especializados presenciales
+Las decisiones de protección urgente son competencia exclusiva de policía/juzgados
+El acompañamiento terapéutico debe ser realizado por psicólogos/as colegiados
+El asesoramiento legal requiere abogacía especializada
+⚖️ RESPONSABILIDAD LEGAL Y ÉTICA
+📜 LIMITACIONES LEGALES
+Clara 4.0 (IA):
+❌ NO tiene capacidad de evaluar situaciones reales de violencia
+❌ NO puede determinar nivel de riesgo individual
+❌ NO puede diagnosticar trauma o trastornos psicológicos
+❌ NO puede ofrecer asesoramiento legal vinculante
+❌ NO tiene acceso a información actualizada post enero 2025
+El usuario/a de este documento:
+✅ Asume plena responsabilidad de su uso o implementación
+✅ Debe validar toda información con fuentes actualizadas y oficiales
+✅ Debe adaptar contenidos a su contexto legal y normativo específico
+✅ Debe consultar con profesionales certificados antes de aplicar
+⚠️ DISCLAIMER DE RESPONSABILIDAD
+Ni el creador de Clara 4.0, ni los contribuyentes del proyecto Clara 4.0 Community, ni Anthropic (desarrolladora del modelo Claude) se hacen responsables de:
+Decisiones tomadas basándose en este documento
+Implementaciones realizadas sin validación profesional
+Daños derivados del uso inadecuado de la información
+Interpretaciones erróneas de protocolos o herramientas
+Consecuencias de aplicación sin adaptación al contexto local
+Este documento se proporciona "AS IS" (tal cual), sin garantías de ningún tipo.
+🌍 CONTEXTO Y ACTUALIZACIÓN
+📅 FECHA DE REFERENCIA
+Conocimiento base de Clara 4.0: Actualizado hasta enero de 2025
+Información posterior a esta fecha:
+❌ NO está incorporada en este análisis
+⚠️ Puede haber cambios normativos, protocolos actualizados o nuevas evidencias científicas
+✅ Debe verificarse con búsquedas web actualizadas o consulta a fuentes oficiales
+🇪🇸 CONTEXTO GEOGRÁFICO
+Este documento está diseñado con referencia al contexto español (marco legal, institucional y social), aunque incorpora mejores prácticas internacionales.
+Si eres de otro país:
+⚠️ La normativa aplicable será diferente
+⚠️ Los recursos institucionales disponibles variarán
+⚠️ Los modelos de intervención pueden requerir adaptación cultural
+✅ Los principios generales y frameworks metodológicos son transferibles
+Adaptación obligatoria a:
+Marco legal local (leyes de violencia de género, protección de datos, competencias institucionales)
+Recursos disponibles (servicios sociales, policiales, judiciales, sanitarios)
+Particularidades culturales y sociales del territorio
+🆘 ANTE SITUACIÓN DE VIOLENCIA DE GÉNERO
+📞 RECURSOS DE EMERGENCIA (ESPAÑA)
+Si estás sufriendo violencia o conoces a alguien en situación de riesgo:
+Recurso
+Contacto
+Características
+016
+Llamada gratuita 24/7
+❌ NO deja rastro en factura ⚠️ SÍ en registro operadora
+016 WhatsApp
+600 000 016
+Atención por mensajería instantánea
+016 Email
+016-online@igualdad.gob.es
+Consultas por escrito
+112
+Emergencias
+Situaciones de peligro inmediato
+091
+Policía Nacional
+Denuncia y protección
+092
+Policía Local
+Atención municipal
+Servicios Sociales
+Ayuntamiento local
+Atención integral (horario laboral)
+Recursos adicionales:
+App LIBRES (Ministerio de Igualdad) - Recursos y geolocalización
+Oficinas de Atención a Víctimas (en juzgados)
+Casas de Acogida (derivación a través de Servicios Sociales)
+Turno de oficio especializado (Colegios de Abogados)
+🌐 RECURSOS INTERNACIONALES
+Si estás fuera de España:
+Contacta con servicios de emergencia de tu país (equivalente a 112)
+Busca líneas de atención específicas de violencia de género locales
+Acude a servicios sociales municipales o entidades especializadas
+✅ USO APROPIADO DE ESTE DOCUMENTO
+📚 USOS RECOMENDADOS
+Este documento SÍ puede utilizarse para:
+✅ Formación y aprendizaje:
+Estudiantes de Trabajo Social, Psicología, Derecho, Políticas Públicas
+Profesionales en formación continua
+Investigadores académicos (con cita adecuada)
+✅ Referencia metodológica:
+Inspiración para diseño de programas similares
+Comprensión de frameworks aplicables (Modelo Ecológico, Duluth, Trauma-Informed Care)
+Identificación de componentes clave de intervención integral
+✅ Punto de partida para desarrollo:
+Base para elaboración de propuestas (que luego deben validarse)
+Identificación de gaps en programas existentes
+Benchmarking con mejores prácticas internacionales
+✅ Sensibilización y advocacy:
+Material educativo para campañas de sensibilización
+Argumentación de necesidad de recursos en violencia de género
+Ejemplos de sistemas integrales para incidencia política
+⚠️ USOS QUE REQUIEREN ADAPTACIÓN Y VALIDACIÓN
+Estos usos requieren validación profesional obligatoria:
+⚠️ Implementación real en instituciones:
+Diseño de políticas públicas municipales/autonómicas
+Creación de protocolos institucionales
+Asignación de presupuestos públicos
+Firma de convenios interinstitucionales
+Proceso obligatorio antes de implementación:
+Revisión por equipo multidisciplinar de profesionales especializados
+Consulta con entidades especializadas en VG del territorio
+Participación de supervivientes en diseño
+Validación jurídica (compatibilidad con normativa local)
+Fase piloto con evaluación continua
+Ajustes basados en evidencia y feedback
+🔬 FUNDAMENTACIÓN Y FUENTES
+✅ BASES SÓLIDAS
+Este documento SÍ está fundamentado en:
+✅ Modelos teóricos reconocidos (Bronfenbrenner, Walker, Duluth)
+✅ Normativa internacional (CEDAW, Convenio de Estambul)
+✅ Legislación española vigente (Ley Orgánica 1/2004 y sucesivas)
+✅ Instrumentos validados (VPR, CTS-2, RVD-BCN)
+✅ Mejores prácticas internacionales documentadas
+✅ Evidencia científica sobre efectividad de intervenciones
+⚠️ PERO REQUIERE ACTUALIZACIÓN
+⚠️ Datos estadísticos son ilustrativos (basados en tendencias hasta enero 2025)
+⚠️ Presupuestos son estimaciones (requieren cálculo específico por contexto)
+⚠️ Protocolos deben adaptarse a recursos reales disponibles
+⚠️ Tiempos de implementación pueden variar según complejidad institucional
+Recomendación: Validar toda información crítica con fuentes oficiales actualizadas.
+🤝 PARTICIPACIÓN DE SUPERVIVIENTES
+👥 PRINCIPIO FUNDAMENTAL
+"Nada sobre nosotras sin nosotras"
+Cualquier programa real de atención a violencia de género DEBE incluir:
+✅ Participación activa de supervivientes en:
+Diseño de servicios
+Evaluación de protocolos
+Identificación de barreras
+Propuestas de mejora
+✅ Reconocimiento de su expertise vivencial como conocimiento valioso
+✅ Garantías de seguridad, confidencialidad y no retraumatización en su participación
+Este documento fue desarrollado por IA, sin participación directa de supervivientes. Por tanto, requiere validación y enriquecimiento con sus voces y experiencias.
+
+
+
+
+
+
+
+
+
+
+
 ## 🤝 Contribuciones
 
 Este challenge forma parte del proyecto **Clara 4.0 Community**. 

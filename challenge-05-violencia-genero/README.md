@@ -10,14 +10,10 @@
 
 
 ---
-## 📊 Dashboard Interactivo
+🔗 [Ver Dashboard en línea](https://carmenmanzanoest-ship-it.github.io/clara-4-community-challenges/challenge-05-dashboard/index.html)
 
-🔗 **Ver Dashboard en línea:**  
-[https://carmenmanzanoest-ship-it.github.io/clara-4-community-challenges/challenge-05-dashboard/index.html](https://carmenmanzanoest-ship-it.github.io/clara-4-community-challenges/challenge-05-dashboard/index.html)
+📁 [Repositorio base](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges)
 
-🖼️ **Vista previa:**
-
-![Screenshot Dashboard](https://raw.githubusercontent.com/carmenmanzanoest-ship-it/clara-4-community-challenges/main/assets/dashboard-preview.png)
 ---
 
 

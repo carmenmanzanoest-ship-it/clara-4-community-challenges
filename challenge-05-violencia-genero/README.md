@@ -6,7 +6,7 @@
 
 
 
-challenge-05-violencia-generoo/README.md
+challenge-05-violencia-genero/README.md
 # 🚨 Challenge 5: Sistema Integral contra Violencia de Género
 
 ## 📋 Información del Challenge

@@ -5,12 +5,13 @@
 ![SROI](https://img.shields.io/badge/SROI-1%3A4.2-success) 
 
 
-[📦 Release oficial – Challenge 5: Sistema Integral VG](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/releases/tag/v5.0-challenge-violencia-genero)
-```0
-
 ## Dashboard
 
 [Acceder al Dashboard](https://carmenmanzanoest-ship-it.github.io/clara-4-community-challenges/)
+
+
+[📦 Release oficial – Challenge 5: Sistema Integral VG](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/releases/tag/v5.0-challenge-violencia-genero)
+```0
 
 
 ---

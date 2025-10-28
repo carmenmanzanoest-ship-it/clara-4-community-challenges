@@ -171,6 +171,10 @@ Modelo TPACK, Taxonomía de Bloom Revisada, Challenge-Based Learning, Aprendizaj
 https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/challenge-05-violencia-genero/README.md
 ---
 
+## Dashboard
+
+[Acceder al Dashboard](https://carmenmanzanoest-ship-it.github.io/clara-4-community-challenges/)
+
 ## 🧠 Acerca de Clara 4.0 Community Edition
 
 **Clara 4.0** es un asistente virtual profesional de alto rendimiento, especializado en:

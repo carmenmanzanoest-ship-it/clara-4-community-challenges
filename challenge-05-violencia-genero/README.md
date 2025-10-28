@@ -10,15 +10,14 @@
 
 
 ---
-### 🔗 Dashboard del Challenge 5 – Sistema Integral contra Violencia de Género
+## 📊 Dashboard Interactivo
 
-Visualiza el panel interactivo con los principales indicadores, evolución de KPIs y fases de implementación del programa municipal.
+🔗 **Ver Dashboard en línea:**  
+[https://carmenmanzanoest-ship-it.github.io/clara-4-community-challenges/challenge-05-dashboard/index.html](https://carmenmanzanoest-ship-it.github.io/clara-4-community-challenges/challenge-05-dashboard/index.html)
 
-🌐 **Acceso directo:**  
-[Ver Dashboard en línea](https://carmenmanzanoest-ship-it.github.io/clara-4-community-challenges/)
+🖼️ **Vista previa:**
 
-📁 **Repositorio base:**  
-[clara-4-community-challenges](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges)
+![Screenshot Dashboard](https://raw.githubusercontent.com/carmenmanzanoest-ship-it/clara-4-community-challenges/main/assets/dashboard-preview.png)
 ---
 
 

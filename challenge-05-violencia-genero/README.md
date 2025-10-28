@@ -7,6 +7,25 @@
 
 [📦 Release oficial – Challenge 5: Sistema Integral VG](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/releases/tag/v5.0-challenge-violencia-genero)
 ```0
+
+
+---
+### 🔗 Dashboard del Challenge 5 – Sistema Integral contra Violencia de Género
+
+> Visualiza el panel interactivo con los principales indicadores, evolución de KPIs y fases de implementación del programa municipal.
+
+🌐 **Acceso directo:**  
+[👉 Ver Dashboard en línea](https://carmenmanzanoest-ship-it.github.io/clara-4-community-challenges/)
+
+📁 **Repositorio base:**  
+[`clara-4-community-challenges`](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges)
+---
+
+
+
+
+
+
 challenge-05-violencia-genero/README.md
 # 🚨 Challenge 5: Sistema Integral contra Violencia de Género
 

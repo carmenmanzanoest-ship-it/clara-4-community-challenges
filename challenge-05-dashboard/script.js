@@ -1,4 +1,4 @@
-// === Chart.js configuration ===
+
 // === Chart.js configuration ===
 document.addEventListener("DOMContentLoaded", () => {
   // Chart 1 - Denuncias

@@ -1,208 +1,370 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Dashboard del Challenge 5: Sistema Integral contra la Violencia de Género – Proyecto Clara 4.0 Community">
-  <meta name="author" content="Clara 4.0 Community">
-  <title>Challenge 5 – Sistema Integral contra Violencia de Género</title>
-
-  <!-- Favicon -->
-  <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/2597/2597808.png" type="image/png">
-
-  <!-- Fuente y estilos -->
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
-
-  <!-- Chart.js -->
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Sistema Integral contra Violencia de Género | Challenge 5</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-  <!-- ==== HEADER ==== -->
-  <header class="dashboard-header">
-    <div class="container">
-      <div class="header-content">
-        <div class="header-left">
-          <div class="logo">
-            <img src="https://cdn-icons-png.flaticon.com/512/875/875643.png" alt="Logo Clara 4.0" width="48">
-          </div>
-          <div class="header-text">
-            <h1>Challenge 5: Sistema Integral contra Violencia de Género</h1>
-            <p class="subtitle">Municipio de 250,000 habitantes – Proyecto Clara 4.0 Community</p>
-          </div>
+    <!-- Header -->
+    <header class="dashboard-header">
+        <div class="container">
+            <div class="header-content">
+                <div class="header-left">
+                    <div class="logo">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M12 2L2 7l10 5 10-5-10-5z"/>
+                            <path d="M2 17l10 5 10-5"/>
+                            <path d="M2 12l10 5 10-5"/>
+                        </svg>
+                    </div>
+                    <div class="header-text">
+                        <h1>Sistema Integral contra Violencia de Género</h1>
+                        <p class="subtitle">Challenge 5 | Clara 4.0 Community | Municipio 250,000 hab.</p>
+                    </div>
+                </div>
+                <div class="header-right">
+                    <div class="status-badge">
+                        <span class="badge badge-outstanding">💎 Outstanding 95.4/100</span>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="status-badge">
-          <span class="badge-outstanding">Release Activo v5.0</span>
+    </header>
+
+    <!-- Alerts Section -->
+    <section class="alerts-section">
+        <div class="container">
+            <div class="alert alert-critical">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="10"/>
+                    <line x1="12" y1="8" x2="12" y2="12"/>
+                    <line x1="12" y1="16" x2="12.01" y2="16"/>
+                </svg>
+                <div>
+                    <strong>Situación Crítica:</strong> Incremento del 34% en denuncias | 3 feminicidios en 18 meses | Solo 23% de víctimas completan el proceso de protección
+                </div>
+            </div>
         </div>
-      </div>
-    </div>
-  </header>
+    </section>
 
-  <!-- ==== ALERTS ==== -->
-  <section class="alerts-section">
-    <div class="alert">
-      ⚠️ <p><strong>Alerta:</strong> Incremento de denuncias en el primer trimestre de 2025 (+11,4%). Se recomienda fortalecer la red municipal de atención inmediata.</p>
-    </div>
-  </section>
+    <!-- Main Dashboard -->
+    <main class="dashboard-main">
+        <div class="container">
+            
+            <!-- Filters -->
+            <div class="filters-section">
+                <div class="filter-group">
+                    <label for="yearFilter">Año:</label>
+                    <select id="yearFilter" class="filter-select">
+                        <option value="all">Todos los años</option>
+                        <option value="2023">2023</option>
+                        <option value="2024">2024</option>
+                        <option value="2025" selected>2025</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label for="phaseFilter">Fase:</label>
+                    <select id="phaseFilter" class="filter-select">
+                        <option value="all">Todas las fases</option>
+                        <option value="1">Fase 1: Prevención Primaria</option>
+                        <option value="2">Fase 2: Detección Precoz</option>
+                        <option value="3">Fase 3: Respuesta Inmediata</option>
+                        <option value="4">Fase 4: Atención Integral</option>
+                        <option value="5">Fase 5: Intervención Agresores</option>
+                    </select>
+                </div>
+                <button id="resetFilters" class="btn-secondary">Restablecer Filtros</button>
+            </div>
 
-  <!-- ==== FILTERS ==== -->
-  <section class="filters-section">
-    <div class="filter-group">
-      <label for="year">Año:</label>
-      <select id="year" class="filter-select">
-        <option>2023</option>
-        <option>2024</option>
-        <option selected>2025</option>
-      </select>
-    </div>
+            <!-- KPI Cards -->
+            <div class="kpi-grid">
+                <div class="kpi-card kpi-critical">
+                    <div class="kpi-icon">📊</div>
+                    <div class="kpi-content">
+                        <div class="kpi-label">Denuncias 2025</div>
+                        <div class="kpi-value" id="kpi-denuncias">847</div>
+                        <div class="kpi-change kpi-negative">
+                            <span class="arrow">↑</span> +34% vs 2024
+                        </div>
+                    </div>
+                </div>
 
-    <div class="filter-group">
-      <label for="region">Zona:</label>
-      <select id="region" class="filter-select">
-        <option>Todas</option>
-        <option>Centro</option>
-        <option>Norte</option>
-        <option>Sur</option>
-      </select>
-    </div>
+                <div class="kpi-card kpi-critical">
+                    <div class="kpi-icon">⚠️</div>
+                    <div class="kpi-content">
+                        <div class="kpi-label">Feminicidios (18 meses)</div>
+                        <div class="kpi-value" id="kpi-feminicidios">3</div>
+                        <div class="kpi-meta">Meta: 0</div>
+                    </div>
+                </div>
 
-    <button class="btn-secondary">Aplicar</button>
-  </section>
+                <div class="kpi-card kpi-warning">
+                    <div class="kpi-icon">⏱️</div>
+                    <div class="kpi-content">
+                        <div class="kpi-label">Tiempo Respuesta</div>
+                        <div class="kpi-value" id="kpi-tiempo">72h</div>
+                        <div class="kpi-meta">Meta: &lt;24h</div>
+                    </div>
+                </div>
 
-  <!-- ==== KPI CARDS ==== -->
-  <section class="kpi-grid">
-    <div class="kpi-card kpi-critical">
-      <div class="kpi-icon">🚨</div>
-      <div class="kpi-label">Denuncias</div>
-      <div class="kpi-value">847</div>
-    </div>
+                <div class="kpi-card kpi-critical">
+                    <div class="kpi-icon">🔄</div>
+                    <div class="kpi-content">
+                        <div class="kpi-label">Reincidencia</div>
+                        <div class="kpi-value" id="kpi-reincidencia">67%</div>
+                        <div class="kpi-meta">Meta: &lt;35%</div>
+                    </div>
+                </div>
 
-    <div class="kpi-card kpi-warning">
-      <div class="kpi-icon">⏳</div>
-      <div class="kpi-label">Cumplimiento Órdenes</div>
-      <div class="kpi-value">41%</div>
-    </div>
+                <div class="kpi-card kpi-warning">
+                    <div class="kpi-icon">🛡️</div>
+                    <div class="kpi-content">
+                        <div class="kpi-label">Órdenes Activas</div>
+                        <div class="kpi-value" id="kpi-ordenes">156</div>
+                        <div class="kpi-change kpi-negative">
+                            <span class="arrow">↑</span> +53% vs 2024
+                        </div>
+                    </div>
+                </div>
 
-    <div class="kpi-card kpi-info">
-      <div class="kpi-icon">📉</div>
-      <div class="kpi-label">Tasa Reincidencia</div>
-      <div class="kpi-value">67%</div>
-    </div>
+                <div class="kpi-card kpi-critical">
+                    <div class="kpi-icon">✓</div>
+                    <div class="kpi-content">
+                        <div class="kpi-label">Cumplimiento Órdenes</div>
+                        <div class="kpi-value" id="kpi-cumplimiento">41%</div>
+                        <div class="kpi-meta">Meta: ≥85%</div>
+                    </div>
+                </div>
 
-    <div class="kpi-card kpi-success">
-      <div class="kpi-icon">💶</div>
-      <div class="kpi-label">Presupuesto Ejecutado</div>
-      <div class="kpi-value">92%</div>
-    </div>
-  </section>
+                <div class="kpi-card kpi-info">
+                    <div class="kpi-icon">👥</div>
+                    <div class="kpi-content">
+                        <div class="kpi-label">Víctimas Atendidas</div>
+                        <div class="kpi-value" id="kpi-victimas">120</div>
+                        <div class="kpi-meta">Programa IPI</div>
+                    </div>
+                </div>
 
-  <!-- ==== CHARTS ==== -->
-  <section class="charts-grid">
-    <div class="chart-card">
-      <div class="chart-header">
-        <h3>📈 Denuncias por Año</h3>
-        <span class="chart-badge badge-critical">Crítico</span>
-      </div>
-      <canvas id="chartDenuncias"></canvas>
-      <p class="chart-insight">Aumento constante de denuncias: prioridad en prevención y educación comunitaria.</p>
-    </div>
+                <div class="kpi-card kpi-success">
+                    <div class="kpi-icon">💰</div>
+                    <div class="kpi-content">
+                        <div class="kpi-label">Presupuesto Anual</div>
+                        <div class="kpi-value">€850K</div>
+                        <div class="kpi-meta">SROI: 1:4.2</div>
+                    </div>
+                </div>
+            </div>
 
-    <div class="chart-card">
-      <div class="chart-header">
-        <h3>🎯 KPIs vs Metas</h3>
-        <span class="chart-badge badge-warning">Desbalance</span>
-      </div>
-      <canvas id="chartKPIs"></canvas>
-      <p class="chart-insight">Se observa un bajo cumplimiento en órdenes y tiempos de respuesta aún elevados.</p>
-    </div>
+            <!-- Charts Section -->
+            <div class="charts-grid">
+                <!-- Chart 1: Evolución Denuncias -->
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <h3>Evolución de Denuncias (2023-2025)</h3>
+                        <span class="chart-badge badge-critical">Tendencia Crítica</span>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="chartDenuncias"></canvas>
+                    </div>
+                    <div class="chart-footer">
+                        <p class="chart-insight">📈 Incremento sostenido: +11% (2024) y +21% (2025). Indica mayor concienciación en denuncias o aumento real de violencia.</p>
+                    </div>
+                </div>
 
-    <div class="chart-card">
-      <div class="chart-header">
-        <h3>💰 Distribución del Presupuesto</h3>
-        <span class="chart-badge badge-info">Análisis</span>
-      </div>
-      <canvas id="chartPresupuesto"></canvas>
-      <p class="chart-insight">Mayor inversión en respuesta inmediata y atención integral.</p>
-    </div>
+                <!-- Chart 2: KPIs Actuales vs Metas -->
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <h3>KPIs Actuales vs Metas Año 3</h3>
+                        <span class="chart-badge badge-warning">Requiere Intervención</span>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="chartKPIs"></canvas>
+                    </div>
+                    <div class="chart-footer">
+                        <p class="chart-insight">🎯 Ningún KPI crítico alcanza meta actual. Intervención integral urgente necesaria.</p>
+                    </div>
+                </div>
 
-    <div class="chart-card">
-      <div class="chart-header">
-        <h3>📉 Evolución de la Reincidencia</h3>
-        <span class="chart-badge badge-warning">Atención</span>
-      </div>
-      <canvas id="chartReincidencia"></canvas>
-      <p class="chart-insight">Reincidencia en leve aumento: requiere programas de reinserción reforzados.</p>
-    </div>
+                <!-- Chart 3: Distribución Presupuestaria -->
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <h3>Distribución Presupuesto Anual (€850,000)</h3>
+                        <span class="chart-badge badge-info">5 Fases Integradas</span>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="chartPresupuesto"></canvas>
+                    </div>
+                    <div class="chart-footer">
+                        <p class="chart-insight">💰 Mayor inversión en Respuesta Inmediata (33%) y Atención Integral (24%), equilibrando prevención y atención.</p>
+                    </div>
+                </div>
 
-    <div class="chart-card">
-      <div class="chart-header">
-        <h3>📜 Órdenes Judiciales</h3>
-        <span class="chart-badge badge-info">Seguimiento</span>
-      </div>
-      <canvas id="chartOrdenes"></canvas>
-      <p class="chart-insight">El cumplimiento de órdenes de alejamiento se mantiene bajo.</p>
-    </div>
+                <!-- Chart 4: Reincidencia por Año -->
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <h3>Tasa de Reincidencia de Agresores</h3>
+                        <span class="chart-badge badge-critical">Empeorando</span>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="chartReincidencia"></canvas>
+                    </div>
+                    <div class="chart-footer">
+                        <p class="chart-insight">🔄 Reincidencia aumenta de 64% (2023) a 67% (2025). Programa de intervención con agresores crítico.</p>
+                    </div>
+                </div>
 
-    <div class="chart-card">
-      <div class="chart-header">
-        <h3>🌿 Impacto Esperado</h3>
-        <span class="chart-badge badge-success">Proyección</span>
-      </div>
-      <canvas id="chartImpacto"></canvas>
-      <p class="chart-insight">Proyección positiva hacia el tercer año con refuerzo institucional sostenido.</p>
-    </div>
-  </section>
+                <!-- Chart 5: Órdenes de Alejamiento -->
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <h3>Órdenes de Alejamiento: Activas y Cumplimiento</h3>
+                        <span class="chart-badge badge-warning">Baja Efectividad</span>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="chartOrdenes"></canvas>
+                    </div>
+                    <div class="chart-footer">
+                        <p class="chart-insight">⚖️ 156 órdenes activas pero solo 41% cumplimiento. 59% incumplen sin consecuencias inmediatas.</p>
+                    </div>
+                </div>
 
-  <!-- ==== TIMELINE ==== -->
-  <section class="timeline">
-    <div class="timeline-item">
-      <div class="timeline-marker"></div>
-      <p><strong>2023:</strong> Diagnóstico inicial del sistema y establecimiento de KPIs base.</p>
-    </div>
-    <div class="timeline-item">
-      <div class="timeline-marker"></div>
-      <p><strong>2024:</strong> Implementación de red municipal de atención integral.</p>
-    </div>
-    <div class="timeline-item">
-      <div class="timeline-marker"></div>
-      <p><strong>2025:</strong> Evaluación de resultados y ampliación de recursos preventivos.</p>
-    </div>
-  </section>
+                <!-- Chart 6: Impacto Esperado Año 3 -->
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <h3>Proyección de Impacto - Año 3</h3>
+                        <span class="chart-badge badge-success">Objetivos del Programa</span>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="chartImpacto"></canvas>
+                    </div>
+                    <div class="chart-footer">
+                        <p class="chart-insight">🎯 Con intervención integral, proyección de mejoras significativas en todos los KPIs para Año 3.</p>
+                    </div>
+                </div>
+            </div>
 
-  <!-- ==== RESOURCES ==== -->
-  <section class="resources-grid">
-    <div class="resource-card">
-      <div class="resource-icon">📄</div>
-      <h4>Informe Anual 2025</h4>
-      <p class="resource-tag">Descargar PDF</p>
-    </div>
-    <div class="resource-card">
-      <div class="resource-icon">📊</div>
-      <h4>KPIs Actualizados</h4>
-      <p class="resource-tag">Última revisión: Octubre 2025</p>
-    </div>
-    <div class="resource-card">
-      <div class="resource-icon">💬</div>
-      <h4>Canales de Denuncia</h4>
-      <p class="resource-tag">Teléfono 016 - Atención 24h</p>
-    </div>
-  </section>
+            <!-- Phases Section -->
+            <section class="phases-section">
+                <h2 class="section-title">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2v20M2 12h20"/>
+                    </svg>
+                    Programa de 5 Fases Integradas
+                </h2>
+                
+                <div class="phases-grid" id="phasesGrid">
+                    <!-- Phases will be dynamically loaded -->
+                </div>
+            </section>
 
-  <!-- ==== FOOTER ==== -->
-  <footer class="dashboard-footer">
-    <div class="container">
-      <div class="footer-license">
-        <img src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" width="80" alt="Licencia CC BY-NC-ND 4.0">
-        <span>Licencia Creative Commons BY-NC-ND 4.0 – Clara 4.0 Community</span>
-      </div>
-      <div class="footer-social">
-        🌐 <a href="https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges" style="color:#eee;">Repositorio GitHub</a>
-      </div>
-    </div>
-  </footer>
+            <!-- Timeline -->
+            <section class="timeline-section">
+                <h2 class="section-title">Plan de Implementación (36 meses)</h2>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <div class="timeline-marker timeline-marker-prep"></div>
+                        <div class="timeline-content">
+                            <h4>Fase 0: Preparación (Meses -3 a 0)</h4>
+                            <ul>
+                                <li>Aprobación política y asignación presupuestaria</li>
+                                <li>Contratación equipo de coordinación</li>
+                                <li>Acondicionamiento de infraestructuras</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-marker timeline-marker-pilot"></div>
+                        <div class="timeline-content">
+                            <h4>Fase 1: Piloto (Meses 1-6) - 30% Operación</h4>
+                            <ul>
+                                <li>Puesta en marcha refugio ampliado</li>
+                                <li>Activación Mesa Técnica</li>
+                                <li>Atención a primeras 20 víctimas</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-marker timeline-marker-scale"></div>
+                        <div class="timeline-content">
+                            <h4>Fase 2: Escala Gradual (Meses 7-18) - 70% Operación</h4>
+                            <ul>
+                                <li>Ampliación a 70 víctimas en atención</li>
+                                <li>Lanzamiento programa educativo (50% centros)</li>
+                                <li>Inicio programa agresores</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="timeline-item">
+                        <div class="timeline-marker timeline-marker-full"></div>
+                        <div class="timeline-content">
+                            <h4>Fase 3: Consolidación (Meses 19-36) - 100% Operación</h4>
+                            <ul>
+                                <li>Operación a plena capacidad (120 víctimas/año)</li>
+                                <li>Programa educativo en 100% centros</li>
+                                <li>Evaluación de impacto trienal externa</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
 
-  <!-- Script principal -->
-  <script src="script.js" defer></script>
+            <!-- Resources Section -->
+            <section class="resources-section">
+                <h2 class="section-title">🆘 Recursos de Emergencia</h2>
+                <div class="resources-grid">
+                    <div class="resource-card">
+                        <div class="resource-icon">📞</div>
+                        <h4>016</h4>
+                        <p>Atención VG 24/7 (España)</p>
+                        <span class="resource-tag">No deja rastro en factura</span>
+                    </div>
+                    <div class="resource-card">
+                        <div class="resource-icon">💬</div>
+                        <h4>600 000 016</h4>
+                        <p>WhatsApp 016</p>
+                        <span class="resource-tag">Mensajería instantánea</span>
+                    </div>
+                    <div class="resource-card">
+                        <div class="resource-icon">🚨</div>
+                        <h4>112</h4>
+                        <p>Emergencias</p>
+                        <span class="resource-tag">Peligro inmediato</span>
+                    </div>
+                    <div class="resource-card">
+                        <div class="resource-icon">📧</div>
+                        <h4>016-online</h4>
+                        <p>016-online@igualdad.gob.es</p>
+                        <span class="resource-tag">Consultas por email</span>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="dashboard-footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-left">
+                    <p><strong>Challenge 5: Sistema Integral contra Violencia de Género</strong></p>
+                    <p class="footer-meta">Clara 4.0 Community | Modo: [$P] Consultor | Score: 95.4/100 🏆 Outstanding</p>
+                    <p class="footer-license">
+                        <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">
+                            <img src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" alt="Licencia Creative Commons">
+                        </a>
+                        CC BY-NC-ND 4.0
+                    </p>
+                </div>
+                <div class="footer-right">
+                    <p class="footer-disclaimer">⚠️ Este es un ejercicio de análisis estratégico. NO sustituye asesoramiento profesional. Ante situación de violencia: <strong>016</strong></p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts al final para asegurar carga correcta -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script src="script.js"></script>
 </body>
-        </html>
+                      </html>

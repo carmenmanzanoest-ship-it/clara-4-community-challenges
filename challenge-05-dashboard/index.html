@@ -26,7 +26,11 @@
             --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
         }
 
-        * { margin: 0; padding: 0; box-sizing: border-box; }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
         body {
             font-family: var(--font-sans);
@@ -37,7 +41,11 @@
             min-height: 100vh;
         }
 
-        .container { max-width: 1400px; margin: 0 auto; padding: 0 1.5rem; }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
 
         /* === HEADER === */
         .dashboard-header {
@@ -45,87 +53,326 @@
             color: white;
             padding: 2rem 0;
             box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
-            position: sticky; top: 0; z-index: 100;
+            position: sticky;
+            top: 0;
+            z-index: 100;
         }
 
-        .header-content { display: flex; justify-content: space-between; align-items: center; gap: 1.5rem; flex-wrap: wrap; }
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+        }
 
-        .header-left { display: flex; align-items: center; gap: 1rem; }
+        .header-left {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
 
-        .logo { width: 50px; height: 50px; background: rgba(255,255,255,0.2); border-radius:0.75rem; display:flex; align-items:center; justify-content:center; font-size:1.5rem; }
+        .logo {
+            width: 50px;
+            height: 50px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 0.75rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+        }
 
-        .header-text h1 { font-size:1.75rem; font-weight:700; margin-bottom:0.25rem; }
+        .header-text h1 {
+            font-size: 1.75rem;
+            font-weight: 700;
+            margin-bottom: 0.25rem;
+        }
 
-        .subtitle { font-size:0.875rem; opacity:0.9; }
+        .subtitle {
+            font-size: 0.875rem;
+            opacity: 0.9;
+        }
 
-        .badge { padding:0.5rem 1rem; border-radius:0.5rem; font-size:0.875rem; font-weight:600; background: rgba(255,255,255,0.3); border:2px solid rgba(255,255,255,0.5); }
+        .badge {
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            font-size: 0.875rem;
+            font-weight: 600;
+            background: rgba(255, 255, 255, 0.3);
+            border: 2px solid rgba(255, 255, 255, 0.5);
+        }
 
         /* === ALERTS === */
-        .alerts-section { padding: 1.5rem 0; }
+        .alerts-section {
+            padding: 1.5rem 0;
+        }
 
-        .alert { display:flex; align-items:flex-start; gap:1rem; padding:1rem 1.5rem; border-radius:0.75rem; border-left:4px solid var(--critical-red); background:#fee2e2; color:#7f1d1d; }
+        .alert {
+            display: flex;
+            align-items: flex-start;
+            gap: 1rem;
+            padding: 1rem 1.5rem;
+            border-radius: 0.75rem;
+            border-left: 4px solid var(--critical-red);
+            background: #fee2e2;
+            color: #7f1d1d;
+        }
 
         /* === KPI CARDS === */
-        .kpi-grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(250px,1fr)); gap:1.5rem; margin:2rem 0; }
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin: 2rem 0;
+        }
 
-        .kpi-card { background:white; border-radius:0.75rem; padding:1.5rem; box-shadow:0 4px 6px -1px rgba(0,0,0,0.1); display:flex; align-items:center; gap:1rem; transition: transform 0.2s; border-left:4px solid; }
+        .kpi-card {
+            background: white;
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            transition: transform 0.2s;
+            border-left: 4px solid;
+        }
 
-        .kpi-card:hover { transform: translateY(-4px); box-shadow:0 20px 25px -5px rgba(0,0,0,0.1); }
+        .kpi-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+        }
 
         .kpi-critical { border-color: var(--critical-red); }
         .kpi-warning { border-color: var(--warning-orange); }
         .kpi-success { border-color: var(--success-green); }
         .kpi-info { border-color: var(--info-blue); }
 
-        .kpi-icon { font-size:2rem; width:60px; height:60px; display:flex; align-items:center; justify-content:center; background: var(--gray-50); border-radius:0.5rem; }
+        .kpi-icon {
+            font-size: 2rem;
+            width: 60px;
+            height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: var(--gray-50);
+            border-radius: 0.5rem;
+        }
 
-        .kpi-label { font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em; color: var(--gray-600); font-weight:600; }
-        .kpi-value { font-size:2rem; font-weight:700; color: var(--gray-900); line-height:1; }
-        .kpi-change { font-size:0.875rem; font-weight:600; color: var(--critical-red); margin-top:0.5rem; }
-        .kpi-meta { font-size:0.75rem; color: var(--gray-600); margin-top:0.25rem; }
+        .kpi-label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--gray-600);
+            font-weight: 600;
+        }
+
+        .kpi-value {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--gray-900);
+            line-height: 1;
+        }
+
+        .kpi-change {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: var(--critical-red);
+            margin-top: 0.5rem;
+        }
+
+        .kpi-meta {
+            font-size: 0.75rem;
+            color: var(--gray-600);
+            margin-top: 0.25rem;
+        }
 
         /* === CHARTS === */
-        .charts-grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(450px,1fr)); gap:2rem; margin:2rem 0; }
+        .charts-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+            gap: 2rem;
+            margin: 2rem 0;
+        }
 
-        .chart-card { background:white; border-radius:1rem; padding:2rem; box-shadow:0 10px 15px -3px rgba(0,0,0,0.1); }
-        .chart-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:1.5rem; padding-bottom:1rem; border-bottom:2px solid var(--gray-100); }
-        .chart-header h3 { font-size:1.125rem; font-weight:700; }
-        .chart-badge { padding:0.5rem 1rem; border-radius:0.5rem; font-size:0.75rem; font-weight:600; text-transform:uppercase; }
-        .badge-critical { background:#fee2e2; color: var(--critical-red); }
-        .badge-warning { background:#ffedd5; color: var(--warning-orange); }
-        .badge-success { background:#d1fae5; color: var(--success-green); }
-        .badge-info { background:#dbeafe; color: var(--info-blue); }
-        .chart-container { position:relative; height:350px; margin-bottom:1rem; }
-        .chart-footer { padding-top:1rem; border-top:2px solid var(--gray-100); font-size:0.875rem; color: var(--gray-700); }
+        .chart-card {
+            background: white;
+            border-radius: 1rem;
+            padding: 2rem;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+        }
+
+        .chart-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1.5rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid var(--gray-100);
+        }
+
+        .chart-header h3 {
+            font-size: 1.125rem;
+            font-weight: 700;
+        }
+
+        .chart-badge {
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .badge-critical { background: #fee2e2; color: var(--critical-red); }
+        .badge-warning { background: #ffedd5; color: var(--warning-orange); }
+        .badge-success { background: #d1fae5; color: var(--success-green); }
+        .badge-info { background: #dbeafe; color: var(--info-blue); }
+
+        .chart-container {
+            position: relative;
+            height: 350px;
+            margin-bottom: 1rem;
+        }
+
+        .chart-footer {
+            padding-top: 1rem;
+            border-top: 2px solid var(--gray-100);
+            font-size: 0.875rem;
+            color: var(--gray-700);
+        }
 
         /* === PHASES === */
-        .section-title { font-size:1.75rem; font-weight:700; margin:3rem 0 2rem 0; display:flex; align-items:center; gap:1rem; }
-        .phases-grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(300px,1fr)); gap:1.5rem; margin-bottom:3rem; }
-        .phase-card { background:white; border-radius:0.75rem; padding:2rem; box-shadow:0 4px 6px -1px rgba(0,0,0,0.1); border-top:4px solid var(--primary-purple); }
-        .phase-card:hover { transform:translateY(-6px); box-shadow:0 20px 25px -5px rgba(0,0,0,0.1); }
-        .phase-header { display:flex; gap:1rem; margin-bottom:1.5rem; }
-        .phase-number { width:48px; height:48px; background:linear-gradient(135deg, var(--primary-purple), var(--primary-pink)); color:white; border-radius:0.5rem; display:flex; align-items:center; justify-content:center; font-size:1.25rem; font-weight:700; flex-shrink:0; }
-        .phase-title-group h4 { font-size:1.125rem; font-weight:700; margin-bottom:0.25rem; }
-        .phase-objective { font-size:0.875rem; color: var(--gray-600); font-style:italic; }
-        .phase-description { font-size:0.875rem; line-height:1.6; margin-bottom:1.5rem; }
-        .phase-actions ul { list-style:none; margin-bottom:1rem; }
-        .phase-actions li { font-size:0.875rem; padding-left:1.5rem; position:relative; margin-bottom:0.5rem; }
-        .phase-actions li::before { content:'✓'; position:absolute; left:0; color: var(--success-green); font-weight:700; }
-        .phase-meta { display:flex; flex-wrap:wrap; gap:0.5rem; }
-        .phase-tag { padding:0.5rem 1rem; background: var(--light-purple); color: var(--dark-purple); border-radius:0.5rem; font-size:0.75rem; font-weight:600; }
+        .section-title {
+            font-size: 1.75rem;
+            font-weight: 700;
+            margin: 3rem 0 2rem 0;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .phases-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+
+        .phase-card {
+            background: white;
+            border-radius: 0.75rem;
+            padding: 2rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            border-top: 4px solid var(--primary-purple);
+        }
+
+        .phase-card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+        }
+
+        .phase-header {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .phase-number {
+            width: 48px;
+            height: 48px;
+            background: linear-gradient(135deg, var(--primary-purple), var(--primary-pink));
+            color: white;
+            border-radius: 0.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.25rem;
+            font-weight: 700;
+            flex-shrink: 0;
+        }
+
+        .phase-title-group h4 {
+            font-size: 1.125rem;
+            font-weight: 700;
+            margin-bottom: 0.25rem;
+        }
+
+        .phase-objective {
+            font-size: 0.875rem;
+            color: var(--gray-600);
+            font-style: italic;
+        }
+
+        .phase-description {
+            font-size: 0.875rem;
+            line-height: 1.6;
+            margin-bottom: 1.5rem;
+        }
+
+        .phase-actions ul {
+            list-style: none;
+            margin-bottom: 1rem;
+        }
+
+        .phase-actions li {
+            font-size: 0.875rem;
+            padding-left: 1.5rem;
+            position: relative;
+            margin-bottom: 0.5rem;
+        }
+
+        .phase-actions li::before {
+            content: '✓';
+            position: absolute;
+            left: 0;
+            color: var(--success-green);
+            font-weight: 700;
+        }
+
+        .phase-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .phase-tag {
+            padding: 0.5rem 1rem;
+            background: var(--light-purple);
+            color: var(--dark-purple);
+            border-radius: 0.5rem;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
 
         /* === FOOTER === */
-        .dashboard-footer { background: var(--gray-900); color:white; padding:2rem 0; margin-top:3rem; text-align:center; }
-        .footer-content { font-size:0.875rem; opacity:0.9; }
+        .dashboard-footer {
+            background: var(--gray-900);
+            color: white;
+            padding: 2rem 0;
+            margin-top: 3rem;
+            text-align: center;
+        }
 
-        @media(max-width:768px) {
-            .charts-grid { grid-template-columns:1fr; }
-            .header-content { flex-direction:column; text-align:center; }
+        .footer-content {
+            font-size: 0.875rem;
+            opacity: 0.9;
+        }
+
+        @media (max-width: 768px) {
+            .charts-grid {
+                grid-template-columns: 1fr;
+            }
+            .header-content {
+                flex-direction: column;
+                text-align: center;
+            }
         }
     </style>
 </head>
 <body>
-    <!-- HEADER -->
+    <!-- Header -->
     <header class="dashboard-header">
         <div class="container">
             <div class="header-content">
@@ -143,7 +390,7 @@
         </div>
     </header>
 
-    <!-- ALERTS -->
+    <!-- Alerts -->
     <section class="alerts-section">
         <div class="container">
             <div class="alert">
@@ -152,12 +399,12 @@
         </div>
     </section>
 
-    <!-- MAIN DASHBOARD -->
+    <!-- Main Dashboard -->
     <main class="dashboard-main">
         <div class="container">
-            <!-- KPI CARDS -->
+            
+            <!-- KPI Cards -->
             <div class="kpi-grid">
-                <!-- Denuncias -->
                 <div class="kpi-card kpi-critical">
                     <div class="kpi-icon">📊</div>
                     <div class="kpi-content">
@@ -166,7 +413,7 @@
                         <div class="kpi-change">↑ +34% vs 2024</div>
                     </div>
                 </div>
-                <!-- Feminicidios -->
+
                 <div class="kpi-card kpi-critical">
                     <div class="kpi-icon">⚠️</div>
                     <div class="kpi-content">
@@ -175,7 +422,7 @@
                         <div class="kpi-meta">Meta: 0</div>
                     </div>
                 </div>
-                <!-- Tiempo Respuesta -->
+
                 <div class="kpi-card kpi-warning">
                     <div class="kpi-icon">⏱️</div>
                     <div class="kpi-content">
@@ -184,7 +431,7 @@
                         <div class="kpi-meta">Meta: &lt;24h</div>
                     </div>
                 </div>
-                <!-- Reincidencia -->
+
                 <div class="kpi-card kpi-critical">
                     <div class="kpi-icon">🔄</div>
                     <div class="kpi-content">
@@ -193,7 +440,7 @@
                         <div class="kpi-meta">Meta: &lt;35%</div>
                     </div>
                 </div>
-                <!-- Órdenes Activas -->
+
                 <div class="kpi-card kpi-warning">
                     <div class="kpi-icon">🛡️</div>
                     <div class="kpi-content">
@@ -202,7 +449,7 @@
                         <div class="kpi-change">↑ +53% vs 2024</div>
                     </div>
                 </div>
-                <!-- Cumplimiento Órdenes -->
+
                 <div class="kpi-card kpi-critical">
                     <div class="kpi-icon">✓</div>
                     <div class="kpi-content">
@@ -211,7 +458,7 @@
                         <div class="kpi-meta">Meta: ≥85%</div>
                     </div>
                 </div>
-                <!-- Víctimas Atendidas -->
+
                 <div class="kpi-card kpi-info">
                     <div class="kpi-icon">👥</div>
                     <div class="kpi-content">
@@ -220,7 +467,7 @@
                         <div class="kpi-meta">Programa IPI</div>
                     </div>
                 </div>
-                <!-- Presupuesto -->
+
                 <div class="kpi-card kpi-success">
                     <div class="kpi-icon">💰</div>
                     <div class="kpi-content">
@@ -231,7 +478,7 @@
                 </div>
             </div>
 
-            <!-- CHARTS -->
+            <!-- Charts -->
             <div class="charts-grid">
                 <div class="chart-card">
                     <div class="chart-header">
@@ -242,7 +489,7 @@
                         <canvas id="chartDenuncias"></canvas>
                     </div>
                     <div class="chart-footer">
-                        📈 Incremento sostenido: +11% (2024) y +21% (2025).
+                        📈 Incremento sostenido: +11% (2024) y +21% (2025). Indica mayor concienciación en denuncias o aumento real de violencia.
                     </div>
                 </div>
 
@@ -255,7 +502,7 @@
                         <canvas id="chartKPIs"></canvas>
                     </div>
                     <div class="chart-footer">
-                        🎯 Ningún KPI crítico alcanza meta actual.
+                        🎯 Ningún KPI crítico alcanza meta actual. Intervención integral urgente necesaria.
                     </div>
                 </div>
 
@@ -265,4 +512,301 @@
                         <span class="chart-badge badge-info">5 Fases Integradas</span>
                     </div>
                     <div class="chart-container">
-                        <canvas id="    
+                        <canvas id="chartPresupuesto"></canvas>
+                    </div>
+                    <div class="chart-footer">
+                        💰 Mayor inversión en Respuesta Inmediata (33%) y Atención Integral (24%).
+                    </div>
+                </div>
+
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <h3>Tasa de Reincidencia de Agresores</h3>
+                        <span class="chart-badge badge-critical">Empeorando</span>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="chartReincidencia"></canvas>
+                    </div>
+                    <div class="chart-footer">
+                        🔄 Reincidencia aumenta de 64% (2023) a 67% (2025). Programa de intervención con agresores crítico.
+                    </div>
+                </div>
+
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <h3>Órdenes de Alejamiento</h3>
+                        <span class="chart-badge badge-warning">Baja Efectividad</span>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="chartOrdenes"></canvas>
+                    </div>
+                    <div class="chart-footer">
+                        ⚖️ 156 órdenes activas pero solo 41% cumplimiento.
+                    </div>
+                </div>
+
+                <div class="chart-card">
+                    <div class="chart-header">
+                        <h3>Proyección de Impacto - Año 3</h3>
+                        <span class="chart-badge badge-success">Objetivos del Programa</span>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="chartImpacto"></canvas>
+                    </div>
+                    <div class="chart-footer">
+                        🎯 Con intervención integral, proyección de mejoras significativas en todos los KPIs.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Phases Section -->
+            <section class="phases-section">
+                <h2 class="section-title">📋 Programa de 5 Fases Integradas</h2>
+                <div class="phases-grid" id="phasesGrid"></div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="dashboard-footer">
+        <div class="container">
+            <div class="footer-content">
+                <p><strong>Challenge 5: Sistema Integral contra Violencia de Género</strong></p>
+                <p>Clara 4.0 Community | Modo: [$P] Consultor | Score: 95.4/100 🏆 Outstanding</p>
+                <p style="margin-top: 1rem;">⚠️ Este es un ejercicio de análisis estratégico. NO sustituye asesoramiento profesional. Ante situación de violencia: <strong>016</strong></p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script>
+        // Datos del dashboard
+        const data = {
+            denuncias: { years: ['2023', '2024', '2025'], values: [632, 701, 847] },
+            kpis: {
+                labels: ['Tiempo Resp', 'Reincidencia', 'Cumplimiento', 'Completan'],
+                actual: [72, 67, 41, 23],
+                meta: [24, 35, 85, 70]
+            },
+            presupuesto: {
+                labels: ['Prevención', 'Detección', 'Respuesta', 'Atención', 'Agresores'],
+                values: [180000, 120000, 280000, 200000, 70000]
+            },
+            reincidencia: { years: ['2023', '2024', '2025'], values: [64, 65, 67] },
+            ordenes: {
+                years: ['2023', '2024', '2025'],
+                activas: [89, 102, 156],
+                cumplimiento: [45, 43, 41]
+            },
+                        impacto: {
+                labels: ['Denuncias', 'Reincidencia', 'Tiempo Resp.', 'Completan', 'Feminicidios'],
+                actual: [100, 67, 72, 23, 3],
+                proyeccion: [70, 35, 24, 70, 0]
+            }
+        };
+
+        // === CHART 1: Denuncias ===
+        new Chart(document.getElementById('chartDenuncias'), {
+            type: 'line',
+            data: {
+                labels: data.denuncias.years,
+                datasets: [{
+                    label: 'Denuncias',
+                    data: data.denuncias.values,
+                    borderColor: '#dc2626',
+                    backgroundColor: 'rgba(220,38,38,0.2)',
+                    fill: true,
+                    tension: 0.3
+                }]
+            },
+            options: { responsive: true, plugins: { legend: { display: false } } }
+        });
+
+        // === CHART 2: KPIs ===
+        new Chart(document.getElementById('chartKPIs'), {
+            type: 'bar',
+            data: {
+                labels: data.kpis.labels,
+                datasets: [
+                    {
+                        label: 'Actual',
+                        data: data.kpis.actual,
+                        backgroundColor: '#ef4444'
+                    },
+                    {
+                        label: 'Meta',
+                        data: data.kpis.meta,
+                        backgroundColor: '#10b981'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                scales: { y: { beginAtZero: true } },
+                plugins: { legend: { position: 'bottom' } }
+            }
+        });
+
+        // === CHART 3: Presupuesto ===
+        new Chart(document.getElementById('chartPresupuesto'), {
+            type: 'doughnut',
+            data: {
+                labels: data.presupuesto.labels,
+                datasets: [{
+                    data: data.presupuesto.values,
+                    backgroundColor: ['#a78bfa','#f9a8d4','#c084fc','#f472b6','#d8b4fe']
+                }]
+            },
+            options: { plugins: { legend: { position: 'right' } } }
+        });
+
+        // === CHART 4: Reincidencia ===
+        new Chart(document.getElementById('chartReincidencia'), {
+            type: 'line',
+            data: {
+                labels: data.reincidencia.years,
+                datasets: [{
+                    label: 'Tasa Reincidencia',
+                    data: data.reincidencia.values,
+                    borderColor: '#f87171',
+                    backgroundColor: 'rgba(248,113,113,0.2)',
+                    fill: true,
+                    tension: 0.3
+                }]
+            },
+            options: { responsive: true, plugins: { legend: { display: false } } }
+        });
+
+        // === CHART 5: Órdenes de Alejamiento ===
+        new Chart(document.getElementById('chartOrdenes'), {
+            type: 'bar',
+            data: {
+                labels: data.ordenes.years,
+                datasets: [
+                    {
+                        label: 'Órdenes Activas',
+                        data: data.ordenes.activas,
+                        backgroundColor: '#818cf8'
+                    },
+                    {
+                        label: 'Cumplimiento (%)',
+                        data: data.ordenes.cumplimiento,
+                        backgroundColor: '#fbbf24'
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                scales: { y: { beginAtZero: true } },
+                plugins: { legend: { position: 'bottom' } }
+            }
+        });
+
+        // === CHART 6: Impacto Proyectado ===
+        new Chart(document.getElementById('chartImpacto'), {
+            type: 'radar',
+            data: {
+                labels: data.impacto.labels,
+                datasets: [
+                    {
+                        label: 'Situación Actual',
+                        data: data.impacto.actual,
+                        borderColor: '#ef4444',
+                        backgroundColor: 'rgba(239,68,68,0.2)'
+                    },
+                    {
+                        label: 'Proyección Año 3',
+                        data: data.impacto.proyeccion,
+                        borderColor: '#10b981',
+                        backgroundColor: 'rgba(16,185,129,0.2)'
+                    }
+                ]
+            },
+            options: { plugins: { legend: { position: 'bottom' } } }
+        });
+
+        // === FASES DEL PROGRAMA ===
+        const fases = [
+            {
+                numero: 1,
+                titulo: 'Prevención y Sensibilización',
+                objetivo: 'Reducir incidencia mediante campañas educativas sostenidas.',
+                acciones: [
+                    'Programas escolares de sensibilización de género.',
+                    'Campañas en medios locales y redes.',
+                    'Eventos comunitarios y talleres para hombres.'
+                ],
+                tags: ['Educación', 'Comunidad', 'Comunicación']
+            },
+            {
+                numero: 2,
+                titulo: 'Detección Temprana',
+                objetivo: 'Identificar casos antes de la escalada de violencia.',
+                acciones: [
+                    'Formación de personal sanitario y educativo.',
+                    'Integración de protocolos de detección en servicios sociales.',
+                    'Canal de alerta temprana anónimo y accesible.'
+                ],
+                tags: ['Salud', 'Formación', 'Protocolos']
+            },
+            {
+                numero: 3,
+                titulo: 'Respuesta Inmediata',
+                objetivo: 'Garantizar protección en menos de 24 horas.',
+                acciones: [
+                    'Refuerzo de unidades policiales 24/7.',
+                    'Puntos de atención rápida en hospitales.',
+                    'Coordinación inmediata con juzgados de guardia.'
+                ],
+                tags: ['Seguridad', 'Justicia', 'Emergencia']
+            },
+            {
+                numero: 4,
+                titulo: 'Atención Integral a Víctimas',
+                objetivo: 'Acompañamiento psicológico, jurídico y social integral.',
+                acciones: [
+                    'Centros de atención integral y refugios seguros.',
+                    'Asistencia jurídica gratuita inmediata.',
+                    'Plan personalizado de reintegración social y laboral.'
+                ],
+                tags: ['Salud Mental', 'Bienestar', 'Empoderamiento']
+            },
+            {
+                numero: 5,
+                titulo: 'Reeducación de Agresores',
+                objetivo: 'Disminuir reincidencia a través de intervención conductual.',
+                acciones: [
+                    'Programas psicológicos de gestión de ira.',
+                    'Supervisión judicial de cumplimiento.',
+                    'Mediación supervisada cuando sea clínicamente viable.'
+                ],
+                tags: ['Psicología', 'Rehabilitación', 'Supervisión']
+            }
+        ];
+
+        const grid = document.getElementById('phasesGrid');
+        fases.forEach(phase => {
+            const card = document.createElement('div');
+            card.className = 'phase-card';
+            card.innerHTML = `
+                <div class="phase-header">
+                    <div class="phase-number">${phase.numero}</div>
+                    <div class="phase-title-group">
+                        <h4>${phase.titulo}</h4>
+                        <p class="phase-objective">${phase.objetivo}</p>
+                    </div>
+                </div>
+                <div class="phase-description">
+                    <div class="phase-actions">
+                        <ul>${phase.acciones.map(a => `<li>${a}</li>`).join('')}</ul>
+                    </div>
+                    <div class="phase-meta">
+                        ${phase.tags.map(t => `<span class="phase-tag">${t}</span>`).join('')}
+                    </div>
+                </div>
+            `;
+            grid.appendChild(card);
+        });
+    </script>
+</body>
+</html>

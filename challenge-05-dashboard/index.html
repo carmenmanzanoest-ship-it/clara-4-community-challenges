@@ -4,149 +4,223 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dashboard - Sistema Integral contra Violencia de Género | Challenge 5</title>
-    <link rel="stylesheet" href="style.css">
+    <style>
+        /* === VARIABLES === */
+        :root {
+            --primary-purple: #7c3aed;
+            --primary-pink: #ec4899;
+            --dark-purple: #5b21b6;
+            --light-purple: #f3e8ff;
+            --critical-red: #dc2626;
+            --warning-orange: #ea580c;
+            --success-green: #059669;
+            --info-blue: #2563eb;
+            --gray-50: #f9fafb;
+            --gray-100: #f3f4f6;
+            --gray-200: #e5e7eb;
+            --gray-300: #d1d5db;
+            --gray-600: #4b5563;
+            --gray-700: #374151;
+            --gray-800: #1f2937;
+            --gray-900: #111827;
+            --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: var(--font-sans);
+            font-size: 16px;
+            line-height: 1.6;
+            color: var(--gray-800);
+            background: linear-gradient(135deg, var(--gray-50) 0%, #ffffff 100%);
+            min-height: 100vh;
+        }
+
+        .container { max-width: 1400px; margin: 0 auto; padding: 0 1.5rem; }
+
+        /* === HEADER === */
+        .dashboard-header {
+            background: linear-gradient(135deg, var(--primary-purple) 0%, var(--primary-pink) 100%);
+            color: white;
+            padding: 2rem 0;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+            position: sticky; top: 0; z-index: 100;
+        }
+
+        .header-content { display: flex; justify-content: space-between; align-items: center; gap: 1.5rem; flex-wrap: wrap; }
+
+        .header-left { display: flex; align-items: center; gap: 1rem; }
+
+        .logo { width: 50px; height: 50px; background: rgba(255,255,255,0.2); border-radius:0.75rem; display:flex; align-items:center; justify-content:center; font-size:1.5rem; }
+
+        .header-text h1 { font-size:1.75rem; font-weight:700; margin-bottom:0.25rem; }
+
+        .subtitle { font-size:0.875rem; opacity:0.9; }
+
+        .badge { padding:0.5rem 1rem; border-radius:0.5rem; font-size:0.875rem; font-weight:600; background: rgba(255,255,255,0.3); border:2px solid rgba(255,255,255,0.5); }
+
+        /* === ALERTS === */
+        .alerts-section { padding: 1.5rem 0; }
+
+        .alert { display:flex; align-items:flex-start; gap:1rem; padding:1rem 1.5rem; border-radius:0.75rem; border-left:4px solid var(--critical-red); background:#fee2e2; color:#7f1d1d; }
+
+        /* === KPI CARDS === */
+        .kpi-grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(250px,1fr)); gap:1.5rem; margin:2rem 0; }
+
+        .kpi-card { background:white; border-radius:0.75rem; padding:1.5rem; box-shadow:0 4px 6px -1px rgba(0,0,0,0.1); display:flex; align-items:center; gap:1rem; transition: transform 0.2s; border-left:4px solid; }
+
+        .kpi-card:hover { transform: translateY(-4px); box-shadow:0 20px 25px -5px rgba(0,0,0,0.1); }
+
+        .kpi-critical { border-color: var(--critical-red); }
+        .kpi-warning { border-color: var(--warning-orange); }
+        .kpi-success { border-color: var(--success-green); }
+        .kpi-info { border-color: var(--info-blue); }
+
+        .kpi-icon { font-size:2rem; width:60px; height:60px; display:flex; align-items:center; justify-content:center; background: var(--gray-50); border-radius:0.5rem; }
+
+        .kpi-label { font-size:0.75rem; text-transform:uppercase; letter-spacing:0.05em; color: var(--gray-600); font-weight:600; }
+        .kpi-value { font-size:2rem; font-weight:700; color: var(--gray-900); line-height:1; }
+        .kpi-change { font-size:0.875rem; font-weight:600; color: var(--critical-red); margin-top:0.5rem; }
+        .kpi-meta { font-size:0.75rem; color: var(--gray-600); margin-top:0.25rem; }
+
+        /* === CHARTS === */
+        .charts-grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(450px,1fr)); gap:2rem; margin:2rem 0; }
+
+        .chart-card { background:white; border-radius:1rem; padding:2rem; box-shadow:0 10px 15px -3px rgba(0,0,0,0.1); }
+        .chart-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:1.5rem; padding-bottom:1rem; border-bottom:2px solid var(--gray-100); }
+        .chart-header h3 { font-size:1.125rem; font-weight:700; }
+        .chart-badge { padding:0.5rem 1rem; border-radius:0.5rem; font-size:0.75rem; font-weight:600; text-transform:uppercase; }
+        .badge-critical { background:#fee2e2; color: var(--critical-red); }
+        .badge-warning { background:#ffedd5; color: var(--warning-orange); }
+        .badge-success { background:#d1fae5; color: var(--success-green); }
+        .badge-info { background:#dbeafe; color: var(--info-blue); }
+        .chart-container { position:relative; height:350px; margin-bottom:1rem; }
+        .chart-footer { padding-top:1rem; border-top:2px solid var(--gray-100); font-size:0.875rem; color: var(--gray-700); }
+
+        /* === PHASES === */
+        .section-title { font-size:1.75rem; font-weight:700; margin:3rem 0 2rem 0; display:flex; align-items:center; gap:1rem; }
+        .phases-grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(300px,1fr)); gap:1.5rem; margin-bottom:3rem; }
+        .phase-card { background:white; border-radius:0.75rem; padding:2rem; box-shadow:0 4px 6px -1px rgba(0,0,0,0.1); border-top:4px solid var(--primary-purple); }
+        .phase-card:hover { transform:translateY(-6px); box-shadow:0 20px 25px -5px rgba(0,0,0,0.1); }
+        .phase-header { display:flex; gap:1rem; margin-bottom:1.5rem; }
+        .phase-number { width:48px; height:48px; background:linear-gradient(135deg, var(--primary-purple), var(--primary-pink)); color:white; border-radius:0.5rem; display:flex; align-items:center; justify-content:center; font-size:1.25rem; font-weight:700; flex-shrink:0; }
+        .phase-title-group h4 { font-size:1.125rem; font-weight:700; margin-bottom:0.25rem; }
+        .phase-objective { font-size:0.875rem; color: var(--gray-600); font-style:italic; }
+        .phase-description { font-size:0.875rem; line-height:1.6; margin-bottom:1.5rem; }
+        .phase-actions ul { list-style:none; margin-bottom:1rem; }
+        .phase-actions li { font-size:0.875rem; padding-left:1.5rem; position:relative; margin-bottom:0.5rem; }
+        .phase-actions li::before { content:'✓'; position:absolute; left:0; color: var(--success-green); font-weight:700; }
+        .phase-meta { display:flex; flex-wrap:wrap; gap:0.5rem; }
+        .phase-tag { padding:0.5rem 1rem; background: var(--light-purple); color: var(--dark-purple); border-radius:0.5rem; font-size:0.75rem; font-weight:600; }
+
+        /* === FOOTER === */
+        .dashboard-footer { background: var(--gray-900); color:white; padding:2rem 0; margin-top:3rem; text-align:center; }
+        .footer-content { font-size:0.875rem; opacity:0.9; }
+
+        @media(max-width:768px) {
+            .charts-grid { grid-template-columns:1fr; }
+            .header-content { flex-direction:column; text-align:center; }
+        }
+    </style>
 </head>
 <body>
-    <!-- Header -->
+    <!-- HEADER -->
     <header class="dashboard-header">
         <div class="container">
             <div class="header-content">
                 <div class="header-left">
-                    <div class="logo">
-                        <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                            <path d="M12 2L2 7l10 5 10-5-10-5z"/>
-                            <path d="M2 17l10 5 10-5"/>
-                            <path d="M2 12l10 5 10-5"/>
-                        </svg>
-                    </div>
+                    <div class="logo">🛡️</div>
                     <div class="header-text">
                         <h1>Sistema Integral contra Violencia de Género</h1>
                         <p class="subtitle">Challenge 5 | Clara 4.0 Community | Municipio 250,000 hab.</p>
                     </div>
                 </div>
                 <div class="header-right">
-                    <div class="status-badge">
-                        <span class="badge badge-outstanding">💎 Outstanding 95.4/100</span>
-                    </div>
+                    <span class="badge">💎 Outstanding 95.4/100</span>
                 </div>
             </div>
         </div>
     </header>
 
-    <!-- Alerts Section -->
+    <!-- ALERTS -->
     <section class="alerts-section">
         <div class="container">
-            <div class="alert alert-critical">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <circle cx="12" cy="12" r="10"/>
-                    <line x1="12" y1="8" x2="12" y2="12"/>
-                    <line x1="12" y1="16" x2="12.01" y2="16"/>
-                </svg>
-                <div>
-                    <strong>Situación Crítica:</strong> Incremento del 34% en denuncias | 3 feminicidios en 18 meses | Solo 23% de víctimas completan el proceso de protección
-                </div>
+            <div class="alert">
+                <div><strong>⚠️ Situación Crítica:</strong> Incremento del 34% en denuncias | 3 feminicidios en 18 meses | Solo 23% de víctimas completan el proceso de protección</div>
             </div>
         </div>
     </section>
 
-    <!-- Main Dashboard -->
+    <!-- MAIN DASHBOARD -->
     <main class="dashboard-main">
         <div class="container">
-            
-            <!-- Filters -->
-            <div class="filters-section">
-                <div class="filter-group">
-                    <label for="yearFilter">Año:</label>
-                    <select id="yearFilter" class="filter-select">
-                        <option value="all">Todos los años</option>
-                        <option value="2023">2023</option>
-                        <option value="2024">2024</option>
-                        <option value="2025" selected>2025</option>
-                    </select>
-                </div>
-                <div class="filter-group">
-                    <label for="phaseFilter">Fase:</label>
-                    <select id="phaseFilter" class="filter-select">
-                        <option value="all">Todas las fases</option>
-                        <option value="1">Fase 1: Prevención Primaria</option>
-                        <option value="2">Fase 2: Detección Precoz</option>
-                        <option value="3">Fase 3: Respuesta Inmediata</option>
-                        <option value="4">Fase 4: Atención Integral</option>
-                        <option value="5">Fase 5: Intervención Agresores</option>
-                    </select>
-                </div>
-                <button id="resetFilters" class="btn-secondary">Restablecer Filtros</button>
-            </div>
-
-            <!-- KPI Cards -->
+            <!-- KPI CARDS -->
             <div class="kpi-grid">
+                <!-- Denuncias -->
                 <div class="kpi-card kpi-critical">
                     <div class="kpi-icon">📊</div>
                     <div class="kpi-content">
                         <div class="kpi-label">Denuncias 2025</div>
-                        <div class="kpi-value" id="kpi-denuncias">847</div>
-                        <div class="kpi-change kpi-negative">
-                            <span class="arrow">↑</span> +34% vs 2024
-                        </div>
+                        <div class="kpi-value">847</div>
+                        <div class="kpi-change">↑ +34% vs 2024</div>
                     </div>
                 </div>
-
+                <!-- Feminicidios -->
                 <div class="kpi-card kpi-critical">
                     <div class="kpi-icon">⚠️</div>
                     <div class="kpi-content">
                         <div class="kpi-label">Feminicidios (18 meses)</div>
-                        <div class="kpi-value" id="kpi-feminicidios">3</div>
+                        <div class="kpi-value">3</div>
                         <div class="kpi-meta">Meta: 0</div>
                     </div>
                 </div>
-
+                <!-- Tiempo Respuesta -->
                 <div class="kpi-card kpi-warning">
                     <div class="kpi-icon">⏱️</div>
                     <div class="kpi-content">
                         <div class="kpi-label">Tiempo Respuesta</div>
-                        <div class="kpi-value" id="kpi-tiempo">72h</div>
+                        <div class="kpi-value">72h</div>
                         <div class="kpi-meta">Meta: &lt;24h</div>
                     </div>
                 </div>
-
+                <!-- Reincidencia -->
                 <div class="kpi-card kpi-critical">
                     <div class="kpi-icon">🔄</div>
                     <div class="kpi-content">
                         <div class="kpi-label">Reincidencia</div>
-                        <div class="kpi-value" id="kpi-reincidencia">67%</div>
+                        <div class="kpi-value">67%</div>
                         <div class="kpi-meta">Meta: &lt;35%</div>
                     </div>
                 </div>
-
+                <!-- Órdenes Activas -->
                 <div class="kpi-card kpi-warning">
                     <div class="kpi-icon">🛡️</div>
                     <div class="kpi-content">
                         <div class="kpi-label">Órdenes Activas</div>
-                        <div class="kpi-value" id="kpi-ordenes">156</div>
-                        <div class="kpi-change kpi-negative">
-                            <span class="arrow">↑</span> +53% vs 2024
-                        </div>
+                        <div class="kpi-value">156</div>
+                        <div class="kpi-change">↑ +53% vs 2024</div>
                     </div>
                 </div>
-
+                <!-- Cumplimiento Órdenes -->
                 <div class="kpi-card kpi-critical">
                     <div class="kpi-icon">✓</div>
                     <div class="kpi-content">
                         <div class="kpi-label">Cumplimiento Órdenes</div>
-                        <div class="kpi-value" id="kpi-cumplimiento">41%</div>
+                        <div class="kpi-value">41%</div>
                         <div class="kpi-meta">Meta: ≥85%</div>
                     </div>
                 </div>
-
+                <!-- Víctimas Atendidas -->
                 <div class="kpi-card kpi-info">
                     <div class="kpi-icon">👥</div>
                     <div class="kpi-content">
                         <div class="kpi-label">Víctimas Atendidas</div>
-                        <div class="kpi-value" id="kpi-victimas">120</div>
+                        <div class="kpi-value">120</div>
                         <div class="kpi-meta">Programa IPI</div>
                     </div>
                 </div>
-
+                <!-- Presupuesto -->
                 <div class="kpi-card kpi-success">
                     <div class="kpi-icon">💰</div>
                     <div class="kpi-content">
@@ -157,9 +231,8 @@
                 </div>
             </div>
 
-            <!-- Charts Section -->
+            <!-- CHARTS -->
             <div class="charts-grid">
-                <!-- Chart 1: Evolución Denuncias -->
                 <div class="chart-card">
                     <div class="chart-header">
                         <h3>Evolución de Denuncias (2023-2025)</h3>
@@ -169,11 +242,10 @@
                         <canvas id="chartDenuncias"></canvas>
                     </div>
                     <div class="chart-footer">
-                        <p class="chart-insight">📈 Incremento sostenido: +11% (2024) y +21% (2025). Indica mayor concienciación en denuncias o aumento real de violencia.</p>
+                        📈 Incremento sostenido: +11% (2024) y +21% (2025).
                     </div>
                 </div>
 
-                <!-- Chart 2: KPIs Actuales vs Metas -->
                 <div class="chart-card">
                     <div class="chart-header">
                         <h3>KPIs Actuales vs Metas Año 3</h3>
@@ -183,188 +255,14 @@
                         <canvas id="chartKPIs"></canvas>
                     </div>
                     <div class="chart-footer">
-                        <p class="chart-insight">🎯 Ningún KPI crítico alcanza meta actual. Intervención integral urgente necesaria.</p>
+                        🎯 Ningún KPI crítico alcanza meta actual.
                     </div>
                 </div>
 
-                <!-- Chart 3: Distribución Presupuestaria -->
                 <div class="chart-card">
                     <div class="chart-header">
-                        <h3>Distribución Presupuesto Anual (€850,000)</h3>
+                        <h3>Distribución Presupuesto Anual</h3>
                         <span class="chart-badge badge-info">5 Fases Integradas</span>
                     </div>
                     <div class="chart-container">
-                        <canvas id="chartPresupuesto"></canvas>
-                    </div>
-                    <div class="chart-footer">
-                        <p class="chart-insight">💰 Mayor inversión en Respuesta Inmediata (33%) y Atención Integral (24%), equilibrando prevención y atención.</p>
-                    </div>
-                </div>
-
-                <!-- Chart 4: Reincidencia por Año -->
-                <div class="chart-card">
-                    <div class="chart-header">
-                        <h3>Tasa de Reincidencia de Agresores</h3>
-                        <span class="chart-badge badge-critical">Empeorando</span>
-                    </div>
-                    <div class="chart-container">
-                        <canvas id="chartReincidencia"></canvas>
-                    </div>
-                    <div class="chart-footer">
-                        <p class="chart-insight">🔄 Reincidencia aumenta de 64% (2023) a 67% (2025). Programa de intervención con agresores crítico.</p>
-                    </div>
-                </div>
-
-                <!-- Chart 5: Órdenes de Alejamiento -->
-                <div class="chart-card">
-                    <div class="chart-header">
-                        <h3>Órdenes de Alejamiento: Activas y Cumplimiento</h3>
-                        <span class="chart-badge badge-warning">Baja Efectividad</span>
-                    </div>
-                    <div class="chart-container">
-                        <canvas id="chartOrdenes"></canvas>
-                    </div>
-                    <div class="chart-footer">
-                        <p class="chart-insight">⚖️ 156 órdenes activas pero solo 41% cumplimiento. 59% incumplen sin consecuencias inmediatas.</p>
-                    </div>
-                </div>
-
-                <!-- Chart 6: Impacto Esperado Año 3 -->
-                <div class="chart-card">
-                    <div class="chart-header">
-                        <h3>Proyección de Impacto - Año 3</h3>
-                        <span class="chart-badge badge-success">Objetivos del Programa</span>
-                    </div>
-                    <div class="chart-container">
-                        <canvas id="chartImpacto"></canvas>
-                    </div>
-                    <div class="chart-footer">
-                        <p class="chart-insight">🎯 Con intervención integral, proyección de mejoras significativas en todos los KPIs para Año 3.</p>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Phases Section -->
-            <section class="phases-section">
-                <h2 class="section-title">
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <path d="M12 2v20M2 12h20"/>
-                    </svg>
-                    Programa de 5 Fases Integradas
-                </h2>
-                
-                <div class="phases-grid" id="phasesGrid">
-                    <!-- Phases will be dynamically loaded -->
-                </div>
-            </section>
-
-            <!-- Timeline -->
-            <section class="timeline-section">
-                <h2 class="section-title">Plan de Implementación (36 meses)</h2>
-                <div class="timeline">
-                    <div class="timeline-item">
-                        <div class="timeline-marker timeline-marker-prep"></div>
-                        <div class="timeline-content">
-                            <h4>Fase 0: Preparación (Meses -3 a 0)</h4>
-                            <ul>
-                                <li>Aprobación política y asignación presupuestaria</li>
-                                <li>Contratación equipo de coordinación</li>
-                                <li>Acondicionamiento de infraestructuras</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="timeline-item">
-                        <div class="timeline-marker timeline-marker-pilot"></div>
-                        <div class="timeline-content">
-                            <h4>Fase 1: Piloto (Meses 1-6) - 30% Operación</h4>
-                            <ul>
-                                <li>Puesta en marcha refugio ampliado</li>
-                                <li>Activación Mesa Técnica</li>
-                                <li>Atención a primeras 20 víctimas</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="timeline-item">
-                        <div class="timeline-marker timeline-marker-scale"></div>
-                        <div class="timeline-content">
-                            <h4>Fase 2: Escala Gradual (Meses 7-18) - 70% Operación</h4>
-                            <ul>
-                                <li>Ampliación a 70 víctimas en atención</li>
-                                <li>Lanzamiento programa educativo (50% centros)</li>
-                                <li>Inicio programa agresores</li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="timeline-item">
-                        <div class="timeline-marker timeline-marker-full"></div>
-                        <div class="timeline-content">
-                            <h4>Fase 3: Consolidación (Meses 19-36) - 100% Operación</h4>
-                            <ul>
-                                <li>Operación a plena capacidad (120 víctimas/año)</li>
-                                <li>Programa educativo en 100% centros</li>
-                                <li>Evaluación de impacto trienal externa</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Resources Section -->
-            <section class="resources-section">
-                <h2 class="section-title">🆘 Recursos de Emergencia</h2>
-                <div class="resources-grid">
-                    <div class="resource-card">
-                        <div class="resource-icon">📞</div>
-                        <h4>016</h4>
-                        <p>Atención VG 24/7 (España)</p>
-                        <span class="resource-tag">No deja rastro en factura</span>
-                    </div>
-                    <div class="resource-card">
-                        <div class="resource-icon">💬</div>
-                        <h4>600 000 016</h4>
-                        <p>WhatsApp 016</p>
-                        <span class="resource-tag">Mensajería instantánea</span>
-                    </div>
-                    <div class="resource-card">
-                        <div class="resource-icon">🚨</div>
-                        <h4>112</h4>
-                        <p>Emergencias</p>
-                        <span class="resource-tag">Peligro inmediato</span>
-                    </div>
-                    <div class="resource-card">
-                        <div class="resource-icon">📧</div>
-                        <h4>016-online</h4>
-                        <p>016-online@igualdad.gob.es</p>
-                        <span class="resource-tag">Consultas por email</span>
-                    </div>
-                </div>
-            </section>
-        </div>
-    </main>
-
-    <!-- Footer -->
-    <footer class="dashboard-footer">
-        <div class="container">
-            <div class="footer-content">
-                <div class="footer-left">
-                    <p><strong>Challenge 5: Sistema Integral contra Violencia de Género</strong></p>
-                    <p class="footer-meta">Clara 4.0 Community | Modo: [$P] Consultor | Score: 95.4/100 🏆 Outstanding</p>
-                    <p class="footer-license">
-                        <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="noopener">
-                            <img src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" alt="Licencia Creative Commons">
-                        </a>
-                        CC BY-NC-ND 4.0
-                    </p>
-                </div>
-                <div class="footer-right">
-                    <p class="footer-disclaimer">⚠️ Este es un ejercicio de análisis estratégico. NO sustituye asesoramiento profesional. Ante situación de violencia: <strong>016</strong></p>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <!-- Scripts al final para asegurar carga correcta -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
-    <script src="script.js"></script>
-</body>
-                      </html>
+                        <canvas id="    

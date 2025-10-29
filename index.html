@@ -369,9 +369,172 @@
                 text-align: center;
             }
         }
+  
+/* 👇 COPIAR TODO ESTE CSS AQUÍ 👇 */
+        
+        /* === RECURSOS DE EMERGENCIA === */
+        .resources-section {
+            margin: 3rem 0;
+        }
+
+        .resources-section .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+
+        .resources-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1.5rem;
+        }
+
+        .resource-card {
+            background: linear-gradient(135deg, #7c3aed, #ec4899);
+            color: white;
+            border-radius: 0.75rem;
+            padding: 2rem;
+            text-align: center;
+            transition: transform 0.2s;
+        }
+
+        .resource-card:hover {
+            transform: scale(1.05);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2);
+        }
+
+        .resource-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .resource-card h4 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+
+        .resource-card p {
+            font-size: 0.875rem;
+            opacity: 0.9;
+            margin-bottom: 1rem;
+        }
+
+        .resource-tag {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 0.5rem;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        /* === TIMELINE === */
+        .timeline-section {
+            margin: 3rem 0;
+        }
+
+        .timeline-section .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 1.5rem;
+        }
+
+        .timeline {
+            position: relative;
+            padding-left: 2rem;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 20px;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: linear-gradient(180deg, #7c3aed, #ec4899);
+        }
+
+        .timeline-item {
+            position: relative;
+            margin-bottom: 2rem;
+            padding-left: 3rem;
+        }
+
+        .timeline-marker {
+            position: absolute;
+            left: 8px;
+            top: 8px;
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            background: white;
+            border: 4px solid;
+            z-index: 1;
+        }
+
+        .timeline-marker-prep { border-color: #2563eb; }
+        .timeline-marker-pilot { border-color: #ea580c; }
+        .timeline-marker-scale { border-color: #7c3aed; }
+        .timeline-marker-full { border-color: #059669; }
+
+        .timeline-content {
+            background: white;
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        .timeline-content h4 {
+            font-size: 1.125rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            color: #1f2937;
+        }
+
+        .timeline-content ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .timeline-content li {
+            font-size: 0.875rem;
+            color: #4b5563;
+            padding-left: 1.5rem;
+            position: relative;
+            margin-bottom: 0.5rem;
+        }
+
+        .timeline-content li::before {
+            content: '•';
+            position: absolute;
+            left: 0;
+            color: #7c3aed;
+            font-weight: 700;
+            font-size: 1.2rem;
+        }
+
+        /* Responsive para las nuevas secciones */
+        @media (max-width: 768px) {
+            .resources-grid {
+                grid-template-columns: 1fr;
+            }
+            .timeline {
+                padding-left: 1rem;
+            }
+            .timeline-item {
+                padding-left: 2rem;
+            }
+        }
+        
+        /* 👆 HASTA AQUÍ 👆 */
+        
     </style>
 </head>
-<body>
+<body>    
+       
+    
     <!-- Header -->
     <header class="dashboard-header">
         <div class="container">

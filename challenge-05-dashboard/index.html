@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Dashboard del Challenge 5: Sistema Integral contra la Violencia de Género – Proyecto Clara 4.0 Community">
+  <meta name="author" content="Clara 4.0 Community">
+  <title>Challenge 5 – Sistema Integral contra Violencia de Género</title>
+
+  <!-- Favicon -->
+  <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/2597/2597808.png" type="image/png">
+
+  <!-- Fuente y estilos -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+  <!-- ==== HEADER ==== -->
+  <header class="dashboard-header">
+    <div class="container">
+      <div class="header-content">
+        <div class="header-left">
+          <div class="logo">
+            <img src="https://cdn-icons-png.flaticon.com/512/875/875643.png" alt="Logo Clara 4.0" width="48">
+          </div>
+          <div class="header-text">
+            <h1>Challenge 5: Sistema Integral contra Violencia de Género</h1>
+            <p class="subtitle">Municipio de 250,000 habitantes – Proyecto Clara 4.0 Community</p>
+          </div>
+        </div>
+        <div class="status-badge">
+          <span class="badge-outstanding">Release Activo v5.0</span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ==== ALERTS ==== -->
+  <section class="alerts-section">
+    <div class="alert">
+      ⚠️ <p><strong>Alerta:</strong> Incremento de denuncias en el primer trimestre de 2025 (+11,4%). Se recomienda fortalecer la red municipal de atención inmediata.</p>
+    </div>
+  </section>
+
+  <!-- ==== FILTERS ==== -->
+  <section class="filters-section">
+    <div class="filter-group">
+      <label for="year">Año:</label>
+      <select id="year" class="filter-select">
+        <option>2023</option>
+        <option>2024</option>
+        <option selected>2025</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="region">Zona:</label>
+      <select id="region" class="filter-select">
+        <option>Todas</option>
+        <option>Centro</option>
+        <option>Norte</option>
+        <option>Sur</option>
+      </select>
+    </div>
+
+    <button class="btn-secondary">Aplicar</button>
+  </section>
+
+  <!-- ==== KPI CARDS ==== -->
+  <section class="kpi-grid">
+    <div class="kpi-card kpi-critical">
+      <div class="kpi-icon">🚨</div>
+      <div class="kpi-label">Denuncias</div>
+      <div class="kpi-value">847</div>
+    </div>
+
+    <div class="kpi-card kpi-warning">
+      <div class="kpi-icon">⏳</div>
+      <div class="kpi-label">Cumplimiento Órdenes</div>
+      <div class="kpi-value">41%</div>
+    </div>
+
+    <div class="kpi-card kpi-info">
+      <div class="kpi-icon">📉</div>
+      <div class="kpi-label">Tasa Reincidencia</div>
+      <div class="kpi-value">67%</div>
+    </div>
+
+    <div class="kpi-card kpi-success">
+      <div class="kpi-icon">💶</div>
+      <div class="kpi-label">Presupuesto Ejecutado</div>
+      <div class="kpi-value">92%</div>
+    </div>
+  </section>
+
+  <!-- ==== CHARTS ==== -->
+  <section class="charts-grid">
+    <div class="chart-card">
+      <div class="chart-header">
+        <h3>📈 Denuncias por Año</h3>
+        <span class="chart-badge badge-critical">Crítico</span>
+      </div>
+      <canvas id="chartDenuncias"></canvas>
+      <p class="chart-insight">Aumento constante de denuncias: prioridad en prevención y educación comunitaria.</p>
+    </div>
+
+    <div class="chart-card">
+      <div class="chart-header">
+        <h3>🎯 KPIs vs Metas</h3>
+        <span class="chart-badge badge-warning">Desbalance</span>
+      </div>
+      <canvas id="chartKPIs"></canvas>
+      <p class="chart-insight">Se observa un bajo cumplimiento en órdenes y tiempos de respuesta aún elevados.</p>
+    </div>
+
+    <div class="chart-card">
+      <div class="chart-header">
+        <h3>💰 Distribución del Presupuesto</h3>
+        <span class="chart-badge badge-info">Análisis</span>
+      </div>
+      <canvas id="chartPresupuesto"></canvas>
+      <p class="chart-insight">Mayor inversión en respuesta inmediata y atención integral.</p>
+    </div>
+
+    <div class="chart-card">
+      <div class="chart-header">
+        <h3>📉 Evolución de la Reincidencia</h3>
+        <span class="chart-badge badge-warning">Atención</span>
+      </div>
+      <canvas id="chartReincidencia"></canvas>
+      <p class="chart-insight">Reincidencia en leve aumento: requiere programas de reinserción reforzados.</p>
+    </div>
+
+    <div class="chart-card">
+      <div class="chart-header">
+        <h3>📜 Órdenes Judiciales</h3>
+        <span class="chart-badge badge-info">Seguimiento</span>
+      </div>
+      <canvas id="chartOrdenes"></canvas>
+      <p class="chart-insight">El cumplimiento de órdenes de alejamiento se mantiene bajo.</p>
+    </div>
+
+    <div class="chart-card">
+      <div class="chart-header">
+        <h3>🌿 Impacto Esperado</h3>
+        <span class="chart-badge badge-success">Proyección</span>
+      </div>
+      <canvas id="chartImpacto"></canvas>
+      <p class="chart-insight">Proyección positiva hacia el tercer año con refuerzo institucional sostenido.</p>
+    </div>
+  </section>
+
+  <!-- ==== TIMELINE ==== -->
+  <section class="timeline">
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <p><strong>2023:</strong> Diagnóstico inicial del sistema y establecimiento de KPIs base.</p>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <p><strong>2024:</strong> Implementación de red municipal de atención integral.</p>
+    </div>
+    <div class="timeline-item">
+      <div class="timeline-marker"></div>
+      <p><strong>2025:</strong> Evaluación de resultados y ampliación de recursos preventivos.</p>
+    </div>
+  </section>
+
+  <!-- ==== RESOURCES ==== -->
+  <section class="resources-grid">
+    <div class="resource-card">
+      <div class="resource-icon">📄</div>
+      <h4>Informe Anual 2025</h4>
+      <p class="resource-tag">Descargar PDF</p>
+    </div>
+    <div class="resource-card">
+      <div class="resource-icon">📊</div>
+      <h4>KPIs Actualizados</h4>
+      <p class="resource-tag">Última revisión: Octubre 2025</p>
+    </div>
+    <div class="resource-card">
+      <div class="resource-icon">💬</div>
+      <h4>Canales de Denuncia</h4>
+      <p class="resource-tag">Teléfono 016 - Atención 24h</p>
+    </div>
+  </section>
+
+  <!-- ==== FOOTER ==== -->
+  <footer class="dashboard-footer">
+    <div class="container">
+      <div class="footer-license">
+        <img src="https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png" width="80" alt="Licencia CC BY-NC-ND 4.0">
+        <span>Licencia Creative Commons BY-NC-ND 4.0 – Clara 4.0 Community</span>
+      </div>
+      <div class="footer-social">
+        🌐 <a href="https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges" style="color:#eee;">Repositorio GitHub</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Script principal -->
+  <script src="script.js" defer></script>
+</body>
+        </html>

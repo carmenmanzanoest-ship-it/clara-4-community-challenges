@@ -2,7 +2,7 @@
 **Dashboard interactivo profesional para Challenge 5.**
 
 🔗 **Ver Dashboard**  
-- **Local:** abre el archivo [`index.html`](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/challenge-05-violencia-genero/index.html) en tu navegador.  
+- **Local:** abre el archivo [`index.html`](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/tree/main/challenge-05-violencia-genero) tu navegador.  
 - **Online (GitHub Pages):** [https://carmenmanzanoest-ship-it.github.io/clara-4-community-challenges/](https://carmenmanzanoest-ship-it.github.io/clara-4-community-challenges/)
 
 📸 **Vista Previa:**  

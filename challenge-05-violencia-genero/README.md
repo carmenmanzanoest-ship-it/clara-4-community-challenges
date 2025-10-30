@@ -7,6 +7,18 @@
 # 🚨 Challenge 5: Sistema Integral contra Violencia de Género - README.md
 
 
+
+## 📊 Dashboard Sistema Integral VG  
+**Dashboard interactivo profesional para Challenge 5.**
+
+📸 **Vista Previa:**  
+[![Dashboard Challenge 5](https://github.com/carmenmanzanoest-ship-it/clara-4-community-challenges/blob/main/assets/challenge-5-violencia-genero.jpg?raw=true)](https://carmenmanzanoest-ship-it.github.io/clara-4-community-challenges/)
+
+
+
+
+
+
 ## Dashboard
 
 [Acceder al Dashboard](https://carmenmanzanoest-ship-it.github.io/clara-4-community-challenges/)
